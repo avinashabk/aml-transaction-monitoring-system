@@ -68,6 +68,39 @@ Customers classified using:
 | < 70 | 🟢 Medium |
 
 ---
+##  Regulatory Alignment (FATF & EU AML Directives)
+
+This project aligns with key principles from the Financial Action Task Force (FATF) and EU Anti-Money Laundering Directives (AMLD 4/5/6).
+
+### FATF Recommendations Mapping
+
+- **Recommendation 10 – Customer Due Diligence (CDD)**  
+  → Incorporated via KYC attributes (PEP flag, sector risk, country risk)
+
+- **Recommendation 11 – Record Keeping**  
+  → Transaction dataset simulates historical transaction monitoring
+
+- **Recommendation 20 – Suspicious Transaction Reporting (STR)**  
+  → Rule-based detection (structuring, high velocity) generates alert signals
+
+- **Recommendation 12 – Politically Exposed Persons (PEPs)**  
+  → PEP flag included in risk scoring model
+
+---
+
+### EU AML Directives (AMLD 4/5/6)
+
+- **Risk-Based Approach**  
+  → Implemented through weighted risk scoring system
+
+- **Enhanced Due Diligence (EDD)**  
+  → High-risk customers receive higher alert priority
+
+- **Transaction Monitoring Requirements**  
+  → Continuous monitoring simulated via SQL-based rule engine
+
+---
+
 
 ##  Data Sources
 
