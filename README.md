@@ -13,7 +13,7 @@ The system integrates:
 
 ##  Dashboard Preview
 
-![AML Dashboard](aml-transaction-monitoring-system/images/dashboard_overview.png)
+![AML Dashboard](images/dashboard_overview.png)
 
 ---
 
