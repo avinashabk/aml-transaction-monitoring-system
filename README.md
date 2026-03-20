@@ -13,7 +13,7 @@ The system integrates:
 
 ##  Dashboard Preview
 
-![AML Dashboard](screenshots/dashboard_overview.png)
+![AML Dashboard](aml-transaction-monitoring-system/images/dashboard_overview.png)
 
 ---
 
@@ -90,27 +90,27 @@ Customers classified using:
 
 ##  Project Structure
 
-```bash
-aml-transaction-monitoring-system/
-│
-├── data/
-│   ├── transactions_sample.csv       
-│   ├── accounts_customers.csv       
-│   ├── clients.csv                   
-│
-├── sql/
-│   └── aml_queries.sql              
-│
-├── dashboard/
-│   └── (PBIX file via Google Drive) 
-│
-├── images/
-│   └── dashboard_overview.png                
-│
-└── README.md                        
+```
+
+ data/
+      transactions_sample.csv       
+      accounts_customers.csv       
+      clients.csv                   
+
+ sql/
+      aml_queries.sql              
+
+ dashboard/
+      (PBIX file via Google Drive) 
 
 
+ images/
+      dashboard_overview.png                
 
+ README.md                        
+
+
+```
 
 
 ---
