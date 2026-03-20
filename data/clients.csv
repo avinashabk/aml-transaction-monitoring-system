@@ -1,0 +1,2001 @@
+client_id,client_name,client_type,sector,sector_risk,country,pep_flag,sanctions_flag,fatf_country_flag,ofac_country_flag,sectoral_sanctions_flag,ownership_opacity_score,risk_tier,accounts_to_assign,accounts_to_assign_final,high_rank
+1,Wells-Turner,Financial Institution,NGO/Charity,High,JP,0,0,0,0,0,0,High,6,7,1
+2,"Goodman, Hendrix and Garcia",Financial Institution,Import/Export,Medium,CH,0,0,0,0,0,0,Medium,4,4,
+3,Phillips-Hanson,NGO,NGO/Charity,High,AE,0,1,0,0,0,0.5,High,6,7,2
+4,"Kim, Anderson and Espinoza",Financial Institution,Defense/Arms,High,RU,1,0,0,1,1,0,High,6,7,3
+5,Marks-Thompson,Financial Institution,Financial Services,Medium,AU,0,0,0,0,1,0,Medium,4,4,
+6,Jones Inc,Corporate,NGO/Charity,High,AE,0,0,0,0,0,1,High,6,7,4
+7,Lambert-Ruiz,Individual,Energy/Oil,High,US,0,0,0,0,1,0,High,6,7,5
+8,Thompson Inc,NGO,Consulting,Low,CA,0,0,0,0,0,0,Low,2,2,
+9,Vega-Randall,NGO,Financial Services,Medium,US,0,0,0,0,1,1,Medium,4,4,
+10,Edwards PLC,Corporate,Casino/Gambling,High,SY,0,0,0,1,0,0.5,High,6,7,6
+11,Solis-Kemp,NGO,NGO/Charity,High,AF,0,0,0,0,0,0,High,6,7,7
+12,Stein-Davis,NGO,Import/Export,Medium,SD,0,0,0,1,0,0.5,Medium,4,4,
+13,Gonzalez-Jenkins,Financial Institution,Retail,Low,NL,0,0,0,0,0,0,Low,2,2,
+14,Harris-Walker,Individual,Real Estate,Medium,RU,0,0,0,1,0,0,Medium,4,4,
+15,"Adkins, Howard and Mcdonald",Corporate,Energy/Oil,High,SG,0,0,0,0,1,0,High,6,7,8
+16,Estrada Ltd,Financial Institution,Energy/Oil,High,IR,0,0,1,1,1,0,High,6,7,9
+17,"Stein, Webb and Smith",Financial Institution,Defense/Arms,High,NL,0,0,0,0,1,0,High,6,7,10
+18,"Christian, Shepard and Wells",Financial Institution,Tech,Low,AE,1,0,0,0,0,0,High,6,7,11
+19,"James, Allen and Kim",Financial Institution,Defense/Arms,High,IN,0,0,0,0,1,0,High,6,7,12
+20,"Martinez, Griffin and Cox",Individual,Energy/Oil,High,DE,0,0,0,0,1,0,High,6,7,13
+21,Randall-Jones,Corporate,Consulting,Low,JP,0,0,0,0,0,0.5,Low,2,2,
+22,"Silva, Cherry and Klein",Individual,Casino/Gambling,High,UK,0,0,0,0,0,0,High,6,7,14
+23,Williams-Phillips,NGO,Financial Services,Medium,FR,0,0,0,0,1,0.5,Medium,4,4,
+24,"Frost, Hill and Kaufman",Corporate,Casino/Gambling,High,SY,0,0,0,1,0,0,High,6,7,15
+25,Shields PLC,Financial Institution,Crypto Exchange,High,SG,0,0,0,0,0,0,High,6,7,16
+26,Calderon Group,NGO,Crypto Exchange,High,IR,0,0,1,1,0,0,High,6,7,17
+27,"Bush, Stephens and York",Financial Institution,Energy/Oil,High,LB,0,0,0,0,1,0,High,6,7,18
+28,Villegas-Bishop,Financial Institution,Real Estate,Medium,IR,0,0,1,1,0,0,High,6,7,19
+29,Smith-Miller,Corporate,Import/Export,Medium,RU,0,0,0,1,0,0,Medium,4,4,
+30,"Moore, Ballard and Adams",NGO,Casino/Gambling,High,IR,0,0,1,1,0,1,High,6,7,20
+31,Brown Inc,NGO,Casino/Gambling,High,LB,0,0,0,0,0,0,High,6,7,21
+32,Murray PLC,Financial Institution,Financial Services,Medium,FR,0,0,0,0,1,0,Medium,4,4,
+33,Moss Ltd,Corporate,Real Estate,Medium,RU,0,0,0,1,0,0,Medium,4,4,
+34,Williams-Lawson,Financial Institution,Financial Services,Medium,AF,0,0,0,0,1,0,Medium,4,4,
+35,Washington-Johnson,Financial Institution,NGO/Charity,High,IR,0,0,1,1,0,0,High,6,7,22
+36,"Olson, Evans and Thomas",Individual,Crypto Exchange,High,IN,0,0,0,0,0,0,High,6,7,23
+37,"Miller, Berg and Rice",NGO,Energy/Oil,High,SD,0,0,0,1,1,0,High,6,7,24
+38,"Hubbard, Obrien and Davis",Corporate,Real Estate,Medium,VE,0,0,0,1,0,0.5,Medium,4,4,
+39,White-Scott,NGO,NGO/Charity,High,FR,0,0,0,0,0,0,High,6,7,25
+40,Fowler and Sons,Individual,Real Estate,Medium,RU,0,0,0,1,0,0,Medium,4,4,
+41,"May, Jennings and Downs",Corporate,Casino/Gambling,High,NL,0,0,0,0,0,0,High,6,7,26
+42,"Gates, Hicks and Frazier",Corporate,Crypto Exchange,High,NL,0,0,0,0,0,0,High,6,7,27
+43,"Cox, Peck and Miranda",NGO,Crypto Exchange,High,SY,0,0,0,1,0,0,High,6,7,28
+44,"Wilson, Garcia and Daniels",NGO,Real Estate,Medium,US,1,0,0,0,0,0,High,6,7,29
+45,"Ryan, Lawson and Harris",Corporate,Financial Services,Medium,KP,0,0,1,1,1,0,High,6,7,30
+46,"Castro, Manning and Berry",NGO,Retail,Low,NL,0,0,0,0,0,0,Low,2,2,
+47,Rodriguez Ltd,NGO,NGO/Charity,High,DE,0,0,0,0,0,0,High,6,7,31
+48,Hill-Luna,Financial Institution,Financial Services,Medium,KP,0,0,1,1,1,0,High,6,7,32
+49,"Russell, Bradley and Ryan",Individual,Defense/Arms,High,AF,0,0,0,0,1,0,High,6,7,33
+50,Nelson-Alexander,NGO,Real Estate,Medium,SY,0,0,0,1,0,0,Medium,4,4,
+51,"Eaton, Hurley and Mullins",Individual,Casino/Gambling,High,AU,0,0,0,0,0,0,High,6,7,34
+52,Gray-Sanford,Financial Institution,Defense/Arms,High,FR,0,0,0,0,1,0,High,6,7,35
+53,Johnson LLC,Individual,Defense/Arms,High,IR,0,0,1,1,1,0,High,6,7,36
+54,"Ramos, Keller and Rodgers",Corporate,NGO/Charity,High,AF,0,0,0,0,0,0.5,High,6,7,37
+55,Rivera-Guzman,NGO,Defense/Arms,High,SD,0,0,0,1,1,0.5,High,6,7,38
+56,Buckley-Goodman,Financial Institution,Defense/Arms,High,CN,0,0,0,0,1,0,High,6,7,39
+57,"Snyder, Hines and Thompson",Financial Institution,Retail,Low,SY,0,0,0,1,0,0,Low,2,2,
+58,"Davis, Ballard and Schmidt",Individual,Import/Export,Medium,AF,0,0,0,0,0,0,Medium,4,4,
+59,Tran-Novak,NGO,Consulting,Low,DE,0,0,0,0,0,0,Low,2,2,
+60,Cooke-James,Individual,Defense/Arms,High,VE,0,0,0,1,1,0,High,6,7,40
+61,Lee and Sons,Financial Institution,Retail,Low,CH,0,0,0,0,0,0,Low,2,2,
+62,Fernandez-Brewer,Individual,Retail,Low,US,0,0,0,0,0,0,Low,2,2,
+63,Powell-Santiago,NGO,NGO/Charity,High,LB,0,0,0,0,0,0,High,6,7,41
+64,"Wilson, Cook and Miller",Individual,Import/Export,Medium,KP,0,0,1,1,0,0,High,6,7,42
+65,Allen PLC,NGO,Consulting,Low,VE,0,0,0,1,0,0,Low,2,2,
+66,Mills-Browning,Financial Institution,Defense/Arms,High,CH,0,0,0,0,1,0,High,6,7,43
+67,"Kim, Gibbs and Cardenas",Corporate,Retail,Low,NL,0,0,0,0,0,0.5,Low,2,2,
+68,Vaughan and Sons,NGO,Real Estate,Medium,UK,1,0,0,0,0,0,High,6,7,44
+69,Juarez PLC,Individual,Financial Services,Medium,AF,0,0,0,0,1,0,Medium,4,4,
+70,Lewis-Allen,NGO,Defense/Arms,High,AE,0,0,0,0,1,0,High,6,7,45
+71,"Hawkins, Harris and Peters",Corporate,Casino/Gambling,High,CN,0,0,0,0,0,0.5,High,6,7,46
+72,Smith Group,Financial Institution,Tech,Low,JP,0,0,0,0,0,0,Low,2,2,
+73,Gomez-Mason,NGO,Consulting,Low,US,0,0,0,0,0,0,Low,2,2,
+74,"Sutton, Wright and Maxwell",NGO,Casino/Gambling,High,CH,0,0,0,0,0,0,High,6,7,47
+75,"Hunter, Green and Gardner",NGO,Casino/Gambling,High,SY,0,0,0,1,0,0,High,6,7,48
+76,Jarvis and Sons,Individual,Consulting,Low,FR,0,0,0,0,0,0,Low,2,2,
+77,"Kelly, Johnson and Brooks",Financial Institution,Financial Services,Medium,DE,0,0,0,0,1,0,Medium,4,4,
+78,"Roach, Thomas and Richardson",Corporate,Crypto Exchange,High,SD,0,0,0,1,0,0.5,High,6,7,49
+79,Roberson-Medina,NGO,Financial Services,Medium,UK,0,0,0,0,1,1,Medium,4,4,
+80,Wallace Ltd,Financial Institution,Retail,Low,US,0,0,0,0,0,0,Low,2,2,
+81,"Lynch, Calderon and Glover",Individual,NGO/Charity,High,AE,0,0,0,0,0,0,High,6,7,50
+82,Walker-Norman,NGO,Energy/Oil,High,VE,1,0,0,1,1,0,High,6,7,51
+83,"Moore, Gardner and Bray",Individual,NGO/Charity,High,IR,0,0,1,1,0,0,High,6,7,52
+84,Moreno-Sanders,Individual,Financial Services,Medium,IN,0,0,0,0,1,0,Medium,4,4,
+85,Myers-Wood,NGO,Import/Export,Medium,AU,0,0,0,0,0,0,Medium,4,4,
+86,Gibson-Nunez,Financial Institution,Casino/Gambling,High,FR,0,0,0,0,0,0,High,6,7,53
+87,Weiss PLC,NGO,Energy/Oil,High,IN,0,0,0,0,1,0.5,High,6,7,54
+88,Richards-Burns,Corporate,Real Estate,Medium,SG,0,0,0,0,0,0.5,Medium,4,4,
+89,"Hoffman, Bailey and Tate",Corporate,Import/Export,Medium,US,0,0,0,0,0,0,Medium,4,4,
+90,Garcia-Baker,Financial Institution,Crypto Exchange,High,IR,0,0,1,1,0,0,High,6,7,55
+91,Richardson-Richardson,Individual,Import/Export,Medium,AF,0,0,0,0,0,0,Medium,4,4,
+92,Foster Inc,NGO,Retail,Low,JP,0,0,0,0,0,0.5,Low,2,2,
+93,"Moreno, Reyes and Wright",Individual,Import/Export,Medium,SY,0,0,0,1,0,0,Medium,4,4,
+94,"Lewis, Welch and Charles",Individual,Retail,Low,NL,0,1,0,0,0,0,High,6,7,56
+95,"Jenkins, Harper and Edwards",Individual,Real Estate,Medium,SD,0,0,0,1,0,0,Medium,4,4,
+96,Young Inc,Financial Institution,Import/Export,Medium,VE,0,0,0,1,0,0,Medium,4,4,
+97,Powell-Johnson,NGO,Energy/Oil,High,SY,0,1,0,1,1,1,High,6,7,57
+98,Clarke LLC,Corporate,NGO/Charity,High,SG,0,0,0,0,0,0,High,6,7,58
+99,Ford-Chen,Individual,Casino/Gambling,High,AF,0,0,0,0,0,0,High,6,7,59
+100,"Moore, Joyce and Morrison",Financial Institution,NGO/Charity,High,CH,0,0,0,0,0,0,High,6,7,60
+101,"Jones, Smith and Kent",Corporate,NGO/Charity,High,VE,0,0,0,1,0,0,High,6,7,61
+102,Munoz-Zuniga,Financial Institution,Consulting,Low,SG,0,0,0,0,0,0,Low,2,2,
+103,"Martin, Cooper and Coleman",Individual,Casino/Gambling,High,CA,0,0,0,0,0,0,High,6,7,62
+104,"Hudson, Monroe and Pierce",Financial Institution,NGO/Charity,High,AU,0,0,0,0,0,0,High,6,7,63
+105,Schmidt Inc,Corporate,Real Estate,Medium,AE,0,0,0,0,0,0.5,Medium,4,4,
+106,"Conner, Carter and Yang",Financial Institution,Import/Export,Medium,LB,0,0,0,0,0,0,Medium,4,4,
+107,"Mckinney, Torres and Stewart",Financial Institution,Defense/Arms,High,RU,0,0,0,1,1,0,High,6,7,64
+108,Castro-Nguyen,Individual,Real Estate,Medium,IR,0,0,1,1,0,0,High,6,7,65
+109,Johnson Inc,Corporate,Defense/Arms,High,AE,0,0,0,0,1,0,High,6,7,66
+110,Kelley-Klein,Financial Institution,Financial Services,Medium,SG,0,0,0,0,1,0,Medium,4,4,
+111,Marshall Inc,NGO,Real Estate,Medium,CN,0,0,0,0,0,0,Medium,4,4,
+112,Little Inc,NGO,Retail,Low,FR,0,0,0,0,0,0,Low,2,2,
+113,Wang-Fletcher,Corporate,Consulting,Low,AE,0,0,0,0,0,1,Medium,4,4,
+114,"Cherry, Watson and Rich",Individual,Tech,Low,AU,0,0,0,0,0,0,Low,2,2,
+115,Bartlett Group,Individual,NGO/Charity,High,SG,0,0,0,0,0,0,High,6,7,67
+116,Gibson-Bird,NGO,Financial Services,Medium,VE,0,0,0,1,1,1,Medium,4,4,
+117,Lee-Olson,Corporate,Real Estate,Medium,VE,1,0,0,1,0,0,High,6,7,68
+118,Ortega-Acevedo,Corporate,NGO/Charity,High,SD,0,0,0,1,0,0,High,6,7,69
+119,Dickson PLC,NGO,Tech,Low,DE,0,0,0,0,0,0,Low,2,2,
+120,"Contreras, Ferguson and Hunt",Financial Institution,Financial Services,Medium,RU,0,0,0,1,1,0,Medium,4,4,
+121,Phillips PLC,Corporate,Defense/Arms,High,IN,0,0,0,0,1,1,High,6,7,70
+122,Patel-White,Financial Institution,Casino/Gambling,High,SY,0,0,0,1,0,0,High,6,7,71
+123,Stevens-Gray,NGO,Casino/Gambling,High,US,0,0,0,0,0,0.5,High,6,7,72
+124,Smith and Sons,Financial Institution,Real Estate,Medium,RU,0,0,0,1,0,0,Medium,4,4,
+125,"Kim, Mccoy and Moore",NGO,Retail,Low,AF,0,0,0,0,0,0,Low,2,2,
+126,"Adkins, Rose and Huber",Individual,Consulting,Low,JP,0,0,0,0,0,0,Low,2,2,
+127,Hill Group,Corporate,Financial Services,Medium,SG,0,0,0,0,1,1,Medium,4,4,
+128,Acosta and Sons,Financial Institution,Crypto Exchange,High,KP,0,0,1,1,0,0,High,6,7,73
+129,"Walker, Palmer and Dawson",NGO,Retail,Low,LB,0,0,0,0,0,0,Low,2,2,
+130,Vargas and Sons,Financial Institution,Import/Export,Medium,IR,1,0,1,1,0,0,High,6,7,74
+131,Boone Ltd,Corporate,Real Estate,Medium,SD,0,0,0,1,0,0,Medium,4,4,
+132,Holmes Ltd,Individual,Consulting,Low,CN,0,0,0,0,0,0,Low,2,2,
+133,Landry PLC,Financial Institution,Energy/Oil,High,SG,0,0,0,0,1,0,High,6,7,75
+134,Boyd LLC,Financial Institution,Crypto Exchange,High,SY,0,0,0,1,0,0,High,6,7,76
+135,Wallace LLC,NGO,Energy/Oil,High,FR,0,0,0,0,1,0,High,6,7,77
+136,Myers PLC,NGO,Casino/Gambling,High,SG,0,0,0,0,0,0,High,6,7,78
+137,Walsh-Weber,Individual,Import/Export,Medium,CA,0,0,0,0,0,0,Medium,4,4,
+138,Jimenez Ltd,Individual,NGO/Charity,High,SD,0,0,0,1,0,0,High,6,7,79
+139,Ramos LLC,Individual,Tech,Low,JP,0,0,0,0,0,0,Low,2,2,
+140,"Campbell, Miller and Sweeney",Financial Institution,Consulting,Low,IR,0,0,1,1,0,0,High,6,7,80
+141,"Washington, Dean and Moon",Financial Institution,Import/Export,Medium,US,0,0,0,0,0,0,Medium,4,4,
+142,Phillips-Williams,Financial Institution,Real Estate,Medium,AF,0,0,0,0,0,0,Medium,4,4,
+143,Campbell Group,Corporate,Real Estate,Medium,DE,0,0,0,0,0,0,Medium,4,4,
+144,Reed Inc,Financial Institution,Tech,Low,IN,0,0,0,0,0,0,Low,2,2,
+145,"Lawson, Simpson and Lawson",Corporate,Import/Export,Medium,AF,0,0,0,0,0,0.5,Medium,4,4,
+146,Adams Ltd,NGO,Tech,Low,NL,0,0,0,0,0,0.5,Low,2,2,
+147,Young and Sons,Corporate,Energy/Oil,High,RU,0,0,0,1,1,0.5,High,6,7,81
+148,Orozco-Moore,NGO,Real Estate,Medium,AF,0,0,0,0,0,0,Medium,4,4,
+149,Hughes Group,Individual,Retail,Low,SD,0,0,0,1,0,0,Low,2,2,
+150,Hinton-Murillo,Financial Institution,Retail,Low,IR,0,0,1,1,0,0,High,6,7,82
+151,"Dean, Baker and Allen",Corporate,Casino/Gambling,High,AE,0,0,0,0,0,0.5,High,6,7,83
+152,Hansen Group,Financial Institution,Energy/Oil,High,CH,0,0,0,0,1,0,High,6,7,84
+153,Henderson LLC,Corporate,Tech,Low,AU,0,0,0,0,0,1,Medium,4,4,
+154,"Mendoza, Pope and Johnson",Corporate,Financial Services,Medium,CH,1,0,0,0,1,0.5,High,6,7,85
+155,Mercado Group,NGO,Crypto Exchange,High,FR,0,0,0,0,0,0,High,6,7,86
+156,Briggs-Davis,Financial Institution,Tech,Low,US,0,0,0,0,0,0,Low,2,2,
+157,"Cook, Lewis and Summers",Financial Institution,Crypto Exchange,High,AE,0,0,0,0,0,0,High,6,7,87
+158,Stevens Inc,Individual,Import/Export,Medium,CA,0,0,0,0,0,0,Medium,4,4,
+159,"Warren, Brock and Lee",Financial Institution,Casino/Gambling,High,SG,0,0,0,0,0,0,High,6,7,88
+160,Fields-Tran,Individual,Tech,Low,KP,0,0,1,1,0,0,High,6,7,89
+161,Martin Inc,Individual,Casino/Gambling,High,CN,0,0,0,0,0,0,High,6,7,90
+162,Hogan and Sons,Financial Institution,Real Estate,Medium,US,0,0,0,0,0,0,Medium,4,4,
+163,Thomas-Schwartz,Financial Institution,Consulting,Low,NL,0,0,0,0,0,0,Low,2,2,
+164,Beltran and Sons,NGO,Consulting,Low,US,0,1,0,0,0,0.5,High,6,7,91
+165,Walsh-Harvey,Corporate,Real Estate,Medium,IR,0,0,1,1,0,0.5,High,6,7,92
+166,Ward-Brooks,NGO,Real Estate,Medium,VE,0,0,0,1,0,0,Medium,4,4,
+167,Hudson PLC,NGO,Financial Services,Medium,AU,0,0,0,0,1,0,Medium,4,4,
+168,Garcia-King,Corporate,Consulting,Low,SD,0,0,0,1,0,0,Low,2,2,
+169,Lopez-Kennedy,Corporate,Defense/Arms,High,UK,0,0,0,0,1,0,High,6,7,93
+170,Dalton LLC,Financial Institution,Retail,Low,JP,0,0,0,0,0,0,Low,2,2,
+171,"Ramirez, Banks and Mendoza",Financial Institution,Crypto Exchange,High,SD,0,0,0,1,0,0,High,6,7,94
+172,"Smith, Nguyen and Stokes",Individual,Financial Services,Medium,CH,0,0,0,0,1,0,Medium,4,4,
+173,Keith-Wagner,Corporate,Import/Export,Medium,UK,0,0,0,0,0,0,Medium,4,4,
+174,Williams-Logan,Individual,NGO/Charity,High,AF,0,0,0,0,0,0,High,6,7,95
+175,Jennings and Sons,NGO,Crypto Exchange,High,JP,0,0,0,0,0,0,High,6,7,96
+176,Bruce-Maynard,Individual,Casino/Gambling,High,RU,0,0,0,1,0,0,High,6,7,97
+177,Kennedy-Mckinney,Financial Institution,Tech,Low,AF,0,0,0,0,0,0,Low,2,2,
+178,Gordon-Ball,Individual,Casino/Gambling,High,CN,0,0,0,0,0,0,High,6,7,98
+179,Mccarthy-Phillips,Financial Institution,NGO/Charity,High,IR,1,0,1,1,0,0,High,6,7,99
+180,Rodriguez Inc,Individual,Consulting,Low,VE,0,0,0,1,0,0,Low,2,2,
+181,"Pierce, Wilson and Pugh",NGO,Consulting,Low,FR,0,0,0,0,0,0.5,Low,2,2,
+182,Hunt and Sons,Financial Institution,Casino/Gambling,High,SG,0,0,0,0,0,0,High,6,7,100
+183,Hernandez-Reyes,Financial Institution,Financial Services,Medium,AU,0,0,0,0,1,0,Medium,4,4,
+184,"Smith, Vaughan and Rogers",NGO,Crypto Exchange,High,SY,0,0,0,1,0,0,High,6,7,101
+185,Hodges LLC,Financial Institution,Consulting,Low,KP,0,0,1,1,0,0,High,6,7,102
+186,Miller and Sons,Financial Institution,Financial Services,Medium,JP,0,0,0,0,1,0,Medium,4,4,
+187,Weaver Inc,Financial Institution,Retail,Low,CA,0,0,0,0,0,0,Low,2,2,
+188,Klein-Sanders,Individual,Defense/Arms,High,CH,0,0,0,0,1,0,High,6,7,103
+189,Hernandez-Ortega,NGO,Energy/Oil,High,UK,1,0,0,0,1,0,High,6,7,104
+190,"Jenkins, Knox and Powell",Individual,Consulting,Low,CA,0,0,0,0,0,0,Low,2,2,
+191,Shields Group,Financial Institution,Defense/Arms,High,JP,0,0,0,0,1,0,High,6,7,105
+192,Buck-Martin,Corporate,Casino/Gambling,High,DE,0,0,0,0,0,0,High,6,7,106
+193,Rodriguez Group,NGO,Real Estate,Medium,LB,0,0,0,0,0,0,Medium,4,4,
+194,Simmons PLC,Financial Institution,Real Estate,Medium,KP,0,0,1,1,0,0,High,6,7,107
+195,Bailey-West,Financial Institution,NGO/Charity,High,IR,0,0,1,1,0,0,High,6,7,108
+196,Nichols Group,NGO,Consulting,Low,KP,0,0,1,1,0,0,High,6,7,109
+197,"Brown, Alexander and Ramsey",Corporate,Crypto Exchange,High,SD,0,0,0,1,0,0,High,6,7,110
+198,White-Cannon,Corporate,Retail,Low,KP,0,0,1,1,0,0,High,6,7,111
+199,Mccullough Group,Financial Institution,Casino/Gambling,High,SG,0,0,0,0,0,0,High,6,7,112
+200,Mccall LLC,NGO,Financial Services,Medium,US,0,0,0,0,1,0,Medium,4,4,
+201,"Mcmillan, Lopez and Silva",Financial Institution,Crypto Exchange,High,AF,0,0,0,0,0,0,High,6,7,113
+202,"Fox, Davis and Riley",Corporate,Consulting,Low,RU,0,0,0,1,0,0,Low,2,2,
+203,Harrison PLC,NGO,Retail,Low,IR,0,0,1,1,0,0.5,High,6,7,114
+204,Gallagher-Espinoza,Corporate,Import/Export,Medium,VE,1,0,0,1,0,1,High,6,7,115
+205,Adams PLC,NGO,Defense/Arms,High,IR,0,0,1,1,1,0,High,6,7,116
+206,Fletcher-Knight,Financial Institution,Tech,Low,CH,0,0,0,0,0,0,Low,2,2,
+207,Cobb Inc,Financial Institution,Tech,Low,JP,0,0,0,0,0,0,Low,2,2,
+208,Walker and Sons,Individual,Financial Services,Medium,SD,1,0,0,1,1,0,High,6,7,117
+209,"Green, Edwards and Washington",NGO,Tech,Low,IN,0,0,0,0,0,1,Medium,4,4,
+210,Phillips-Howard,NGO,NGO/Charity,High,AF,0,0,0,0,0,0,High,6,7,118
+211,"Kane, Howell and Waller",Corporate,Energy/Oil,High,AF,0,0,0,0,1,0,High,6,7,119
+212,Wolf-King,NGO,Import/Export,Medium,CH,0,0,0,0,0,0.5,Medium,4,4,
+213,"Morris, Jackson and Jones",Financial Institution,Financial Services,Medium,IR,0,0,1,1,1,0,High,6,7,120
+214,"Edwards, Deleon and Horn",Corporate,Defense/Arms,High,RU,0,0,0,1,1,0,High,6,7,121
+215,Moss-Wells,Corporate,Financial Services,Medium,SY,0,0,0,1,1,0.5,Medium,4,4,
+216,Smith Group,Corporate,Defense/Arms,High,AU,0,0,0,0,1,0,High,6,7,122
+217,"Nelson, Martinez and Callahan",NGO,Real Estate,Medium,SD,0,0,0,1,0,1,Medium,4,4,
+218,Lambert-Simmons,Financial Institution,Consulting,Low,IN,0,0,0,0,0,0,Low,2,2,
+219,Page PLC,Individual,NGO/Charity,High,AU,1,0,0,0,0,0,High,6,7,123
+220,Woods Group,Individual,Import/Export,Medium,SG,0,0,0,0,0,0,Medium,4,4,
+221,Griffin-Brooks,Corporate,Energy/Oil,High,CA,0,0,0,0,1,0,High,6,7,124
+222,Lee-Stewart,Individual,Consulting,Low,VE,0,0,0,1,0,0,Low,2,2,
+223,Simmons-Keller,NGO,Defense/Arms,High,SY,0,0,0,1,1,0,High,6,7,125
+224,"Moses, Hoover and Roberson",Financial Institution,Casino/Gambling,High,AE,0,0,0,0,0,0,High,6,7,126
+225,Kirby PLC,Individual,NGO/Charity,High,SD,0,0,0,1,0,0,High,6,7,127
+226,Adams-Davis,Individual,Tech,Low,LB,0,0,0,0,0,0,Low,2,2,
+227,"Martinez, Schmidt and Collins",Individual,Crypto Exchange,High,SG,0,0,0,0,0,0,High,6,7,128
+228,Williams Group,Corporate,Financial Services,Medium,IN,0,0,0,0,1,0,Medium,4,4,
+229,Pittman-Hughes,Corporate,Defense/Arms,High,IN,0,0,0,0,1,0,High,6,7,129
+230,Hernandez-Campbell,Financial Institution,NGO/Charity,High,DE,0,0,0,0,0,0,High,6,7,130
+231,"Dean, King and Shea",Individual,Defense/Arms,High,IR,0,0,1,1,1,0,High,6,7,131
+232,"Black, Harvey and Mcfarland",Financial Institution,Defense/Arms,High,SY,0,0,0,1,1,0,High,6,7,132
+233,Thompson Inc,Individual,NGO/Charity,High,IR,1,0,1,1,0,0,High,6,7,133
+234,Kelley-Gonzalez,Corporate,Tech,Low,AF,0,0,0,0,0,0,Low,2,2,
+235,"Cook, Abbott and Williams",NGO,Consulting,Low,KP,0,0,1,1,0,1,High,6,7,134
+236,Wallace LLC,Financial Institution,Defense/Arms,High,RU,1,0,0,1,1,0,High,6,7,135
+237,Davis Ltd,Financial Institution,Defense/Arms,High,KP,0,0,1,1,1,0,High,6,7,136
+238,Cooper Ltd,Individual,Real Estate,Medium,AU,0,0,0,0,0,0,Medium,4,4,
+239,Adams Group,NGO,Consulting,Low,RU,0,0,0,1,0,0,Low,2,2,
+240,Velazquez-Davis,Individual,Defense/Arms,High,CA,0,0,0,0,1,0,High,6,7,137
+241,Jones Inc,NGO,Defense/Arms,High,FR,0,0,0,0,1,0,High,6,7,138
+242,Orr Inc,Corporate,NGO/Charity,High,JP,0,0,0,0,0,0.5,High,6,7,139
+243,Thompson-Castro,Corporate,Retail,Low,RU,0,0,0,1,0,0,Low,2,2,
+244,Holt-Finley,Individual,Defense/Arms,High,CH,0,0,0,0,1,0,High,6,7,140
+245,Butler-Lozano,Individual,Casino/Gambling,High,SY,0,0,0,1,0,0,High,6,7,141
+246,Ferguson Group,Individual,Real Estate,Medium,AU,0,0,0,0,0,0,Medium,4,4,
+247,"Bush, Luna and Benson",Corporate,Energy/Oil,High,FR,0,0,0,0,1,0.5,High,6,7,142
+248,"Horton, Hampton and Riley",NGO,Import/Export,Medium,UK,0,0,0,0,0,0.5,Medium,4,4,
+249,Lewis-Walker,NGO,Financial Services,Medium,CA,0,0,0,0,1,0,Medium,4,4,
+250,"Lee, Vargas and Anderson",Individual,Real Estate,Medium,SY,0,0,0,1,0,0,Medium,4,4,
+251,"Shea, Hess and Harper",NGO,Retail,Low,JP,0,0,0,0,0,0,Low,2,2,
+252,Davis-Salinas,Corporate,Retail,Low,SD,0,0,0,1,0,0,Low,2,2,
+253,Mcgee PLC,Individual,Defense/Arms,High,IR,0,0,1,1,1,0,High,6,7,143
+254,Saunders-Contreras,Financial Institution,Energy/Oil,High,KP,0,1,1,1,1,0,High,6,7,144
+255,"Simpson, Taylor and David",Corporate,Retail,Low,VE,0,0,0,1,0,1,Medium,4,4,
+256,Hill-Greer,Financial Institution,Retail,Low,RU,0,0,0,1,0,0,Low,2,2,
+257,Reid Group,Corporate,Defense/Arms,High,AE,0,0,0,0,1,0,High,6,7,145
+258,Mejia-Rivera,Individual,NGO/Charity,High,IR,0,0,1,1,0,0,High,6,7,146
+259,Harris and Sons,Financial Institution,Retail,Low,CN,0,0,0,0,0,0,Low,2,2,
+260,Lozano-Thompson,Financial Institution,Casino/Gambling,High,SD,0,0,0,1,0,0,High,6,7,147
+261,Martin-Pitts,Corporate,Energy/Oil,High,SG,0,0,0,0,1,0,High,6,7,148
+262,Douglas-Robbins,Corporate,Tech,Low,SG,0,0,0,0,0,0.5,Low,2,2,
+263,Alvarez-Obrien,Individual,NGO/Charity,High,AE,0,0,0,0,0,0,High,6,7,149
+264,Smith Ltd,Financial Institution,Retail,Low,AU,0,0,0,0,0,0,Low,2,2,
+265,Murphy LLC,Individual,Tech,Low,CA,0,0,0,0,0,0,Low,2,2,
+266,Schroeder-Hall,Individual,Energy/Oil,High,CA,0,0,0,0,1,0,High,6,7,150
+267,Bass-Matthews,Financial Institution,Casino/Gambling,High,IR,0,0,1,1,0,0,High,6,7,151
+268,"Berry, Gutierrez and Todd",NGO,Retail,Low,LB,0,0,0,0,0,0,Low,2,2,
+269,Phelps-Burns,Corporate,Financial Services,Medium,AU,0,0,0,0,1,0,Medium,4,4,
+270,Mendoza LLC,Individual,Real Estate,Medium,US,0,0,0,0,0,0,Medium,4,4,
+271,Washington Inc,Corporate,Casino/Gambling,High,AF,0,0,0,0,0,0,High,6,7,152
+272,Figueroa LLC,Individual,Real Estate,Medium,SD,0,0,0,1,0,0,Medium,4,4,
+273,"Marsh, Carson and Alexander",Corporate,Crypto Exchange,High,NL,0,0,0,0,0,0,High,6,7,153
+274,Boyer LLC,NGO,Crypto Exchange,High,VE,0,0,0,1,0,0,High,6,7,154
+275,Crawford Group,Corporate,NGO/Charity,High,CA,0,0,0,0,0,0,High,6,7,155
+276,Patel Inc,Financial Institution,Energy/Oil,High,VE,0,0,0,1,1,0,High,6,7,156
+277,"Lewis, Moreno and Tucker",NGO,Crypto Exchange,High,AU,0,0,0,0,0,0,High,6,7,157
+278,Delgado LLC,NGO,Energy/Oil,High,DE,0,0,0,0,1,0,High,6,7,158
+279,Lambert-Terry,NGO,Import/Export,Medium,VE,0,0,0,1,0,1,Medium,4,4,
+280,"Valentine, Floyd and Griffin",Corporate,Defense/Arms,High,CH,0,0,0,0,1,0,High,6,7,159
+281,Wright LLC,NGO,Energy/Oil,High,RU,0,0,0,1,1,0,High,6,7,160
+282,"Carey, Holland and Anderson",Individual,Crypto Exchange,High,UK,0,0,0,0,0,0,High,6,7,161
+283,"Adams, Charles and Williams",Financial Institution,Casino/Gambling,High,IN,0,0,0,0,0,0,High,6,7,162
+284,"Horton, Taylor and Vasquez",Individual,Retail,Low,FR,0,0,0,0,0,0,Low,2,2,
+285,Young-Gilbert,Corporate,Import/Export,Medium,NL,0,0,0,0,0,0.5,Medium,4,4,
+286,Hall-Cook,Financial Institution,Tech,Low,NL,0,0,0,0,0,0,Low,2,2,
+287,"Webster, Hall and Tyler",Corporate,Consulting,Low,UK,0,0,0,0,0,0,Low,2,2,
+288,Garza-Yates,NGO,Energy/Oil,High,DE,1,0,0,0,1,0,High,6,7,163
+289,Lewis Inc,Financial Institution,Retail,Low,AF,0,0,0,0,0,0,Low,2,2,
+290,Walker-Marshall,NGO,Energy/Oil,High,CH,0,0,0,0,1,0,High,6,7,164
+291,Garcia-Jacobs,Individual,Retail,Low,NL,0,0,0,0,0,0,Low,2,2,
+292,Moreno-Mcgee,Individual,Defense/Arms,High,SG,0,0,0,0,1,0,High,6,7,165
+293,Stephens Ltd,Individual,Casino/Gambling,High,NL,0,0,0,0,0,0,High,6,7,166
+294,Sanchez Group,Corporate,Defense/Arms,High,UK,0,0,0,0,1,0,High,6,7,167
+295,Nelson-Yang,NGO,Crypto Exchange,High,KP,0,0,1,1,0,0,High,6,7,168
+296,Nguyen-Payne,Financial Institution,Crypto Exchange,High,US,0,0,0,0,0,0,High,6,7,169
+297,Jacobson Inc,NGO,Import/Export,Medium,CN,1,0,0,0,0,0,High,6,7,170
+298,"Stein, Harvey and Patton",Corporate,Crypto Exchange,High,SY,0,0,0,1,0,0.5,High,6,7,171
+299,"Lane, Rangel and Villegas",Corporate,Financial Services,Medium,SD,0,0,0,1,1,0.5,Medium,4,4,
+300,"Austin, Gray and Moyer",Individual,Energy/Oil,High,CA,0,0,0,0,1,0,High,6,7,172
+301,Lynch LLC,NGO,Import/Export,Medium,JP,0,0,0,0,0,0.5,Medium,4,4,
+302,"Barker, Beard and Benton",Corporate,Consulting,Low,IR,0,0,1,1,0,0,High,6,7,173
+303,Mcdonald and Sons,Corporate,Crypto Exchange,High,SY,0,0,0,1,0,0,High,6,7,174
+304,Miller Group,NGO,Tech,Low,IN,0,0,0,0,0,0,Low,2,2,
+305,"Young, Moran and Wheeler",Financial Institution,Casino/Gambling,High,SG,0,0,0,0,0,0,High,6,7,175
+306,Brown and Sons,Financial Institution,NGO/Charity,High,IR,0,0,1,1,0,0,High,6,7,176
+307,Hammond PLC,NGO,Defense/Arms,High,DE,0,0,0,0,1,0,High,6,7,177
+308,Mcgrath-Carter,Financial Institution,Energy/Oil,High,CA,0,0,0,0,1,0,High,6,7,178
+309,"Williams, Jordan and Holt",Corporate,Import/Export,Medium,DE,0,0,0,0,0,0.5,Medium,4,4,
+310,Walker-Hicks,NGO,Tech,Low,CA,0,1,0,0,0,0,High,6,7,179
+311,White Ltd,NGO,Real Estate,Medium,AU,0,0,0,0,0,0,Medium,4,4,
+312,"Osborne, Wilson and James",Individual,Real Estate,Medium,LB,0,0,0,0,0,0,Medium,4,4,
+313,"Morgan, Taylor and Lester",NGO,Real Estate,Medium,AF,1,0,0,0,0,0,High,6,7,180
+314,Stevens Ltd,Individual,Defense/Arms,High,LB,0,0,0,0,1,0,High,6,7,181
+315,Wood PLC,Individual,Tech,Low,NL,0,0,0,0,0,0,Low,2,2,
+316,"Allen, Moreno and Mcclain",Individual,Real Estate,Medium,UK,0,0,0,0,0,0,Medium,4,4,
+317,Williams and Sons,NGO,Energy/Oil,High,FR,0,0,0,0,1,0,High,6,7,182
+318,Brown Inc,Individual,NGO/Charity,High,US,0,0,0,0,0,0,High,6,7,183
+319,Pierce-Williams,Financial Institution,Import/Export,Medium,IR,0,0,1,1,0,0,High,6,7,184
+320,"Wright, Castaneda and Nguyen",Individual,Tech,Low,RU,0,0,0,1,0,0,Low,2,2,
+321,"Snyder, Hurst and Davis",NGO,Energy/Oil,High,SG,0,0,0,0,1,0,High,6,7,185
+322,"Jones, Mercado and Galvan",NGO,Casino/Gambling,High,CA,0,0,0,0,0,0,High,6,7,186
+323,"Riggs, Watkins and Acosta",Corporate,Real Estate,Medium,NL,1,0,0,0,0,0,High,6,7,187
+324,Espinoza LLC,Financial Institution,NGO/Charity,High,US,0,0,0,0,0,0,High,6,7,188
+325,"Baker, Hansen and Acosta",NGO,Real Estate,Medium,AE,0,0,0,0,0,0.5,Medium,4,4,
+326,"Villarreal, Reeves and Cummings",Financial Institution,Energy/Oil,High,US,0,0,0,0,1,0,High,6,7,189
+327,"Sloan, Harris and Diaz",NGO,Crypto Exchange,High,AE,0,0,0,0,0,0,High,6,7,190
+328,Perry-Kemp,Individual,Tech,Low,SG,0,0,0,0,0,0,Low,2,2,
+329,Williams and Sons,Financial Institution,Defense/Arms,High,CH,0,0,0,0,1,0,High,6,7,191
+330,Travis-Herman,NGO,Casino/Gambling,High,UK,0,0,0,0,0,0,High,6,7,192
+331,Jones Ltd,Corporate,Casino/Gambling,High,JP,0,0,0,0,0,1,High,6,7,193
+332,Campbell PLC,Corporate,Financial Services,Medium,CA,0,0,0,0,1,0,Medium,4,4,
+333,Mendoza Ltd,Individual,Energy/Oil,High,IR,0,1,1,1,1,0,High,6,7,194
+334,Higgins-Williams,NGO,Crypto Exchange,High,RU,0,0,0,1,0,0,High,6,7,195
+335,Gregory Ltd,Individual,Financial Services,Medium,CH,0,0,0,0,1,0,Medium,4,4,
+336,"Anderson, Benson and Gonzalez",Financial Institution,Casino/Gambling,High,VE,1,0,0,1,0,0,High,6,7,196
+337,"Cook, Mcgee and Wong",Corporate,Tech,Low,CH,0,0,0,0,0,0,Low,2,2,
+338,Saunders-Kelly,Individual,Casino/Gambling,High,IN,0,0,0,0,0,0,High,6,7,197
+339,Perez-Hart,Corporate,Real Estate,Medium,RU,0,0,0,1,0,0,Medium,4,4,
+340,Nelson Group,Corporate,Consulting,Low,SG,0,0,0,0,0,0,Low,2,2,
+341,Hoffman-Frost,Individual,Import/Export,Medium,JP,1,0,0,0,0,0,High,6,7,198
+342,Rivera-Mullins,Corporate,Real Estate,Medium,LB,0,0,0,0,0,0,Medium,4,4,
+343,Robbins and Sons,NGO,Defense/Arms,High,IR,0,0,1,1,1,0.5,High,6,7,199
+344,"Abbott, Compton and Coleman",Corporate,Casino/Gambling,High,KP,0,0,1,1,0,1,High,6,7,200
+345,Stewart PLC,Corporate,Energy/Oil,High,SG,0,0,0,0,1,0,High,6,7,201
+346,Watts-Hoffman,Financial Institution,Energy/Oil,High,AE,0,0,0,0,1,0,High,6,7,202
+347,Lopez LLC,Individual,Consulting,Low,IR,0,0,1,1,0,0,High,6,7,203
+348,Harmon LLC,Individual,Consulting,Low,IN,0,0,0,0,0,0,Low,2,2,
+349,Lopez Ltd,NGO,Consulting,Low,LB,0,0,0,0,0,0,Low,2,2,
+350,"Miles, Schmidt and Parker",NGO,Defense/Arms,High,IR,0,0,1,1,1,1,High,6,7,204
+351,"Graves, Montgomery and Ryan",Corporate,Real Estate,Medium,IR,1,0,1,1,0,0,High,6,7,205
+352,"Grant, Brown and Williams",Corporate,NGO/Charity,High,NL,0,0,0,0,0,0,High,6,7,206
+353,"Berry, Gomez and Gonzales",Individual,Financial Services,Medium,CA,0,0,0,0,1,0,Medium,4,4,
+354,Anthony-Hopkins,NGO,Financial Services,Medium,CH,0,0,0,0,1,0,Medium,4,4,
+355,"Brown, Gilbert and Eaton",Individual,Financial Services,Medium,SY,0,0,0,1,1,0,Medium,4,4,
+356,Rodriguez Inc,Financial Institution,Defense/Arms,High,KP,0,0,1,1,1,0,High,6,7,207
+357,Scott-Bryant,NGO,Financial Services,Medium,SY,0,0,0,1,1,0,Medium,4,4,
+358,Moran-Wade,Corporate,Consulting,Low,VE,0,0,0,1,0,0,Low,2,2,
+359,Huerta-Weaver,Financial Institution,Consulting,Low,CN,0,0,0,0,0,0,Low,2,2,
+360,Brown-Stephens,Individual,Energy/Oil,High,IN,0,0,0,0,1,0,High,6,7,208
+361,"French, Cannon and Villegas",Corporate,Import/Export,Medium,AE,1,0,0,0,0,0,High,6,7,209
+362,Fernandez-Meza,Individual,Crypto Exchange,High,CH,0,0,0,0,0,0,High,6,7,210
+363,Martin-Leblanc,Corporate,Casino/Gambling,High,CN,0,0,0,0,0,0.5,High,6,7,211
+364,Brown PLC,Financial Institution,Crypto Exchange,High,FR,0,0,0,0,0,0,High,6,7,212
+365,"Shelton, Scott and Hoffman",Corporate,Tech,Low,AU,0,0,0,0,0,0,Low,2,2,
+366,Hansen-Thomas,NGO,Real Estate,Medium,CN,1,0,0,0,0,0,High,6,7,213
+367,Mendez Inc,Individual,Retail,Low,SD,1,0,0,1,0,0,High,6,7,214
+368,Curtis LLC,Financial Institution,Energy/Oil,High,JP,0,0,0,0,1,0,High,6,7,215
+369,Johnson Ltd,Corporate,Real Estate,Medium,IR,0,0,1,1,0,0.5,High,6,7,216
+370,Nelson-Phillips,Corporate,Real Estate,Medium,IN,0,0,0,0,0,0.5,Medium,4,4,
+371,Hudson-Bell,NGO,Crypto Exchange,High,LB,0,0,0,0,0,0,High,6,7,217
+372,"Smith, Mcfarland and Wilkinson",Individual,Financial Services,Medium,DE,0,0,0,0,1,0,Medium,4,4,
+373,Gomez-Marks,NGO,Import/Export,Medium,CA,0,0,0,0,0,0,Medium,4,4,
+374,Charles-Bruce,Individual,Consulting,Low,SD,0,0,0,1,0,0,Low,2,2,
+375,"Shelton, Whitehead and Mack",Corporate,Energy/Oil,High,SY,0,0,0,1,1,0,High,6,7,218
+376,Allen-Sweeney,Individual,Casino/Gambling,High,US,0,0,0,0,0,0,High,6,7,219
+377,"Hernandez, Willis and Hoffman",NGO,Crypto Exchange,High,JP,0,0,0,0,0,0.5,High,6,7,220
+378,"Rogers, Flores and Nichols",NGO,Defense/Arms,High,SG,0,0,0,0,1,0,High,6,7,221
+379,"Johnson, Russo and Rodgers",NGO,Import/Export,Medium,KP,0,0,1,1,0,0,High,6,7,222
+380,Byrd Inc,NGO,Import/Export,Medium,CN,0,0,0,0,0,0,Medium,4,4,
+381,"Romero, Campos and Chambers",Individual,Import/Export,Medium,CA,0,0,0,0,0,0,Medium,4,4,
+382,Tate-Barton,Individual,Import/Export,Medium,CA,0,0,0,0,0,0,Medium,4,4,
+383,"Shaffer, Lopez and Rivera",Individual,Casino/Gambling,High,IR,1,0,1,1,0,0,High,6,7,223
+384,Garza-Colon,Corporate,Real Estate,Medium,RU,0,0,0,1,0,0,Medium,4,4,
+385,"Mclaughlin, Hall and Hinton",Corporate,Consulting,Low,AF,0,0,0,0,0,0,Low,2,2,
+386,Mcclure Ltd,Financial Institution,Retail,Low,CN,0,0,0,0,0,0,Low,2,2,
+387,"Hess, Marquez and Atkinson",NGO,Financial Services,Medium,JP,0,0,0,0,1,0,Medium,4,4,
+388,Castro Ltd,Individual,Real Estate,Medium,RU,0,0,0,1,0,0,Medium,4,4,
+389,Dean and Sons,Corporate,Crypto Exchange,High,LB,0,0,0,0,0,0,High,6,7,224
+390,"Rios, Wright and Hancock",Corporate,Financial Services,Medium,CA,0,0,0,0,1,0,Medium,4,4,
+391,Harvey-Anderson,NGO,Retail,Low,UK,0,0,0,0,0,0,Low,2,2,
+392,Jackson-Ray,Individual,Real Estate,Medium,FR,0,0,0,0,0,0,Medium,4,4,
+393,Thornton LLC,Financial Institution,Import/Export,Medium,AF,0,0,0,0,0,0,Medium,4,4,
+394,"Foster, Scott and Curtis",Individual,Import/Export,Medium,AU,0,0,0,0,0,0,Medium,4,4,
+395,"King, Murray and Mcdaniel",NGO,Retail,Low,AE,0,0,0,0,0,0,Low,2,2,
+396,Clark LLC,Individual,Real Estate,Medium,IR,0,0,1,1,0,0,High,6,7,225
+397,"Wood, Gonzalez and Johnson",Corporate,Consulting,Low,SG,0,0,0,0,0,0,Low,2,2,
+398,Schmitt Inc,NGO,Defense/Arms,High,LB,0,0,0,0,1,0.5,High,6,7,226
+399,"Patton, Johnson and Mendez",Corporate,Retail,Low,VE,0,0,0,1,0,0.5,Low,2,2,
+400,English Ltd,Financial Institution,Consulting,Low,CH,0,0,0,0,0,0,Low,2,2,
+401,Nelson-Owens,Corporate,Retail,Low,SG,0,0,0,0,0,0.5,Low,2,2,
+402,Lane Ltd,NGO,Energy/Oil,High,VE,0,0,0,1,1,0,High,6,7,227
+403,Li Ltd,Corporate,NGO/Charity,High,SY,1,1,0,1,0,0.5,High,6,7,228
+404,Martin-Baker,Corporate,Crypto Exchange,High,DE,0,0,0,0,0,0,High,6,7,229
+405,"Hardin, Sanchez and Stewart",Corporate,NGO/Charity,High,SG,1,0,0,0,0,0,High,6,7,230
+406,Cooley-Martinez,Individual,Consulting,Low,SG,0,0,0,0,0,0,Low,2,2,
+407,Adkins Ltd,Corporate,Real Estate,Medium,LB,0,0,0,0,0,0,Medium,4,4,
+408,Bender Ltd,Individual,Crypto Exchange,High,UK,0,0,0,0,0,0,High,6,7,231
+409,Lee LLC,Financial Institution,Casino/Gambling,High,NL,0,0,0,0,0,0,High,6,7,232
+410,"Gomez, Larsen and Morris",Individual,Real Estate,Medium,AE,0,0,0,0,0,0,Medium,4,4,
+411,Lopez-Washington,Financial Institution,Tech,Low,AE,0,0,0,0,0,0,Low,2,2,
+412,Hughes Inc,Individual,Import/Export,Medium,CH,0,0,0,0,0,0,Medium,4,4,
+413,"Davis, Schmidt and Page",Corporate,Casino/Gambling,High,CH,0,0,0,0,0,0,High,6,7,233
+414,"Arnold, Carlson and Lewis",Financial Institution,Defense/Arms,High,UK,0,0,0,0,1,0,High,6,7,234
+415,"Elliott, Walton and Mcdaniel",NGO,Defense/Arms,High,RU,0,0,0,1,1,0,High,6,7,235
+416,Becker PLC,Individual,Energy/Oil,High,CH,0,0,0,0,1,0,High,6,7,236
+417,"Gill, Love and Zavala",Corporate,Financial Services,Medium,JP,0,0,0,0,1,1,Medium,4,4,
+418,Hernandez Inc,Financial Institution,Import/Export,Medium,US,1,0,0,0,0,0,High,6,7,237
+419,"Evans, Compton and Hill",NGO,Import/Export,Medium,RU,0,0,0,1,0,0,Medium,4,4,
+420,"Hogan, Hernandez and Hernandez",Individual,Crypto Exchange,High,SG,0,0,0,0,0,0,High,6,7,238
+421,Anderson Ltd,Corporate,Real Estate,Medium,DE,0,0,0,0,0,0,Medium,4,4,
+422,Rose-Murphy,NGO,Tech,Low,JP,0,0,0,0,0,0.5,Low,2,2,
+423,Allen-Jones,NGO,Energy/Oil,High,IN,1,0,0,0,1,0,High,6,7,239
+424,Rosales and Sons,Individual,Retail,Low,SY,0,0,0,1,0,0,Low,2,2,
+425,"Torres, Fletcher and Burch",Individual,Casino/Gambling,High,SY,0,0,0,1,0,0,High,6,7,240
+426,"Francis, Ramsey and Lee",Corporate,Crypto Exchange,High,CH,0,0,0,0,0,0,High,6,7,241
+427,"Simmons, Davis and Fletcher",Financial Institution,Real Estate,Medium,CA,0,0,0,0,0,0,Medium,4,4,
+428,"Hall, Ward and Morales",Individual,Crypto Exchange,High,KP,0,0,1,1,0,0,High,6,7,242
+429,"Lee, Ellis and Ortiz",Individual,Import/Export,Medium,AU,0,0,0,0,0,0,Medium,4,4,
+430,"Mejia, Turner and Alexander",Corporate,Defense/Arms,High,RU,0,0,0,1,1,0.5,High,6,7,243
+431,Goodwin-Johnson,Individual,Energy/Oil,High,VE,0,0,0,1,1,0,High,6,7,244
+432,Fox PLC,NGO,Real Estate,Medium,CN,0,0,0,0,0,0,Medium,4,4,
+433,Morgan-Smith,Individual,Real Estate,Medium,LB,0,0,0,0,0,0,Medium,4,4,
+434,"Scott, Bowers and Wallace",Financial Institution,Import/Export,Medium,SD,0,0,0,1,0,0,Medium,4,4,
+435,"Keller, Thomas and Harris",NGO,NGO/Charity,High,US,0,0,0,0,0,0.5,High,6,7,245
+436,"Carroll, Davidson and Casey",Financial Institution,Energy/Oil,High,JP,0,0,0,0,1,0,High,6,7,246
+437,"Ross, Simpson and Taylor",Financial Institution,Tech,Low,FR,0,0,0,0,0,0,Low,2,2,
+438,Lang-Schroeder,Financial Institution,Energy/Oil,High,SY,0,0,0,1,1,0,High,6,7,247
+439,Klein PLC,Financial Institution,Financial Services,Medium,CH,0,0,0,0,1,0,Medium,4,4,
+440,Parker Inc,Financial Institution,Defense/Arms,High,IN,0,0,0,0,1,0,High,6,7,248
+441,Burke-Esparza,Individual,Retail,Low,FR,0,0,0,0,0,0,Low,2,2,
+442,"Lewis, Decker and Price",Individual,Energy/Oil,High,US,0,0,0,0,1,0,High,6,7,249
+443,Bennett-Perry,Corporate,Import/Export,Medium,RU,0,0,0,1,0,1,Medium,4,4,
+444,Carr-Obrien,Individual,Tech,Low,VE,0,0,0,1,0,0,Low,2,2,
+445,Brown Ltd,Individual,Tech,Low,UK,0,0,0,0,0,0,Low,2,2,
+446,"Peck, Nguyen and Lewis",NGO,NGO/Charity,High,AF,0,0,0,0,0,0,High,6,7,250
+447,Larson Inc,Financial Institution,Casino/Gambling,High,IR,0,0,1,1,0,0,High,6,7,251
+448,Gibbs-Anthony,Individual,Financial Services,Medium,CA,0,0,0,0,1,0,Medium,4,4,
+449,Arnold Group,Financial Institution,Import/Export,Medium,AE,0,0,0,0,0,0,Medium,4,4,
+450,"Finley, Velez and Romero",Financial Institution,Casino/Gambling,High,CA,0,0,0,0,0,0,High,6,7,252
+451,Elliott Inc,Individual,Energy/Oil,High,AF,0,0,0,0,1,0,High,6,7,253
+452,Taylor Ltd,NGO,Defense/Arms,High,AU,0,0,0,0,1,0,High,6,7,254
+453,"Fernandez, Brown and Clark",Financial Institution,Consulting,Low,KP,0,0,1,1,0,0,High,6,7,255
+454,Anderson-Wallace,Financial Institution,Defense/Arms,High,CH,0,0,0,0,1,0,High,6,7,256
+455,Rodriguez and Sons,Financial Institution,NGO/Charity,High,VE,0,0,0,1,0,0,High,6,7,257
+456,Palmer-Williams,NGO,Financial Services,Medium,UK,0,0,0,0,1,0,Medium,4,4,
+457,"Taylor, Holland and Wood",Individual,Import/Export,Medium,CH,0,0,0,0,0,0,Medium,4,4,
+458,"Gonzales, Jones and Garrett",NGO,Defense/Arms,High,AU,0,0,0,0,1,0,High,6,7,258
+459,Mitchell Inc,Financial Institution,Casino/Gambling,High,SG,0,0,0,0,0,0,High,6,7,259
+460,"Williamson, Simon and Adams",NGO,Financial Services,Medium,VE,0,0,0,1,1,0.5,Medium,4,4,
+461,Norris Group,NGO,Real Estate,Medium,VE,0,0,0,1,0,0,Medium,4,4,
+462,Young Ltd,NGO,Energy/Oil,High,SD,0,0,0,1,1,0,High,6,7,260
+463,Brooks Group,Corporate,NGO/Charity,High,RU,0,0,0,1,0,0,High,6,7,261
+464,Spencer-Griffin,Individual,Defense/Arms,High,RU,0,0,0,1,1,0,High,6,7,262
+465,Phillips-Galloway,Financial Institution,Crypto Exchange,High,SG,0,0,0,0,0,0,High,6,7,263
+466,"Wells, Anderson and Stafford",Financial Institution,Tech,Low,FR,0,0,0,0,0,0,Low,2,2,
+467,Williams-Stewart,Corporate,NGO/Charity,High,KP,0,0,1,1,0,0,High,6,7,264
+468,Smith-Marquez,Individual,Tech,Low,FR,0,0,0,0,0,0,Low,2,2,
+469,"Hernandez, Woods and Cooper",Corporate,NGO/Charity,High,DE,0,0,0,0,0,0,High,6,7,265
+470,Parker-King,Corporate,Defense/Arms,High,VE,0,0,0,1,1,0.5,High,6,7,266
+471,Chan-Smith,NGO,Consulting,Low,DE,0,0,0,0,0,0,Low,2,2,
+472,Harrington Inc,NGO,Casino/Gambling,High,CH,0,0,0,0,0,1,High,6,7,267
+473,Flowers-Peters,Corporate,Tech,Low,KP,0,0,1,1,0,0,High,6,7,268
+474,"Bell, Perez and Chan",Corporate,Real Estate,Medium,KP,0,0,1,1,0,0,High,6,7,269
+475,"Greer, Harrison and Smith",Individual,Financial Services,Medium,US,0,0,0,0,1,0,Medium,4,4,
+476,Cain-Hernandez,NGO,Real Estate,Medium,AF,0,0,0,0,0,0.5,Medium,4,4,
+477,Jordan Group,Financial Institution,Defense/Arms,High,UK,0,0,0,0,1,0,High,6,7,270
+478,Lopez Inc,Financial Institution,NGO/Charity,High,SY,0,0,0,1,0,0,High,6,7,271
+479,Bailey-Johnson,Financial Institution,Tech,Low,US,0,0,0,0,0,0,Low,2,2,
+480,Brown and Sons,Financial Institution,Crypto Exchange,High,UK,0,0,0,0,0,0,High,6,7,272
+481,"Barnes, Palmer and Hernandez",NGO,Energy/Oil,High,AF,0,0,0,0,1,1,High,6,7,273
+482,Johnson PLC,Corporate,Financial Services,Medium,CH,0,0,0,0,1,0,Medium,4,4,
+483,Combs Ltd,Corporate,Crypto Exchange,High,US,0,0,0,0,0,0.5,High,6,7,274
+484,Barrett-West,Individual,Consulting,Low,DE,0,0,0,0,0,0,Low,2,2,
+485,"Gomez, Garner and Miller",NGO,Retail,Low,NL,0,0,0,0,0,0.5,Low,2,2,
+486,"Hinton, Tucker and Simmons",Individual,Real Estate,Medium,DE,0,0,0,0,0,0,Medium,4,4,
+487,Newman-Cabrera,NGO,Defense/Arms,High,UK,0,0,0,0,1,1,High,6,7,275
+488,"Walton, Wang and Harper",Individual,Tech,Low,AU,0,0,0,0,0,0,Low,2,2,
+489,"Woods, Smith and Kim",Corporate,Real Estate,Medium,NL,0,0,0,0,0,0,Medium,4,4,
+490,Taylor Ltd,NGO,Real Estate,Medium,LB,0,0,0,0,0,0,Medium,4,4,
+491,Marshall-Stevenson,Financial Institution,Real Estate,Medium,US,0,0,0,0,0,0,Medium,4,4,
+492,Garcia-Miller,Corporate,Financial Services,Medium,VE,1,0,0,1,1,1,High,6,7,276
+493,"Sullivan, Jacobs and Hopkins",Financial Institution,Retail,Low,FR,0,0,0,0,0,0,Low,2,2,
+494,Cooper LLC,Corporate,Retail,Low,KP,0,0,1,1,0,0.5,High,6,7,277
+495,Rose-Lee,Financial Institution,Import/Export,Medium,CA,0,0,0,0,0,0,Medium,4,4,
+496,Gonzalez-Bailey,Individual,Real Estate,Medium,AE,0,0,0,0,0,0,Medium,4,4,
+497,"Gilmore, Petersen and Walsh",NGO,Defense/Arms,High,JP,0,0,0,0,1,0,High,6,7,278
+498,Miller-Baker,Financial Institution,Crypto Exchange,High,UK,0,0,0,0,0,0,High,6,7,279
+499,Gonzales LLC,NGO,Crypto Exchange,High,SY,0,0,0,1,0,0,High,6,7,280
+500,"Allen, Castillo and Thompson",Financial Institution,Casino/Gambling,High,CA,1,0,0,0,0,0,High,6,7,281
+501,Patel-Avila,Financial Institution,Real Estate,Medium,NL,0,0,0,0,0,0,Medium,4,4,
+502,Robinson Group,NGO,Real Estate,Medium,SY,0,0,0,1,0,0,Medium,4,4,
+503,Ruiz and Sons,Financial Institution,Crypto Exchange,High,SG,0,0,0,0,0,0,High,6,7,282
+504,Grant-Thornton,Individual,Import/Export,Medium,RU,0,0,0,1,0,0,Medium,4,4,
+505,Hart LLC,NGO,Energy/Oil,High,SD,0,0,0,1,1,0,High,6,7,283
+506,Kidd Inc,Individual,Consulting,Low,DE,0,0,0,0,0,0,Low,2,2,
+507,Cain-Taylor,Individual,Energy/Oil,High,NL,0,0,0,0,1,0,High,6,7,284
+508,"Rogers, Figueroa and Garcia",NGO,Energy/Oil,High,VE,0,0,0,1,1,1,High,6,7,285
+509,Hernandez and Sons,NGO,Casino/Gambling,High,SY,0,0,0,1,0,0.5,High,6,7,286
+510,Gonzalez-Brennan,Financial Institution,Energy/Oil,High,RU,0,0,0,1,1,0,High,6,7,287
+511,Simpson-Browning,Corporate,Consulting,Low,VE,0,0,0,1,0,0,Low,2,2,
+512,Baker-Jones,Financial Institution,Real Estate,Medium,RU,0,0,0,1,0,0,Medium,4,4,
+513,Sanders LLC,Financial Institution,Consulting,Low,CA,0,0,0,0,0,0,Low,2,2,
+514,"Morris, Lane and Davis",Individual,Retail,Low,JP,0,0,0,0,0,0,Low,2,2,
+515,Anderson LLC,Financial Institution,Casino/Gambling,High,US,0,0,0,0,0,0,High,6,7,288
+516,"Moore, Davidson and Newton",Financial Institution,Financial Services,Medium,AF,0,0,0,0,1,0,Medium,4,4,
+517,Schwartz-Stewart,Financial Institution,Defense/Arms,High,KP,0,0,1,1,1,0,High,6,7,289
+518,"Snyder, Osborne and Pineda",Financial Institution,Consulting,Low,DE,0,0,0,0,0,0,Low,2,2,
+519,Jones-Erickson,Corporate,Energy/Oil,High,CH,0,0,0,0,1,0,High,6,7,290
+520,"Watkins, Kelly and Peterson",Individual,Retail,Low,US,0,0,0,0,0,0,Low,2,2,
+521,"Tran, Lara and Mccarthy",NGO,Financial Services,Medium,DE,0,0,0,0,1,0,Medium,4,4,
+522,"Miller, Price and Rivera",NGO,Consulting,Low,AU,0,0,0,0,0,0,Low,2,2,
+523,Jones PLC,Corporate,Casino/Gambling,High,US,0,0,0,0,0,0,High,6,7,291
+524,"Reynolds, Gray and Anderson",Financial Institution,Casino/Gambling,High,AF,0,0,0,0,0,0,High,6,7,292
+525,Newman and Sons,Corporate,Import/Export,Medium,AU,0,0,0,0,0,0,Medium,4,4,
+526,Kirby LLC,Individual,Real Estate,Medium,AU,0,0,0,0,0,0,Medium,4,4,
+527,Barnes-Johnson,Corporate,Retail,Low,NL,0,0,0,0,0,0,Low,2,2,
+528,Nelson-Hanson,Corporate,Real Estate,Medium,AF,0,0,0,0,0,0,Medium,4,4,
+529,Miller and Sons,Financial Institution,Casino/Gambling,High,AE,1,0,0,0,0,0,High,6,7,293
+530,James LLC,Financial Institution,Energy/Oil,High,FR,0,0,0,0,1,0,High,6,7,294
+531,Moon-Harper,Corporate,NGO/Charity,High,LB,0,0,0,0,0,0,High,6,7,295
+532,Moreno-Sanders,Financial Institution,Casino/Gambling,High,US,0,0,0,0,0,0,High,6,7,296
+533,Harris-Rodriguez,Individual,Consulting,Low,AE,0,0,0,0,0,0,Low,2,2,
+534,Obrien Ltd,Individual,Casino/Gambling,High,RU,0,0,0,1,0,0,High,6,7,297
+535,"Herring, Rasmussen and Villa",Individual,Defense/Arms,High,RU,0,0,0,1,1,0,High,6,7,298
+536,"Walker, Li and Ramsey",NGO,Real Estate,Medium,US,0,0,0,0,0,0,Medium,4,4,
+537,"Powell, Palmer and Sanders",Financial Institution,Import/Export,Medium,AU,0,0,0,0,0,0,Medium,4,4,
+538,"Kane, Harris and Wright",Corporate,Tech,Low,SG,0,0,0,0,0,0.5,Low,2,2,
+539,Moore Inc,Corporate,Energy/Oil,High,CH,0,0,0,0,1,0,High,6,7,299
+540,"Nolan, Rodriguez and Ruiz",Individual,Tech,Low,AE,0,0,0,0,0,0,Low,2,2,
+541,"Wood, Sanchez and Anderson",Financial Institution,Retail,Low,KP,0,0,1,1,0,0,High,6,7,300
+542,Hernandez PLC,Financial Institution,Retail,Low,IR,0,0,1,1,0,0,High,6,7,301
+543,Powers Ltd,Individual,Import/Export,Medium,DE,0,0,0,0,0,0,Medium,4,4,
+544,Wagner-Clark,Financial Institution,Defense/Arms,High,AE,0,0,0,0,1,0,High,6,7,302
+545,Hancock-Kim,Individual,Defense/Arms,High,JP,0,0,0,0,1,0,High,6,7,303
+546,Graham Group,NGO,Financial Services,Medium,IN,0,0,0,0,1,0,Medium,4,4,
+547,Warren LLC,Corporate,Import/Export,Medium,UK,0,0,0,0,0,0.5,Medium,4,4,
+548,"Ibarra, Wheeler and Thomas",Corporate,Financial Services,Medium,LB,0,0,0,0,1,0,Medium,4,4,
+549,Sheppard PLC,NGO,Retail,Low,IN,0,0,0,0,0,0.5,Low,2,2,
+550,Martin-Anderson,Corporate,Energy/Oil,High,CH,0,0,0,0,1,0,High,6,7,304
+551,"Anderson, Hayes and Rhodes",Individual,Retail,Low,IN,0,0,0,0,0,0,Low,2,2,
+552,Kidd Ltd,NGO,Energy/Oil,High,KP,0,0,1,1,1,0,High,6,7,305
+553,Reynolds-Johnson,NGO,Crypto Exchange,High,IR,0,0,1,1,0,1,High,6,7,306
+554,Roman-Garza,Financial Institution,NGO/Charity,High,CN,0,0,0,0,0,0,High,6,7,307
+555,"Mcbride, Mitchell and Stephens",Corporate,Financial Services,Medium,SG,0,0,0,0,1,0,Medium,4,4,
+556,Joseph-Silva,Financial Institution,Casino/Gambling,High,IR,0,0,1,1,0,0,High,6,7,308
+557,Nguyen Inc,Individual,Retail,Low,CA,0,0,0,0,0,0,Low,2,2,
+558,Huynh LLC,Corporate,NGO/Charity,High,AU,1,0,0,0,0,0,High,6,7,309
+559,Rivera PLC,Financial Institution,NGO/Charity,High,SY,0,0,0,1,0,0,High,6,7,310
+560,Griffith Ltd,Corporate,Retail,Low,AF,0,0,0,0,0,0,Low,2,2,
+561,"Ochoa, Carr and Miller",Individual,Tech,Low,KP,0,0,1,1,0,0,High,6,7,311
+562,Miller-Williams,Financial Institution,NGO/Charity,High,SG,0,1,0,0,0,0,High,6,7,312
+563,Brown-Watson,NGO,Crypto Exchange,High,RU,0,0,0,1,0,1,High,6,7,313
+564,Barrett LLC,Financial Institution,Casino/Gambling,High,US,0,0,0,0,0,0,High,6,7,314
+565,"Weaver, Hale and Gibson",Financial Institution,NGO/Charity,High,AU,0,0,0,0,0,0,High,6,7,315
+566,"Carr, Crawford and Carr",Corporate,Import/Export,Medium,CH,0,0,0,0,0,0,Medium,4,4,
+567,Morales-Ramirez,Individual,Energy/Oil,High,DE,0,0,0,0,1,0,High,6,7,316
+568,Wilson-Holmes,NGO,Consulting,Low,SD,0,0,0,1,0,0,Low,2,2,
+569,Mitchell LLC,NGO,Defense/Arms,High,SY,0,1,0,1,1,0,High,6,7,317
+570,"Anderson, Smith and Kim",Individual,Retail,Low,SG,0,0,0,0,0,0,Low,2,2,
+571,"Rush, Hernandez and Watkins",Financial Institution,Crypto Exchange,High,UK,0,0,0,0,0,0,High,6,7,318
+572,"Ward, Bradford and Brown",Financial Institution,Consulting,Low,RU,0,0,0,1,0,0,Low,2,2,
+573,"Alvarez, Long and Alvarado",Individual,Import/Export,Medium,FR,0,0,0,0,0,0,Medium,4,4,
+574,Dalton-Sellers,NGO,Consulting,Low,AU,0,0,0,0,0,0,Low,2,2,
+575,"Schmidt, Fisher and Hines",Corporate,Defense/Arms,High,AE,0,0,0,0,1,0,High,6,7,319
+576,"Todd, Baker and Jones",Individual,Defense/Arms,High,AU,0,0,0,0,1,0,High,6,7,320
+577,"Gray, Gillespie and Garrett",Financial Institution,Retail,Low,NL,0,0,0,0,0,0,Low,2,2,
+578,"George, Lopez and Rodriguez",Individual,Energy/Oil,High,FR,0,0,0,0,1,0,High,6,7,321
+579,Miller Inc,Corporate,Defense/Arms,High,AU,0,0,0,0,1,0,High,6,7,322
+580,Curry-Hatfield,Financial Institution,Financial Services,Medium,SD,0,0,0,1,1,0,Medium,4,4,
+581,Smith Inc,Financial Institution,NGO/Charity,High,NL,0,0,0,0,0,0,High,6,7,323
+582,"Chen, Romero and Kim",NGO,Consulting,Low,AF,0,0,0,0,0,0,Low,2,2,
+583,"Smith, Powers and Coleman",NGO,Financial Services,Medium,KP,0,0,1,1,1,1,High,6,7,324
+584,"Dawson, Smith and White",Individual,Import/Export,Medium,SG,0,0,0,0,0,0,Medium,4,4,
+585,George and Sons,Corporate,Import/Export,Medium,JP,0,1,0,0,0,0,High,6,7,325
+586,"Reid, Sims and Smith",NGO,Tech,Low,LB,0,0,0,0,0,0,Low,2,2,
+587,Stafford-Steele,Corporate,Crypto Exchange,High,CA,0,0,0,0,0,1,High,6,7,326
+588,"White, Winters and Garrett",Financial Institution,Retail,Low,AF,0,0,0,0,0,0,Low,2,2,
+589,"Gould, Cruz and Hodge",Financial Institution,Casino/Gambling,High,UK,0,0,0,0,0,0,High,6,7,327
+590,Monroe Inc,Individual,Tech,Low,SD,0,0,0,1,0,0,Low,2,2,
+591,Hendrix Inc,Financial Institution,NGO/Charity,High,SG,0,0,0,0,0,0,High,6,7,328
+592,Sherman-Lewis,Corporate,Consulting,Low,IR,0,0,1,1,0,0,High,6,7,329
+593,Schwartz LLC,Financial Institution,Real Estate,Medium,CH,0,0,0,0,0,0,Medium,4,4,
+594,"Foster, Thompson and Brown",NGO,Energy/Oil,High,CN,0,0,0,0,1,0,High,6,7,330
+595,Morton-Moore,Financial Institution,Financial Services,Medium,DE,0,0,0,0,1,0,Medium,4,4,
+596,Palmer Ltd,Corporate,Tech,Low,AF,0,0,0,0,0,0.5,Low,2,2,
+597,Brown LLC,Corporate,Retail,Low,AU,0,0,0,0,0,1,Medium,4,4,
+598,Kaiser LLC,Corporate,Real Estate,Medium,KP,0,0,1,1,0,0.5,High,6,7,331
+599,Roberts-Lee,Corporate,Defense/Arms,High,FR,0,0,0,0,1,0,High,6,7,332
+600,"Greer, Stone and Garcia",Individual,Import/Export,Medium,UK,0,0,0,0,0,0,Medium,4,4,
+601,Johnson-Morris,NGO,Defense/Arms,High,CH,0,0,0,0,1,1,High,6,7,333
+602,Johnson-Brady,Financial Institution,Retail,Low,SY,0,0,0,1,0,0,Low,2,2,
+603,"Klein, Brown and Myers",NGO,Consulting,Low,LB,0,0,0,0,0,0,Low,2,2,
+604,"Parker, Johnson and Welch",Corporate,Consulting,Low,CA,0,0,0,0,0,0,Low,2,2,
+605,"Howard, Morgan and Stafford",Financial Institution,Import/Export,Medium,CA,0,0,0,0,0,0,Medium,4,4,
+606,"Griffin, Davis and Davis",Financial Institution,NGO/Charity,High,CH,1,0,0,0,0,0,High,6,7,334
+607,"Jordan, Flores and Ross",Individual,Defense/Arms,High,SY,0,0,0,1,1,0,High,6,7,335
+608,Reed-Jensen,NGO,NGO/Charity,High,JP,0,0,0,0,0,0,High,6,7,336
+609,"Hendrix, Thomas and Fitzpatrick",Financial Institution,Retail,Low,CN,0,0,0,0,0,0,Low,2,2,
+610,"Goodman, Barnett and Taylor",NGO,Consulting,Low,SD,1,0,0,1,0,0,High,6,7,337
+611,"Ruiz, Schneider and Floyd",Corporate,Retail,Low,KP,0,0,1,1,0,0,High,6,7,338
+612,Adams-Howard,NGO,Financial Services,Medium,NL,0,0,0,0,1,0,Medium,4,4,
+613,Clark-Mendoza,Financial Institution,Financial Services,Medium,AE,0,0,0,0,1,0,Medium,4,4,
+614,Hernandez-Hughes,Individual,Import/Export,Medium,FR,0,0,0,0,0,0,Medium,4,4,
+615,"Kelly, Fox and Powers",Individual,Import/Export,Medium,AE,0,0,0,0,0,0,Medium,4,4,
+616,"Edwards, Smith and Lewis",Individual,Retail,Low,NL,0,0,0,0,0,0,Low,2,2,
+617,Harris Ltd,NGO,NGO/Charity,High,US,0,0,0,0,0,0,High,6,7,339
+618,Alvarez-Hill,Corporate,Energy/Oil,High,NL,0,0,0,0,1,0,High,6,7,340
+619,Johnson Inc,Financial Institution,Import/Export,Medium,KP,0,0,1,1,0,0,High,6,7,341
+620,Hubbard and Sons,NGO,Energy/Oil,High,LB,0,0,0,0,1,0.5,High,6,7,342
+621,"Marshall, Harris and Dunn",Corporate,NGO/Charity,High,SD,0,0,0,1,0,0.5,High,6,7,343
+622,Campbell-Wu,Financial Institution,Energy/Oil,High,US,0,0,0,0,1,0,High,6,7,344
+623,Ramos Inc,Corporate,Defense/Arms,High,KP,0,0,1,1,1,0,High,6,7,345
+624,Thomas and Sons,Corporate,Energy/Oil,High,CH,0,0,0,0,1,0,High,6,7,346
+625,Cook Group,Corporate,Real Estate,Medium,RU,0,0,0,1,0,0,Medium,4,4,
+626,Smith-Santos,Individual,Energy/Oil,High,SD,0,0,0,1,1,0,High,6,7,347
+627,Baker and Sons,Corporate,Consulting,Low,NL,0,0,0,0,0,0,Low,2,2,
+628,Jackson-Cunningham,NGO,Tech,Low,US,0,0,0,0,0,0,Low,2,2,
+629,Harris-Gray,Financial Institution,Real Estate,Medium,AE,0,0,0,0,0,0,Medium,4,4,
+630,Thomas Ltd,Individual,Tech,Low,CH,0,0,0,0,0,0,Low,2,2,
+631,"Schmitt, Jones and Mathews",Individual,Real Estate,Medium,AF,0,0,0,0,0,0,Medium,4,4,
+632,Bailey-Myers,NGO,Real Estate,Medium,VE,0,0,0,1,0,0,Medium,4,4,
+633,"Humphrey, Cohen and Carter",Financial Institution,Defense/Arms,High,NL,0,0,0,0,1,0,High,6,7,348
+634,"Reed, Butler and Burns",Financial Institution,Crypto Exchange,High,LB,1,0,0,0,0,0,High,6,7,349
+635,Fritz-Myers,NGO,Tech,Low,SD,0,0,0,1,0,0,Low,2,2,
+636,Peterson-Moore,Financial Institution,Defense/Arms,High,RU,0,0,0,1,1,0,High,6,7,350
+637,Ingram Ltd,Corporate,Consulting,Low,US,0,0,0,0,0,0.5,Low,2,2,
+638,"Pace, Wagner and Bowman",Corporate,Energy/Oil,High,LB,0,0,0,0,1,0,High,6,7,351
+639,"Craig, Livingston and Pena",NGO,Financial Services,Medium,LB,0,0,0,0,1,0,Medium,4,4,
+640,Bradford Inc,NGO,Import/Export,Medium,NL,0,0,0,0,0,0,Medium,4,4,
+641,Yang Inc,Financial Institution,Retail,Low,AU,0,0,0,0,0,0,Low,2,2,
+642,Klein and Sons,Corporate,Real Estate,Medium,RU,0,0,0,1,0,0.5,Medium,4,4,
+643,"Burgess, Wallace and Griffin",NGO,Crypto Exchange,High,FR,0,0,0,0,0,0,High,6,7,352
+644,Kramer LLC,NGO,Defense/Arms,High,CA,0,0,0,0,1,0,High,6,7,353
+645,"Jones, Vega and Williams",NGO,Defense/Arms,High,CH,0,0,0,0,1,0,High,6,7,354
+646,Avila-Brock,Corporate,Retail,Low,KP,0,0,1,1,0,0,High,6,7,355
+647,Fitzgerald-Garner,Corporate,Casino/Gambling,High,RU,0,0,0,1,0,0,High,6,7,356
+648,Martin-Barrett,Financial Institution,NGO/Charity,High,AE,0,0,0,0,0,0,High,6,7,357
+649,Hicks and Sons,Individual,Crypto Exchange,High,DE,0,0,0,0,0,0,High,6,7,358
+650,"Scott, Peterson and Maxwell",Financial Institution,NGO/Charity,High,SD,0,0,0,1,0,0,High,6,7,359
+651,Warner-Gonzalez,Corporate,Consulting,Low,SY,0,0,0,1,0,0,Low,2,2,
+652,Lawrence-Garcia,Individual,NGO/Charity,High,IR,0,0,1,1,0,0,High,6,7,360
+653,Jarvis LLC,NGO,NGO/Charity,High,NL,0,0,0,0,0,0,High,6,7,361
+654,"Mckay, Wheeler and Ellis",Corporate,Import/Export,Medium,CA,1,0,0,0,0,0,High,6,7,362
+655,Mccoy Group,Corporate,Crypto Exchange,High,AU,0,0,0,0,0,0.5,High,6,7,363
+656,"Mcbride, Solomon and Lane",Corporate,Energy/Oil,High,AU,0,0,0,0,1,0.5,High,6,7,364
+657,Osborn-Webb,Corporate,NGO/Charity,High,CN,0,0,0,0,0,0,High,6,7,365
+658,Mendoza-Parrish,NGO,Import/Export,Medium,IR,0,0,1,1,0,0,High,6,7,366
+659,"Logan, Gregory and Decker",Financial Institution,Real Estate,Medium,SG,0,0,0,0,0,0,Medium,4,4,
+660,White Inc,Financial Institution,Tech,Low,CN,0,0,0,0,0,0,Low,2,2,
+661,"Norton, Austin and Gardner",Corporate,Retail,Low,CH,0,1,0,0,0,0,High,6,7,367
+662,"Smith, Rivera and Nguyen",Financial Institution,Financial Services,Medium,AU,0,0,0,0,1,0,Medium,4,4,
+663,Graham-Shea,Corporate,Casino/Gambling,High,SD,0,0,0,1,0,0,High,6,7,368
+664,Daniels and Sons,Corporate,Consulting,Low,CH,0,0,0,0,0,0.5,Low,2,2,
+665,"Lopez, Bell and Spears",Financial Institution,Energy/Oil,High,LB,1,1,0,0,1,0,High,6,7,369
+666,Williams Inc,NGO,Defense/Arms,High,SY,0,0,0,1,1,0,High,6,7,370
+667,Miller-Barber,Individual,Defense/Arms,High,US,0,0,0,0,1,0,High,6,7,371
+668,"Landry, Gomez and Moreno",Financial Institution,Import/Export,Medium,IR,0,0,1,1,0,0,High,6,7,372
+669,Mendez-Baker,NGO,Defense/Arms,High,SG,0,0,0,0,1,0,High,6,7,373
+670,Calhoun-Mitchell,Individual,Energy/Oil,High,CN,0,0,0,0,1,0,High,6,7,374
+671,"Rodriguez, Coleman and Mckee",Financial Institution,Real Estate,Medium,VE,0,0,0,1,0,0,Medium,4,4,
+672,Martinez and Sons,Financial Institution,Tech,Low,FR,0,0,0,0,0,0,Low,2,2,
+673,Bell-Turner,NGO,Casino/Gambling,High,US,0,0,0,0,0,0.5,High,6,7,375
+674,Sparks-Gray,Corporate,Casino/Gambling,High,CH,0,0,0,0,0,0,High,6,7,376
+675,Lester-Peterson,Financial Institution,Crypto Exchange,High,AE,0,0,0,0,0,0,High,6,7,377
+676,"White, Santos and Arroyo",Individual,NGO/Charity,High,IR,0,0,1,1,0,0,High,6,7,378
+677,Hayes and Sons,Individual,Energy/Oil,High,AF,0,0,0,0,1,0,High,6,7,379
+678,Robinson Inc,Corporate,Consulting,Low,CH,0,0,0,0,0,0,Low,2,2,
+679,Cunningham-Johnson,NGO,Crypto Exchange,High,VE,0,0,0,1,0,0,High,6,7,380
+680,"Garrett, Esparza and Reed",Individual,Retail,Low,NL,0,0,0,0,0,0,Low,2,2,
+681,Baker-Parsons,Individual,Energy/Oil,High,NL,0,0,0,0,1,0,High,6,7,381
+682,"Frazier, Johnson and Moreno",Corporate,Real Estate,Medium,AF,0,0,0,0,0,0,Medium,4,4,
+683,Phillips Group,NGO,Retail,Low,VE,0,0,0,1,0,1,Medium,4,4,
+684,"Gray, Castaneda and Park",Corporate,NGO/Charity,High,RU,0,0,0,1,0,0,High,6,7,382
+685,Reynolds-Moss,Financial Institution,Tech,Low,SD,0,0,0,1,0,0,Low,2,2,
+686,"Glover, Walker and Arellano",NGO,Real Estate,Medium,NL,0,0,0,0,0,0,Medium,4,4,
+687,Boyd PLC,Individual,Tech,Low,NL,0,0,0,0,0,0,Low,2,2,
+688,"Price, Kennedy and Cox",Individual,Financial Services,Medium,DE,0,0,0,0,1,0,Medium,4,4,
+689,Cain-Miller,Financial Institution,Energy/Oil,High,VE,0,0,0,1,1,0,High,6,7,383
+690,Griffin and Sons,NGO,Consulting,Low,UK,0,0,0,0,0,0,Low,2,2,
+691,"Hernandez, Sheppard and Savage",NGO,Consulting,Low,IR,0,0,1,1,0,0,High,6,7,384
+692,Mendoza and Sons,Individual,Defense/Arms,High,CN,0,0,0,0,1,0,High,6,7,385
+693,Dean LLC,Financial Institution,Energy/Oil,High,IR,0,0,1,1,1,0,High,6,7,386
+694,"Davenport, Williams and Smith",NGO,Financial Services,Medium,NL,0,0,0,0,1,0,Medium,4,4,
+695,Richardson and Sons,Corporate,Tech,Low,LB,0,0,0,0,0,0,Low,2,2,
+696,Jones PLC,Corporate,Real Estate,Medium,SD,0,0,0,1,0,0,Medium,4,4,
+697,"Gonzalez, Hampton and Aguilar",Individual,Defense/Arms,High,SG,0,0,0,0,1,0,High,6,7,387
+698,"Hess, Jenkins and Anderson",Financial Institution,Defense/Arms,High,SD,0,0,0,1,1,0,High,6,7,388
+699,Dawson-Young,Corporate,NGO/Charity,High,LB,0,0,0,0,0,0,High,6,7,389
+700,Nelson Group,Financial Institution,Retail,Low,US,0,0,0,0,0,0,Low,2,2,
+701,"Mcmillan, Snyder and Myers",NGO,Real Estate,Medium,CH,0,0,0,0,0,0.5,Medium,4,4,
+702,"Martin, Taylor and Martin",NGO,NGO/Charity,High,IN,0,0,0,0,0,0.5,High,6,7,390
+703,Harrison-Anthony,NGO,Defense/Arms,High,SD,0,0,0,1,1,0.5,High,6,7,391
+704,Miller-Smith,Financial Institution,Retail,Low,LB,0,0,0,0,0,0,Low,2,2,
+705,"Perez, Perez and Whitehead",Individual,Financial Services,Medium,AF,0,0,0,0,1,0,Medium,4,4,
+706,Dillon Inc,Corporate,Import/Export,Medium,UK,0,0,0,0,0,0,Medium,4,4,
+707,Johnson-Diaz,NGO,NGO/Charity,High,SY,0,0,0,1,0,0,High,6,7,392
+708,Powell-Clark,Corporate,Energy/Oil,High,CN,0,0,0,0,1,1,High,6,7,393
+709,Roth PLC,Financial Institution,Energy/Oil,High,VE,1,0,0,1,1,0,High,6,7,394
+710,Walter and Sons,Financial Institution,Casino/Gambling,High,AF,0,0,0,0,0,0,High,6,7,395
+711,Allen Group,NGO,Financial Services,Medium,AU,1,0,0,0,1,1,High,6,7,396
+712,Fuentes Ltd,Individual,Financial Services,Medium,AE,0,0,0,0,1,0,Medium,4,4,
+713,Baker-Bryant,NGO,Energy/Oil,High,IR,0,0,1,1,1,0,High,6,7,397
+714,Gallegos and Sons,NGO,Import/Export,Medium,FR,0,1,0,0,0,0,High,6,7,398
+715,Guzman Inc,Corporate,Real Estate,Medium,FR,0,0,0,0,0,0.5,Medium,4,4,
+716,Torres-Hernandez,NGO,Defense/Arms,High,IR,0,0,1,1,1,0,High,6,7,399
+717,Jones-Atkinson,NGO,Casino/Gambling,High,LB,0,0,0,0,0,0.5,High,6,7,400
+718,Martin-Moore,Financial Institution,Consulting,Low,FR,0,0,0,0,0,0,Low,2,2,
+719,"Fuller, Pearson and Burns",NGO,Import/Export,Medium,CN,0,0,0,0,0,0.5,Medium,4,4,
+720,Reid-Alvarez,Financial Institution,Import/Export,Medium,CN,0,0,0,0,0,0,Medium,4,4,
+721,Russell Ltd,Corporate,NGO/Charity,High,IN,0,0,0,0,0,0,High,6,7,401
+722,Sutton LLC,NGO,NGO/Charity,High,JP,0,0,0,0,0,0,High,6,7,402
+723,Reynolds Inc,Financial Institution,Real Estate,Medium,CN,0,0,0,0,0,0,Medium,4,4,
+724,Powell Inc,Corporate,Defense/Arms,High,FR,0,0,0,0,1,1,High,6,7,403
+725,Sanchez Ltd,NGO,Defense/Arms,High,US,0,0,0,0,1,0.5,High,6,7,404
+726,Williams-Davis,Financial Institution,Import/Export,Medium,LB,0,0,0,0,0,0,Medium,4,4,
+727,Anderson-Rivera,NGO,Casino/Gambling,High,SD,0,0,0,1,0,0,High,6,7,405
+728,Fernandez-Bush,NGO,Retail,Low,IN,0,0,0,0,0,0,Low,2,2,
+729,"Morris, Sims and Edwards",Individual,Crypto Exchange,High,SG,0,0,0,0,0,0,High,6,7,406
+730,Myers and Sons,NGO,Financial Services,Medium,UK,0,0,0,0,1,1,Medium,4,4,
+731,Davis Inc,Financial Institution,Consulting,Low,SY,1,1,0,1,0,0,High,6,7,407
+732,Wright-Vance,Corporate,Tech,Low,FR,0,0,0,0,0,0,Low,2,2,
+733,Henderson-Eaton,Individual,Consulting,Low,KP,0,0,1,1,0,0,High,6,7,408
+734,"Farley, Foley and Dodson",Financial Institution,Financial Services,Medium,UK,1,0,0,0,1,0,High,6,7,409
+735,"Porter, Allen and Hartman",Individual,Import/Export,Medium,AF,0,0,0,0,0,0,Medium,4,4,
+736,Williams-Diaz,Corporate,NGO/Charity,High,NL,0,0,0,0,0,0.5,High,6,7,410
+737,French PLC,Individual,Retail,Low,SD,0,0,0,1,0,0,Low,2,2,
+738,"Travis, Turner and Henderson",Individual,Import/Export,Medium,CN,0,0,0,0,0,0,Medium,4,4,
+739,Reed-Knight,Individual,Consulting,Low,AE,0,0,0,0,0,0,Low,2,2,
+740,Mcbride Group,Individual,Real Estate,Medium,SG,0,0,0,0,0,0,Medium,4,4,
+741,"Jensen, Bell and Fischer",Corporate,Defense/Arms,High,SY,0,0,0,1,1,1,High,6,7,411
+742,Dodson-Reynolds,NGO,Financial Services,Medium,CH,0,0,0,0,1,0,Medium,4,4,
+743,Alexander-Mckenzie,Individual,Crypto Exchange,High,RU,0,0,0,1,0,0,High,6,7,412
+744,"Keller, Rosario and Moore",Financial Institution,Financial Services,Medium,CA,0,0,0,0,1,0,Medium,4,4,
+745,"Munoz, Anderson and Rios",NGO,Retail,Low,UK,0,0,0,0,0,0,Low,2,2,
+746,Martin-Phillips,Financial Institution,Casino/Gambling,High,CH,0,0,0,0,0,0,High,6,7,413
+747,"Hartman, Nelson and Burns",Individual,Financial Services,Medium,AF,0,0,0,0,1,0,Medium,4,4,
+748,"Herrera, Reynolds and Stuart",Corporate,Real Estate,Medium,AU,1,0,0,0,0,0,High,6,7,414
+749,Miller-Shaffer,Financial Institution,Energy/Oil,High,NL,0,0,0,0,1,0,High,6,7,415
+750,Day and Sons,NGO,Casino/Gambling,High,FR,0,0,0,0,0,0.5,High,6,7,416
+751,Choi-Short,Corporate,Import/Export,Medium,RU,0,1,0,1,0,1,High,6,7,417
+752,Foster Ltd,Corporate,Casino/Gambling,High,RU,0,0,0,1,0,0,High,6,7,418
+753,Smith and Sons,Individual,Real Estate,Medium,JP,0,0,0,0,0,0,Medium,4,4,
+754,Watts and Sons,NGO,Real Estate,Medium,KP,0,0,1,1,0,0,High,6,7,419
+755,"Ferguson, Edwards and Smith",Individual,Tech,Low,CN,0,0,0,0,0,0,Low,2,2,
+756,Cook-Malone,Individual,Casino/Gambling,High,AE,0,0,0,0,0,0,High,6,7,420
+757,Walter-Leonard,Corporate,Energy/Oil,High,JP,1,0,0,0,1,0,High,6,7,421
+758,Small PLC,NGO,Casino/Gambling,High,IN,0,0,0,0,0,1,High,6,7,422
+759,Murphy LLC,Corporate,Casino/Gambling,High,NL,0,0,0,0,0,0,High,6,7,423
+760,"Myers, Guzman and Barrett",Corporate,Defense/Arms,High,AE,0,0,0,0,1,0,High,6,7,424
+761,Collier-Wright,NGO,Consulting,Low,US,0,0,0,0,0,0.5,Low,2,2,
+762,Roberts LLC,Individual,Retail,Low,CA,0,0,0,0,0,0,Low,2,2,
+763,"Rogers, Wilson and Gutierrez",NGO,NGO/Charity,High,LB,0,0,0,0,0,0,High,6,7,425
+764,"Bishop, Anderson and Gibbs",NGO,Crypto Exchange,High,SY,0,0,0,1,0,0,High,6,7,426
+765,Moyer Ltd,Corporate,NGO/Charity,High,AU,0,0,0,0,0,0,High,6,7,427
+766,Mathews PLC,Financial Institution,Energy/Oil,High,IN,0,0,0,0,1,0,High,6,7,428
+767,Harris-Dixon,Individual,NGO/Charity,High,FR,0,0,0,0,0,0,High,6,7,429
+768,Thomas-Martin,Individual,Tech,Low,CH,0,1,0,0,0,0,High,6,7,430
+769,Thornton LLC,Financial Institution,Energy/Oil,High,AU,0,0,0,0,1,0,High,6,7,431
+770,Barrett-Hernandez,Individual,Crypto Exchange,High,US,0,0,0,0,0,0,High,6,7,432
+771,Moore-Roach,Corporate,Tech,Low,KP,0,0,1,1,0,0,High,6,7,433
+772,Clark-Brown,Financial Institution,Casino/Gambling,High,SY,0,0,0,1,0,0,High,6,7,434
+773,Reyes-Bennett,Individual,NGO/Charity,High,AF,0,0,0,0,0,0,High,6,7,435
+774,Todd Group,Financial Institution,Financial Services,Medium,US,0,0,0,0,1,0,Medium,4,4,
+775,"Kelly, Garcia and Thompson",Corporate,Import/Export,Medium,AU,0,0,0,0,0,0,Medium,4,4,
+776,"Young, George and Erickson",Financial Institution,Consulting,Low,CN,0,0,0,0,0,0,Low,2,2,
+777,Moody-Petersen,Individual,Consulting,Low,DE,0,0,0,0,0,0,Low,2,2,
+778,"Flynn, Bowman and Stewart",Individual,Consulting,Low,FR,0,0,0,0,0,0,Low,2,2,
+779,"Alvarado, Taylor and Black",Individual,Defense/Arms,High,FR,0,0,0,0,1,0,High,6,7,436
+780,Huerta-Black,NGO,Real Estate,Medium,CN,0,0,0,0,0,0,Medium,4,4,
+781,Norris Ltd,Individual,Crypto Exchange,High,RU,0,0,0,1,0,0,High,6,7,437
+782,"Holmes, Peters and Fischer",NGO,NGO/Charity,High,AF,0,0,0,0,0,0,High,6,7,438
+783,Ford LLC,Individual,Financial Services,Medium,IN,0,0,0,0,1,0,Medium,4,4,
+784,"Pruitt, Johnson and Miranda",Financial Institution,NGO/Charity,High,FR,0,0,0,0,0,0,High,6,7,439
+785,Robinson Inc,Financial Institution,Import/Export,Medium,NL,0,0,0,0,0,0,Medium,4,4,
+786,Walker and Sons,Financial Institution,Import/Export,Medium,SY,0,0,0,1,0,0,Medium,4,4,
+787,Nguyen PLC,NGO,Energy/Oil,High,CA,0,0,0,0,1,0,High,6,7,440
+788,Gibson Group,Corporate,Crypto Exchange,High,AE,0,0,0,0,0,0,High,6,7,441
+789,"Curtis, Vargas and Taylor",NGO,Defense/Arms,High,US,0,0,0,0,1,0,High,6,7,442
+790,"Martinez, Miller and Bridges",Corporate,Energy/Oil,High,SD,0,0,0,1,1,1,High,6,7,443
+791,"Khan, Rogers and Bell",NGO,Retail,Low,AE,0,0,0,0,0,0,Low,2,2,
+792,"Carroll, Keller and Cardenas",Financial Institution,Financial Services,Medium,NL,0,0,0,0,1,0,Medium,4,4,
+793,"Hunt, Chung and Stone",Corporate,Casino/Gambling,High,SD,0,0,0,1,0,0,High,6,7,444
+794,"Kirk, Lin and Mcfarland",Financial Institution,Energy/Oil,High,FR,0,0,0,0,1,0,High,6,7,445
+795,"Anderson, Alexander and Clark",Individual,NGO/Charity,High,VE,0,0,0,1,0,0,High,6,7,446
+796,Hernandez and Sons,Individual,Retail,Low,US,0,0,0,0,0,0,Low,2,2,
+797,Tucker Group,NGO,Consulting,Low,SD,0,0,0,1,0,0,Low,2,2,
+798,Brown-Baker,NGO,NGO/Charity,High,JP,0,0,0,0,0,0,High,6,7,447
+799,Jackson Inc,NGO,Financial Services,Medium,AU,0,0,0,0,1,0.5,Medium,4,4,
+800,"Banks, Henry and Mckinney",NGO,Import/Export,Medium,CN,0,0,0,0,0,0,Medium,4,4,
+801,Evans-Kerr,Financial Institution,Crypto Exchange,High,JP,0,0,0,0,0,0,High,6,7,448
+802,"Thomas, Henry and Miller",Individual,Casino/Gambling,High,FR,0,0,0,0,0,0,High,6,7,449
+803,Dean-Potter,Financial Institution,Retail,Low,LB,0,0,0,0,0,0,Low,2,2,
+804,"Atkins, Bass and Greene",Corporate,NGO/Charity,High,SD,0,0,0,1,0,0.5,High,6,7,450
+805,Gentry and Sons,Corporate,Consulting,Low,VE,0,0,0,1,0,0,Low,2,2,
+806,"Hayden, Martin and Jordan",Individual,Crypto Exchange,High,AF,0,0,0,0,0,0,High,6,7,451
+807,"King, Rivera and Harrison",Individual,Defense/Arms,High,CN,0,0,0,0,1,0,High,6,7,452
+808,"Huffman, Hudson and Evans",NGO,Import/Export,Medium,SY,0,0,0,1,0,0,Medium,4,4,
+809,Perry-Murphy,NGO,Energy/Oil,High,AU,0,0,0,0,1,0.5,High,6,7,453
+810,"Clark, Taylor and Green",Individual,Energy/Oil,High,DE,1,0,0,0,1,0,High,6,7,454
+811,"Frye, Strong and Edwards",Individual,Casino/Gambling,High,SD,0,0,0,1,0,0,High,6,7,455
+812,Norton PLC,Corporate,Retail,Low,JP,0,0,0,0,0,1,Medium,4,4,
+813,"Rogers, Moore and Daniels",NGO,Crypto Exchange,High,AE,0,0,0,0,0,0,High,6,7,456
+814,Foster LLC,Individual,Financial Services,Medium,SG,0,0,0,0,1,0,Medium,4,4,
+815,Scott Group,Corporate,Casino/Gambling,High,VE,0,0,0,1,0,1,High,6,7,457
+816,Carey Group,Corporate,Energy/Oil,High,JP,0,0,0,0,1,0,High,6,7,458
+817,"Barton, Ortiz and Johnson",Financial Institution,Consulting,Low,VE,0,0,0,1,0,0,Low,2,2,
+818,"Mcdonald, Chang and Wilson",Financial Institution,Crypto Exchange,High,IR,0,0,1,1,0,0,High,6,7,459
+819,Finley-Higgins,Corporate,Crypto Exchange,High,FR,0,0,0,0,0,0,High,6,7,460
+820,"Chavez, Johnston and Hicks",Corporate,Energy/Oil,High,VE,0,0,0,1,1,0,High,6,7,461
+821,Ford-Wood,NGO,Casino/Gambling,High,RU,0,0,0,1,0,0,High,6,7,462
+822,Snyder PLC,NGO,Import/Export,Medium,LB,0,1,0,0,0,0,High,6,7,463
+823,Thomas Group,Corporate,Import/Export,Medium,SD,0,0,0,1,0,0,Medium,4,4,
+824,Nelson-Hart,Corporate,Crypto Exchange,High,CA,1,0,0,0,0,0,High,6,7,464
+825,Fields-Diaz,Individual,Tech,Low,US,0,0,0,0,0,0,Low,2,2,
+826,Clark Group,NGO,Retail,Low,AF,0,0,0,0,0,0.5,Low,2,2,
+827,Tucker-Wright,NGO,Energy/Oil,High,CN,0,0,0,0,1,0,High,6,7,465
+828,Allen Ltd,Corporate,Tech,Low,VE,0,1,0,1,0,0,High,6,7,466
+829,Ortiz-Hernandez,Financial Institution,Casino/Gambling,High,VE,0,0,0,1,0,0,High,6,7,467
+830,Yang PLC,Corporate,Retail,Low,DE,0,0,0,0,0,0.5,Low,2,2,
+831,Rivera-Lopez,Individual,Consulting,Low,CA,0,0,0,0,0,0,Low,2,2,
+832,Brown LLC,NGO,Crypto Exchange,High,SD,0,1,0,1,0,0,High,6,7,468
+833,Jones-Dyer,Financial Institution,Real Estate,Medium,DE,0,0,0,0,0,0,Medium,4,4,
+834,Harmon-Kennedy,Financial Institution,Consulting,Low,NL,1,0,0,0,0,0,High,6,7,469
+835,Castaneda-Carter,Individual,Crypto Exchange,High,FR,0,0,0,0,0,0,High,6,7,470
+836,Gomez-Jackson,Financial Institution,Import/Export,Medium,IR,0,0,1,1,0,0,High,6,7,471
+837,Jensen and Sons,NGO,Real Estate,Medium,VE,0,1,0,1,0,0,High,6,7,472
+838,Johnston and Sons,NGO,Defense/Arms,High,CA,1,0,0,0,1,0,High,6,7,473
+839,Hall and Sons,NGO,NGO/Charity,High,CA,0,0,0,0,0,0,High,6,7,474
+840,"Garcia, Johnson and Davis",Corporate,Import/Export,Medium,CN,1,0,0,0,0,0,High,6,7,475
+841,Riggs PLC,Corporate,Retail,Low,DE,0,0,0,0,0,0,Low,2,2,
+842,"Diaz, Morrison and Brown",NGO,Import/Export,Medium,VE,0,0,0,1,0,0,Medium,4,4,
+843,"Bradshaw, Cook and Richardson",Financial Institution,Energy/Oil,High,RU,0,0,0,1,1,0,High,6,7,476
+844,Barnes-Carter,Financial Institution,Energy/Oil,High,CH,0,0,0,0,1,0,High,6,7,477
+845,Brown Inc,Individual,Casino/Gambling,High,NL,1,0,0,0,0,0,High,6,7,478
+846,Harrison Ltd,Individual,Real Estate,Medium,SD,0,0,0,1,0,0,Medium,4,4,
+847,Johnson and Sons,Individual,Casino/Gambling,High,LB,0,0,0,0,0,0,High,6,7,479
+848,Lucas Ltd,Financial Institution,Real Estate,Medium,VE,0,0,0,1,0,0,Medium,4,4,
+849,Nunez Ltd,Financial Institution,Financial Services,Medium,KP,0,0,1,1,1,0,High,6,7,480
+850,"Murphy, Brown and Johnson",Individual,Import/Export,Medium,RU,0,0,0,1,0,0,Medium,4,4,
+851,Stone Ltd,Financial Institution,Import/Export,Medium,CA,0,0,0,0,0,0,Medium,4,4,
+852,Mcintosh Group,Individual,Defense/Arms,High,AE,0,0,0,0,1,0,High,6,7,481
+853,Morse PLC,Individual,Real Estate,Medium,SY,0,0,0,1,0,0,Medium,4,4,
+854,Green-Miller,Individual,Import/Export,Medium,DE,0,0,0,0,0,0,Medium,4,4,
+855,"Dean, Spence and Porter",Corporate,Defense/Arms,High,AF,1,0,0,0,1,0.5,High,6,7,482
+856,"Brown, Erickson and Hill",Financial Institution,NGO/Charity,High,IN,0,0,0,0,0,0,High,6,7,483
+857,"Coleman, Hall and Lewis",Individual,NGO/Charity,High,CA,0,0,0,0,0,0,High,6,7,484
+858,Hamilton and Sons,Financial Institution,NGO/Charity,High,SY,0,0,0,1,0,0,High,6,7,485
+859,Smith LLC,Individual,Financial Services,Medium,NL,0,0,0,0,1,0,Medium,4,4,
+860,"Solomon, Wells and Baxter",Individual,Crypto Exchange,High,NL,0,0,0,0,0,0,High,6,7,486
+861,Castaneda-Thomas,Individual,Energy/Oil,High,NL,0,0,0,0,1,0,High,6,7,487
+862,Sanders Inc,Individual,Casino/Gambling,High,SD,0,0,0,1,0,0,High,6,7,488
+863,Brown-Adams,Financial Institution,NGO/Charity,High,JP,0,0,0,0,0,0,High,6,7,489
+864,Roth-Peck,Corporate,NGO/Charity,High,AU,0,0,0,0,0,0.5,High,6,7,490
+865,Carrillo-Wilcox,Financial Institution,Defense/Arms,High,SY,0,0,0,1,1,0,High,6,7,491
+866,Trujillo Ltd,NGO,Crypto Exchange,High,KP,0,0,1,1,0,0,High,6,7,492
+867,Deleon and Sons,NGO,Import/Export,Medium,UK,0,0,0,0,0,0,Medium,4,4,
+868,Smith-Rivera,NGO,Crypto Exchange,High,SD,0,0,0,1,0,1,High,6,7,493
+869,"Smith, Larson and Roth",Corporate,Casino/Gambling,High,LB,0,0,0,0,0,0.5,High,6,7,494
+870,"Jackson, Hamilton and Cantrell",Financial Institution,Retail,Low,DE,0,0,0,0,0,0,Low,2,2,
+871,Huber PLC,NGO,NGO/Charity,High,US,0,0,0,0,0,1,High,6,7,495
+872,Morris-Green,Individual,Financial Services,Medium,DE,1,0,0,0,1,0,High,6,7,496
+873,Richardson-Johnson,NGO,NGO/Charity,High,DE,0,0,0,0,0,1,High,6,7,497
+874,Sanchez-Hill,Corporate,Crypto Exchange,High,AE,0,0,0,0,0,1,High,6,7,498
+875,Horton Group,NGO,Casino/Gambling,High,FR,0,0,0,0,0,0,High,6,7,499
+876,Hoffman PLC,Individual,NGO/Charity,High,RU,0,0,0,1,0,0,High,6,7,500
+877,Sanchez-Shaw,Corporate,Tech,Low,CA,0,0,0,0,0,0.5,Low,2,2,
+878,Estes PLC,Corporate,Energy/Oil,High,VE,0,0,0,1,1,0.5,High,6,7,501
+879,"Martin, Cain and Novak",Corporate,NGO/Charity,High,RU,0,0,0,1,0,0,High,6,7,502
+880,"Mcgee, Duffy and White",NGO,Defense/Arms,High,IN,0,0,0,0,1,0,High,6,7,503
+881,Johnson LLC,NGO,Defense/Arms,High,CN,0,0,0,0,1,0,High,6,7,504
+882,Washington-Austin,Financial Institution,Retail,Low,CN,0,0,0,0,0,0,Low,2,2,
+883,Lynch Inc,NGO,Tech,Low,SD,0,0,0,1,0,1,Medium,4,4,
+884,Gonzales Ltd,Financial Institution,Energy/Oil,High,JP,1,0,0,0,1,0,High,6,7,505
+885,Chavez Ltd,Corporate,Import/Export,Medium,US,0,0,0,0,0,0.5,Medium,4,4,
+886,"Rivera, Ross and Smith",Corporate,Energy/Oil,High,KP,1,0,1,1,1,1,High,6,7,506
+887,Rodriguez Group,NGO,Real Estate,Medium,CA,0,0,0,0,0,0,Medium,4,4,
+888,James Ltd,Corporate,Import/Export,Medium,AU,0,0,0,0,0,0,Medium,4,4,
+889,Rojas-Contreras,NGO,Casino/Gambling,High,AU,0,0,0,0,0,0,High,6,7,507
+890,Bradford Inc,Individual,Import/Export,Medium,CN,0,0,0,0,0,0,Medium,4,4,
+891,Aguirre LLC,Financial Institution,NGO/Charity,High,AF,1,0,0,0,0,0,High,6,7,508
+892,Wilson LLC,Corporate,NGO/Charity,High,LB,0,0,0,0,0,0,High,6,7,509
+893,Arnold PLC,Corporate,Retail,Low,CH,0,0,0,0,0,0.5,Low,2,2,
+894,"Price, Ruiz and Douglas",Individual,Crypto Exchange,High,JP,0,0,0,0,0,0,High,6,7,510
+895,"Williams, Wagner and Shields",Corporate,Real Estate,Medium,CH,0,0,0,0,0,0,Medium,4,4,
+896,Hurley Ltd,Individual,Retail,Low,AU,0,0,0,0,0,0,Low,2,2,
+897,"Miller, Johnson and Smith",Corporate,Crypto Exchange,High,LB,0,0,0,0,0,0,High,6,7,511
+898,Graham-Murphy,NGO,Financial Services,Medium,CA,0,0,0,0,1,0,Medium,4,4,
+899,"Wells, Murray and Brown",Corporate,Real Estate,Medium,CH,0,0,0,0,0,0,Medium,4,4,
+900,Jackson and Sons,Corporate,Financial Services,Medium,CA,0,0,0,0,1,0,Medium,4,4,
+901,"Perez, Graham and Stevens",Financial Institution,Financial Services,Medium,KP,0,0,1,1,1,0,High,6,7,512
+902,Winters and Sons,Individual,Import/Export,Medium,LB,0,0,0,0,0,0,Medium,4,4,
+903,Allen Ltd,Corporate,Consulting,Low,SG,0,0,0,0,0,0,Low,2,2,
+904,Sanchez Ltd,Financial Institution,Defense/Arms,High,CN,0,0,0,0,1,0,High,6,7,513
+905,Fleming Group,Financial Institution,Financial Services,Medium,IN,0,0,0,0,1,0,Medium,4,4,
+906,Cole LLC,Financial Institution,NGO/Charity,High,IR,0,0,1,1,0,0,High,6,7,514
+907,Maldonado LLC,Financial Institution,Consulting,Low,FR,0,0,0,0,0,0,Low,2,2,
+908,Holder-Martinez,Corporate,NGO/Charity,High,FR,1,0,0,0,0,0,High,6,7,515
+909,"Martinez, Griffith and Gentry",NGO,Energy/Oil,High,VE,0,0,0,1,1,1,High,6,7,516
+910,Sandoval-Holt,Corporate,Import/Export,Medium,RU,0,0,0,1,0,0,Medium,4,4,
+911,Macias-Riggs,Financial Institution,Crypto Exchange,High,VE,0,1,0,1,0,0,High,6,7,517
+912,Castillo and Sons,Corporate,Financial Services,Medium,UK,0,0,0,0,1,0,Medium,4,4,
+913,Henry-Torres,NGO,Real Estate,Medium,JP,0,0,0,0,0,0,Medium,4,4,
+914,Thompson-Santos,NGO,NGO/Charity,High,CN,0,0,0,0,0,1,High,6,7,518
+915,Thomas-Matthews,Corporate,Consulting,Low,IR,0,0,1,1,0,0.5,High,6,7,519
+916,Mendez PLC,Corporate,Financial Services,Medium,SD,0,0,0,1,1,0,Medium,4,4,
+917,Khan-Skinner,NGO,Defense/Arms,High,JP,0,0,0,0,1,1,High,6,7,520
+918,"Burns, Morgan and Mendoza",Individual,Consulting,Low,CH,0,0,0,0,0,0,Low,2,2,
+919,Roberson-Thompson,NGO,Crypto Exchange,High,CA,0,0,0,0,0,0,High,6,7,521
+920,"Morgan, Smith and Williams",Individual,Energy/Oil,High,NL,0,0,0,0,1,0,High,6,7,522
+921,Roberts-Russell,Financial Institution,NGO/Charity,High,CN,0,0,0,0,0,0,High,6,7,523
+922,Manning and Sons,NGO,Defense/Arms,High,IN,0,0,0,0,1,0.5,High,6,7,524
+923,Henry Inc,NGO,Financial Services,Medium,JP,0,0,0,0,1,0,Medium,4,4,
+924,Rice-Johnson,NGO,Import/Export,Medium,CH,0,0,0,0,0,0,Medium,4,4,
+925,Reed-Hahn,Financial Institution,Financial Services,Medium,SD,0,0,0,1,1,0,Medium,4,4,
+926,Long Inc,Financial Institution,Casino/Gambling,High,KP,0,0,1,1,0,0,High,6,7,525
+927,"Alvarado, Morton and Spencer",Corporate,Financial Services,Medium,SY,1,0,0,1,1,0,High,6,7,526
+928,Chavez-Whitehead,Individual,Energy/Oil,High,IR,0,0,1,1,1,0,High,6,7,527
+929,"Evans, Torres and Lewis",Financial Institution,Import/Export,Medium,NL,0,0,0,0,0,0,Medium,4,4,
+930,"Carter, Cook and Joseph",Individual,NGO/Charity,High,NL,0,0,0,0,0,0,High,6,7,528
+931,"Walsh, Taylor and Matthews",Corporate,Consulting,Low,NL,0,0,0,0,0,1,Medium,4,4,
+932,Lopez-Gonzalez,Corporate,Casino/Gambling,High,IN,0,0,0,0,0,0,High,6,7,529
+933,"Brown, Smith and Gutierrez",Corporate,Defense/Arms,High,KP,0,0,1,1,1,1,High,6,7,530
+934,"Nelson, Bird and West",NGO,Casino/Gambling,High,KP,0,0,1,1,0,0,High,6,7,531
+935,"Bradford, Reese and Chambers",Financial Institution,Financial Services,Medium,FR,0,0,0,0,1,0,Medium,4,4,
+936,Bennett-Johnson,Individual,Real Estate,Medium,IN,0,0,0,0,0,0,Medium,4,4,
+937,Evans-Turner,Financial Institution,Consulting,Low,JP,0,0,0,0,0,0,Low,2,2,
+938,Lopez PLC,Individual,Defense/Arms,High,DE,0,0,0,0,1,0,High,6,7,532
+939,Hall-Gonzalez,Financial Institution,Defense/Arms,High,JP,0,0,0,0,1,0,High,6,7,533
+940,"Arnold, Davis and Spencer",Financial Institution,Crypto Exchange,High,NL,0,0,0,0,0,0,High,6,7,534
+941,Smith-Thompson,NGO,Real Estate,Medium,SG,0,0,0,0,0,0,Medium,4,4,
+942,"Perkins, Jackson and Church",Individual,Import/Export,Medium,CA,0,0,0,0,0,0,Medium,4,4,
+943,Mcclain-Romero,NGO,Financial Services,Medium,NL,0,0,0,0,1,1,Medium,4,4,
+944,Suarez Group,Individual,Defense/Arms,High,AU,1,1,0,0,1,0,High,6,7,535
+945,"Solomon, Campbell and Jensen",Corporate,NGO/Charity,High,UK,0,0,0,0,0,0,High,6,7,536
+946,"Saunders, Holland and Kline",NGO,NGO/Charity,High,CH,0,0,0,0,0,1,High,6,7,537
+947,"Davis, Martinez and Flores",Individual,Defense/Arms,High,US,0,0,0,0,1,0,High,6,7,538
+948,Vargas-Johns,NGO,Consulting,Low,CA,0,0,0,0,0,0,Low,2,2,
+949,Williams Ltd,Corporate,Energy/Oil,High,KP,0,0,1,1,1,0,High,6,7,539
+950,Butler-Boyd,Corporate,Casino/Gambling,High,SG,0,0,0,0,0,0,High,6,7,540
+951,Jones-Patton,NGO,Financial Services,Medium,SG,0,0,0,0,1,0,Medium,4,4,
+952,Brown PLC,Financial Institution,NGO/Charity,High,AE,0,0,0,0,0,0,High,6,7,541
+953,Wagner Ltd,Financial Institution,Import/Export,Medium,KP,0,0,1,1,0,0,High,6,7,542
+954,Madden-Daniels,Financial Institution,Defense/Arms,High,AF,1,0,0,0,1,0,High,6,7,543
+955,"Mcintosh, Sullivan and Frost",NGO,Import/Export,Medium,RU,0,0,0,1,0,0,Medium,4,4,
+956,Woods Group,Corporate,Crypto Exchange,High,SD,0,0,0,1,0,1,High,6,7,544
+957,Navarro-Adams,Corporate,Defense/Arms,High,UK,0,0,0,0,1,0,High,6,7,545
+958,"Powell, Lee and Aguilar",Financial Institution,Crypto Exchange,High,CH,0,0,0,0,0,0,High,6,7,546
+959,"Randolph, Davis and Wright",Individual,NGO/Charity,High,IN,0,0,0,0,0,0,High,6,7,547
+960,Farmer Inc,Financial Institution,Import/Export,Medium,FR,0,0,0,0,0,0,Medium,4,4,
+961,"Smith, Boyd and Myers",Individual,Casino/Gambling,High,VE,0,0,0,1,0,0,High,6,7,548
+962,Fischer-Haynes,NGO,NGO/Charity,High,IR,0,0,1,1,0,1,High,6,7,549
+963,Burke-Harris,Corporate,Tech,Low,IN,0,0,0,0,0,0,Low,2,2,
+964,Jones-Campos,Individual,Import/Export,Medium,KP,0,0,1,1,0,0,High,6,7,550
+965,Marshall Ltd,NGO,Import/Export,Medium,SY,0,0,0,1,0,0.5,Medium,4,4,
+966,"Medina, Love and Ramirez",NGO,Real Estate,Medium,VE,0,0,0,1,0,0,Medium,4,4,
+967,Erickson-Sullivan,NGO,Crypto Exchange,High,CH,0,0,0,0,0,0,High,6,7,551
+968,Carter Ltd,NGO,Financial Services,Medium,IR,0,0,1,1,1,0,High,6,7,552
+969,"Smith, Guerrero and Andrews",Individual,Consulting,Low,CN,0,0,0,0,0,0,Low,2,2,
+970,"Fox, Butler and Day",Financial Institution,Import/Export,Medium,UK,0,0,0,0,0,0,Medium,4,4,
+971,"Kline, Jones and Garrison",NGO,Real Estate,Medium,IN,1,0,0,0,0,1,High,6,7,553
+972,"Barnes, Simon and Martinez",NGO,Casino/Gambling,High,IN,0,0,0,0,0,0,High,6,7,554
+973,"Carroll, Reid and Cardenas",Financial Institution,Energy/Oil,High,JP,0,0,0,0,1,0,High,6,7,555
+974,Franklin Group,NGO,Import/Export,Medium,DE,0,0,0,0,0,0,Medium,4,4,
+975,"Burke, Swanson and Warren",Financial Institution,Financial Services,Medium,FR,0,0,0,0,1,0,Medium,4,4,
+976,"Brown, Perez and Murphy",Financial Institution,Retail,Low,SD,1,0,0,1,0,0,High,6,7,556
+977,Morris-Cooper,Financial Institution,Financial Services,Medium,US,0,0,0,0,1,0,Medium,4,4,
+978,"Lawson, Campos and Middleton",Financial Institution,Real Estate,Medium,JP,0,0,0,0,0,0,Medium,4,4,
+979,Best Ltd,Corporate,Crypto Exchange,High,CH,0,0,0,0,0,0,High,6,7,557
+980,"Martin, Villarreal and Smith",NGO,Crypto Exchange,High,DE,0,0,0,0,0,0,High,6,7,558
+981,Doyle-Torres,Corporate,Consulting,Low,UK,0,0,0,0,0,0,Low,2,2,
+982,Jones-Arnold,Individual,Energy/Oil,High,CH,0,0,0,0,1,0,High,6,7,559
+983,Reynolds-Gray,Corporate,Import/Export,Medium,SD,0,0,0,1,0,0,Medium,4,4,
+984,Roberts Ltd,Corporate,Energy/Oil,High,VE,0,0,0,1,1,0,High,6,7,560
+985,Stewart-Mueller,Financial Institution,Tech,Low,VE,0,0,0,1,0,0,Low,2,2,
+986,Chang-Williams,Corporate,Crypto Exchange,High,CN,0,0,0,0,0,1,High,6,7,561
+987,Thomas and Sons,Financial Institution,Casino/Gambling,High,CH,0,0,0,0,0,0,High,6,7,562
+988,"Smith, White and Park",Financial Institution,Real Estate,Medium,FR,0,0,0,0,0,0,Medium,4,4,
+989,Scott-Smith,Individual,Financial Services,Medium,CA,0,0,0,0,1,0,Medium,4,4,
+990,"Randall, Johnson and Dominguez",Individual,Energy/Oil,High,SG,0,0,0,0,1,0,High,6,7,563
+991,Roberts Group,NGO,Casino/Gambling,High,RU,0,0,0,1,0,0,High,6,7,564
+992,Delacruz PLC,NGO,Consulting,Low,IR,0,0,1,1,0,0,High,6,7,565
+993,Lopez-Hudson,Financial Institution,Consulting,Low,FR,0,0,0,0,0,0,Low,2,2,
+994,"Murphy, Gonzalez and Harmon",Individual,Crypto Exchange,High,IN,0,0,0,0,0,0,High,6,7,566
+995,Lewis LLC,Individual,Energy/Oil,High,IN,0,0,0,0,1,0,High,6,7,567
+996,Mullins-Hamilton,Individual,Retail,Low,JP,0,0,0,0,0,0,Low,2,2,
+997,Lewis PLC,Individual,Defense/Arms,High,IN,0,0,0,0,1,0,High,6,7,568
+998,"Tyler, Jones and Green",NGO,Crypto Exchange,High,SD,0,0,0,1,0,0.5,High,6,7,569
+999,Goodman-Salinas,Corporate,NGO/Charity,High,CH,0,0,0,0,0,0,High,6,7,570
+1000,Vaughan-Wu,NGO,Energy/Oil,High,SG,0,0,0,0,1,0,High,6,7,571
+1001,"Jones, Davis and Crane",Individual,Retail,Low,CN,0,0,0,0,0,0,Low,2,2,
+1002,Krueger Ltd,Individual,Real Estate,Medium,FR,0,0,0,0,0,0,Medium,4,4,
+1003,Barrett-Trujillo,NGO,Real Estate,Medium,US,0,0,0,0,0,0.5,Medium,4,4,
+1004,Garcia PLC,NGO,Financial Services,Medium,IN,0,0,0,0,1,0.5,Medium,4,4,
+1005,"Miller, Sampson and Alexander",Financial Institution,Retail,Low,US,0,0,0,0,0,0,Low,2,2,
+1006,"Wells, Blackwell and Hardin",NGO,Tech,Low,VE,0,0,0,1,0,0.5,Low,2,2,
+1007,"Brown, Gonzalez and Herman",Individual,Casino/Gambling,High,LB,0,0,0,0,0,0,High,6,7,572
+1008,"Mullen, Irwin and May",Financial Institution,Tech,Low,CH,0,0,0,0,0,0,Low,2,2,
+1009,Washington-West,NGO,Crypto Exchange,High,RU,0,0,0,1,0,0.5,High,6,7,573
+1010,"Esparza, Leon and Barber",NGO,Energy/Oil,High,FR,0,0,0,0,1,0,High,6,7,574
+1011,"Lewis, Dickerson and Bradley",Corporate,Real Estate,Medium,CA,0,0,0,0,0,0,Medium,4,4,
+1012,"Hill, Bullock and Stephens",NGO,Tech,Low,LB,1,0,0,0,0,0.5,High,6,7,575
+1013,Smith Ltd,Individual,Financial Services,Medium,IN,0,0,0,0,1,0,Medium,4,4,
+1014,Pena Ltd,Individual,Retail,Low,SD,0,0,0,1,0,0,Low,2,2,
+1015,Nguyen-Parsons,NGO,Defense/Arms,High,UK,0,0,0,0,1,0,High,6,7,576
+1016,Sanders Ltd,Individual,Energy/Oil,High,IN,0,0,0,0,1,0,High,6,7,577
+1017,"Harris, Morgan and Carlson",Individual,Crypto Exchange,High,FR,0,0,0,0,0,0,High,6,7,578
+1018,Farley and Sons,NGO,Consulting,Low,DE,0,0,0,0,0,0,Low,2,2,
+1019,Frazier-Wilson,Individual,Tech,Low,US,0,0,0,0,0,0,Low,2,2,
+1020,"Chapman, Ramsey and Smith",Financial Institution,Real Estate,Medium,JP,0,0,0,0,0,0,Medium,4,4,
+1021,Mayer-Smith,Financial Institution,Crypto Exchange,High,RU,0,0,0,1,0,0,High,6,7,579
+1022,Velez-Stark,Corporate,NGO/Charity,High,JP,0,0,0,0,0,0.5,High,6,7,580
+1023,Daniels-Andrews,Individual,Energy/Oil,High,CA,0,0,0,0,1,0,High,6,6,581
+1024,Mason and Sons,Individual,Casino/Gambling,High,SY,0,0,0,1,0,0,High,6,6,582
+1025,Jones and Sons,NGO,Crypto Exchange,High,CA,0,0,0,0,0,0,High,6,6,583
+1026,Liu-Hurley,Financial Institution,Tech,Low,IN,0,1,0,0,0,0,High,6,6,584
+1027,Cowan-Howe,NGO,Financial Services,Medium,RU,0,1,0,1,1,0,High,6,6,585
+1028,"Bush, Miller and Scott",NGO,Real Estate,Medium,CH,0,0,0,0,0,0,Medium,4,4,
+1029,"Vang, Rios and Oconnor",Corporate,Retail,Low,JP,0,0,0,0,0,0,Low,2,2,
+1030,Johnson Inc,Financial Institution,Consulting,Low,SY,0,0,0,1,0,0,Low,2,2,
+1031,Perez-Ferrell,Financial Institution,Defense/Arms,High,IR,0,0,1,1,1,0,High,6,6,586
+1032,Watson Inc,Financial Institution,Import/Export,Medium,SD,0,0,0,1,0,0,Medium,4,4,
+1033,Henderson-Beck,Individual,NGO/Charity,High,DE,0,0,0,0,0,0,High,6,6,587
+1034,Foster-Williams,Individual,Crypto Exchange,High,KP,0,0,1,1,0,0,High,6,6,588
+1035,Lopez Ltd,Financial Institution,Tech,Low,RU,0,0,0,1,0,0,Low,2,2,
+1036,Stone Ltd,Corporate,NGO/Charity,High,DE,1,0,0,0,0,0.5,High,6,6,589
+1037,Friedman-Carroll,Financial Institution,Retail,Low,NL,0,0,0,0,0,0,Low,2,2,
+1038,Powell-Ponce,NGO,Casino/Gambling,High,FR,0,0,0,0,0,0,High,6,6,590
+1039,Merritt LLC,Financial Institution,Crypto Exchange,High,UK,0,0,0,0,0,0,High,6,6,591
+1040,Krueger-Garcia,NGO,Defense/Arms,High,RU,0,0,0,1,1,0.5,High,6,6,592
+1041,Flores Ltd,Individual,Retail,Low,NL,0,0,0,0,0,0,Low,2,2,
+1042,Richards-Miller,NGO,Import/Export,Medium,VE,0,0,0,1,0,1,Medium,4,4,
+1043,"Stevens, Weaver and Pace",NGO,Casino/Gambling,High,SD,0,0,0,1,0,1,High,6,6,593
+1044,Fuller Inc,Individual,Casino/Gambling,High,VE,0,0,0,1,0,0,High,6,6,594
+1045,Ramos-Gonzalez,NGO,Defense/Arms,High,AF,0,0,0,0,1,0,High,6,6,595
+1046,"Cook, Brown and Ramos",Corporate,Import/Export,Medium,NL,0,0,0,0,0,0,Medium,4,4,
+1047,Johnson PLC,NGO,Casino/Gambling,High,IN,0,0,0,0,0,0,High,6,6,596
+1048,Pineda LLC,Individual,NGO/Charity,High,IR,0,0,1,1,0,0,High,6,6,597
+1049,Pitts PLC,Corporate,Crypto Exchange,High,SD,0,0,0,1,0,0,High,6,6,598
+1050,"Evans, Bonilla and Ramirez",Individual,Retail,Low,AU,0,0,0,0,0,0,Low,2,2,
+1051,Fisher Group,Corporate,Import/Export,Medium,AF,0,0,0,0,0,0,Medium,4,4,
+1052,Lambert PLC,Individual,Consulting,Low,AF,0,0,0,0,0,0,Low,2,2,
+1053,Hernandez PLC,NGO,Financial Services,Medium,IR,0,0,1,1,1,0,High,6,6,599
+1054,Kramer and Sons,Financial Institution,Consulting,Low,AU,0,0,0,0,0,0,Low,2,2,
+1055,"Padilla, Copeland and Thompson",Corporate,NGO/Charity,High,IN,0,0,0,0,0,0.5,High,6,6,600
+1056,Garcia Group,Corporate,Import/Export,Medium,DE,0,0,0,0,0,0,Medium,4,4,
+1057,Burton-Bryan,Corporate,Real Estate,Medium,VE,0,0,0,1,0,0,Medium,4,4,
+1058,"Khan, Whitaker and Bailey",Individual,Tech,Low,VE,0,0,0,1,0,0,Low,2,2,
+1059,King LLC,Corporate,Retail,Low,AU,0,0,0,0,0,0,Low,2,2,
+1060,"Davis, Chang and Moore",Financial Institution,Crypto Exchange,High,AF,0,0,0,0,0,0,High,6,6,601
+1061,"Foster, Gutierrez and Warren",Corporate,Tech,Low,KP,0,0,1,1,0,0.5,High,6,6,602
+1062,Hill-Wallace,Corporate,Real Estate,Medium,CH,0,0,0,0,0,0,Medium,4,4,
+1063,Young Group,NGO,Financial Services,Medium,AE,0,0,0,0,1,0,Medium,4,4,
+1064,Mullins-Bates,Individual,NGO/Charity,High,KP,0,0,1,1,0,0,High,6,6,603
+1065,Taylor and Sons,Individual,Defense/Arms,High,UK,0,0,0,0,1,0,High,6,6,604
+1066,Reed-Mcgee,Corporate,Retail,Low,IN,0,0,0,0,0,0,Low,2,2,
+1067,"Hansen, Dixon and Sutton",NGO,Casino/Gambling,High,IR,0,0,1,1,0,0,High,6,6,605
+1068,"Friedman, Munoz and Horton",Financial Institution,Consulting,Low,CN,0,0,0,0,0,0,Low,2,2,
+1069,Dyer-Martin,Financial Institution,Financial Services,Medium,CA,0,0,0,0,1,0,Medium,4,4,
+1070,"Perry, Cox and Love",NGO,Tech,Low,SY,0,0,0,1,0,1,Medium,4,4,
+1071,Romero Inc,Financial Institution,Financial Services,Medium,SD,0,0,0,1,1,0,Medium,4,4,
+1072,Martin-Sullivan,Corporate,Energy/Oil,High,VE,0,0,0,1,1,0,High,6,6,606
+1073,Martinez Ltd,Corporate,NGO/Charity,High,AE,1,0,0,0,0,0.5,High,6,6,607
+1074,Leon PLC,Individual,Crypto Exchange,High,SG,1,0,0,0,0,0,High,6,6,608
+1075,Flores-Allen,NGO,Retail,Low,JP,0,0,0,0,0,0,Low,2,2,
+1076,"Green, Harris and Nelson",Corporate,Defense/Arms,High,CH,0,0,0,0,1,1,High,6,6,609
+1077,Hull-Mccoy,Financial Institution,Retail,Low,VE,0,0,0,1,0,0,Low,2,2,
+1078,Blake-Gonzales,Financial Institution,Defense/Arms,High,NL,0,0,0,0,1,0,High,6,6,610
+1079,Moyer Ltd,NGO,Retail,Low,IR,0,0,1,1,0,1,High,6,6,611
+1080,"Cochran, Skinner and Moore",Individual,Defense/Arms,High,UK,0,0,0,0,1,0,High,6,6,612
+1081,Jones Group,Corporate,Energy/Oil,High,KP,0,0,1,1,1,0.5,High,6,6,613
+1082,Mendoza and Sons,Financial Institution,Retail,Low,NL,0,0,0,0,0,0,Low,2,2,
+1083,"Butler, Schneider and Wallace",Corporate,Casino/Gambling,High,DE,0,0,0,0,0,0,High,6,6,614
+1084,"Wallace, Oconnor and Wilson",Individual,Tech,Low,IR,0,0,1,1,0,0,High,6,6,615
+1085,"Grant, Smith and Hinton",Individual,Energy/Oil,High,IN,0,0,0,0,1,0,High,6,6,616
+1086,Carey Group,Financial Institution,Crypto Exchange,High,VE,0,0,0,1,0,0,High,6,6,617
+1087,Duncan-Dudley,NGO,Import/Export,Medium,VE,1,0,0,1,0,0,High,6,6,618
+1088,Rodriguez LLC,Corporate,Financial Services,Medium,IR,0,0,1,1,1,0,High,6,6,619
+1089,Johnston PLC,NGO,Energy/Oil,High,RU,0,0,0,1,1,0,High,6,6,620
+1090,Murphy-Nolan,NGO,Energy/Oil,High,AE,0,0,0,0,1,0.5,High,6,6,621
+1091,"Martin, Porter and Reed",NGO,Crypto Exchange,High,RU,0,0,0,1,0,0.5,High,6,6,622
+1092,Hunter-Smith,NGO,Consulting,Low,RU,0,0,0,1,0,0,Low,2,2,
+1093,Bradshaw Group,Financial Institution,Tech,Low,IN,0,0,0,0,0,0,Low,2,2,
+1094,Daniels-Gonzalez,Financial Institution,Casino/Gambling,High,VE,0,0,0,1,0,0,High,6,6,623
+1095,Rogers-Bailey,Financial Institution,Financial Services,Medium,LB,0,0,0,0,1,0,Medium,4,4,
+1096,"Alvarez, Smith and Lewis",Financial Institution,Retail,Low,IN,0,0,0,0,0,0,Low,2,2,
+1097,Lindsey-Garza,NGO,NGO/Charity,High,IR,0,0,1,1,0,0,High,6,6,624
+1098,Baker and Sons,Corporate,Crypto Exchange,High,SY,0,0,0,1,0,0,High,6,6,625
+1099,"Moore, Barnes and Hood",Corporate,Energy/Oil,High,AU,0,0,0,0,1,0,High,6,6,626
+1100,Scott-Hayes,NGO,NGO/Charity,High,CN,1,0,0,0,0,0.5,High,6,6,627
+1101,"Armstrong, Anderson and Stafford",Financial Institution,NGO/Charity,High,SD,0,0,0,1,0,0,High,6,6,628
+1102,Barrett-Harris,Individual,Consulting,Low,IR,0,0,1,1,0,0,High,6,6,629
+1103,Bond Ltd,Corporate,Energy/Oil,High,JP,0,0,0,0,1,0.5,High,6,6,630
+1104,"Davies, Mitchell and Castillo",Individual,Defense/Arms,High,CH,0,0,0,0,1,0,High,6,6,631
+1105,Nash-Reid,Individual,Defense/Arms,High,FR,0,0,0,0,1,0,High,6,6,632
+1106,Gomez Group,Financial Institution,Real Estate,Medium,UK,0,0,0,0,0,0,Medium,4,4,
+1107,Patterson-Dean,Corporate,Retail,Low,AE,0,0,0,0,0,1,Medium,4,4,
+1108,"Cooper, Gray and Lewis",Corporate,Crypto Exchange,High,UK,0,0,0,0,0,0.5,High,6,6,633
+1109,Lopez-West,Financial Institution,Consulting,Low,SD,0,0,0,1,0,0,Low,2,2,
+1110,Myers Ltd,Corporate,NGO/Charity,High,SD,0,0,0,1,0,0,High,6,6,634
+1111,Deleon-Sullivan,NGO,Defense/Arms,High,NL,0,0,0,0,1,0,High,6,6,635
+1112,Wilkinson PLC,Financial Institution,Energy/Oil,High,FR,0,0,0,0,1,0,High,6,6,636
+1113,Williams-Sims,NGO,Energy/Oil,High,SD,0,0,0,1,1,0,High,6,6,637
+1114,Ward Ltd,Individual,Financial Services,Medium,IR,0,0,1,1,1,0,High,6,6,638
+1115,Mullins LLC,Financial Institution,Real Estate,Medium,US,0,0,0,0,0,0,Medium,4,4,
+1116,White Inc,Financial Institution,Defense/Arms,High,CA,0,0,0,0,1,0,High,6,6,639
+1117,Yates-Stevenson,Individual,Energy/Oil,High,SD,0,0,0,1,1,0,High,6,6,640
+1118,"Hernandez, Hurst and Zhang",Financial Institution,Defense/Arms,High,RU,0,0,0,1,1,0,High,6,6,641
+1119,"Drake, Snyder and Walls",Individual,Real Estate,Medium,IR,0,0,1,1,0,0,High,6,6,642
+1120,"Castro, Phelps and Neal",Financial Institution,Financial Services,Medium,SD,0,0,0,1,1,0,Medium,4,4,
+1121,Anderson-Baker,Individual,Defense/Arms,High,FR,0,0,0,0,1,0,High,6,6,643
+1122,Walker PLC,Corporate,Import/Export,Medium,CH,0,0,0,0,0,0,Medium,4,4,
+1123,Moran LLC,Financial Institution,NGO/Charity,High,CA,0,0,0,0,0,0,High,6,6,644
+1124,"Chandler, Boyd and Guzman",Corporate,Retail,Low,SY,1,0,0,1,0,0,High,6,6,645
+1125,"Sampson, Johnson and Butler",NGO,Defense/Arms,High,KP,0,0,1,1,1,0,High,6,6,646
+1126,"Frazier, Fox and Shepherd",Corporate,Consulting,Low,KP,0,0,1,1,0,0,High,6,6,647
+1127,"Bruce, Howard and Roach",Corporate,Real Estate,Medium,SY,0,0,0,1,0,0,Medium,4,4,
+1128,Baker and Sons,Financial Institution,Crypto Exchange,High,DE,0,0,0,0,0,0,High,6,6,648
+1129,"Bush, Frazier and Rogers",Corporate,Financial Services,Medium,UK,0,0,0,0,1,0,Medium,4,4,
+1130,Berry and Sons,NGO,Casino/Gambling,High,RU,0,0,0,1,0,0,High,6,6,649
+1131,"Flores, Rowe and Hughes",Corporate,Consulting,Low,IN,0,0,0,0,0,0,Low,2,2,
+1132,"Baxter, Hunter and Everett",Corporate,Retail,Low,AU,0,0,0,0,0,0,Low,2,2,
+1133,Mcconnell LLC,NGO,Casino/Gambling,High,KP,0,0,1,1,0,0,High,6,6,650
+1134,Bright LLC,NGO,Import/Export,Medium,CN,0,0,0,0,0,0.5,Medium,4,4,
+1135,Moon Group,NGO,Tech,Low,FR,0,0,0,0,0,0,Low,2,2,
+1136,"Jenkins, Williamson and Holloway",Financial Institution,Tech,Low,UK,0,0,0,0,0,0,Low,2,2,
+1137,"Walsh, Carroll and Grant",Financial Institution,Crypto Exchange,High,DE,0,0,0,0,0,0,High,6,6,651
+1138,Johnson Inc,Individual,Defense/Arms,High,AU,0,0,0,0,1,0,High,6,6,652
+1139,"Olson, Allison and Andrews",Financial Institution,Consulting,Low,CN,0,0,0,0,0,0,Low,2,2,
+1140,"Stokes, Ashley and Gutierrez",Individual,Casino/Gambling,High,SG,0,0,0,0,0,0,High,6,6,653
+1141,"Hughes, Moore and Martinez",Individual,Defense/Arms,High,VE,0,0,0,1,1,0,High,6,6,654
+1142,Jackson-Green,Financial Institution,Financial Services,Medium,SD,1,0,0,1,1,0,High,6,6,655
+1143,Harvey Ltd,Financial Institution,Financial Services,Medium,AE,0,0,0,0,1,0,Medium,4,4,
+1144,"Castillo, Lawson and Estrada",Financial Institution,NGO/Charity,High,SG,0,0,0,0,0,0,High,6,6,656
+1145,King-Walton,Financial Institution,Retail,Low,NL,0,0,0,0,0,0,Low,2,2,
+1146,Harper-Bentley,Corporate,Casino/Gambling,High,SY,0,0,0,1,0,0,High,6,6,657
+1147,Todd and Sons,NGO,Crypto Exchange,High,DE,0,0,0,0,0,0,High,6,6,658
+1148,Jordan-Bailey,NGO,Consulting,Low,JP,0,0,0,0,0,0.5,Low,2,2,
+1149,"Robinson, Bell and Wheeler",Financial Institution,Real Estate,Medium,AF,0,0,0,0,0,0,Medium,4,4,
+1150,"Fuller, Hartman and Lambert",Financial Institution,NGO/Charity,High,FR,0,0,0,0,0,0,High,6,6,659
+1151,"Baldwin, Booth and Mitchell",Corporate,Casino/Gambling,High,AE,0,0,0,0,0,0,High,6,6,660
+1152,Brady-Burton,Financial Institution,Defense/Arms,High,IN,0,0,0,0,1,0,High,6,6,661
+1153,Wagner-Huang,Financial Institution,Financial Services,Medium,NL,0,0,0,0,1,0,Medium,4,4,
+1154,Moore-Aguilar,Individual,Energy/Oil,High,VE,0,0,0,1,1,0,High,6,6,662
+1155,Mclaughlin-Keith,Financial Institution,Real Estate,Medium,VE,0,0,0,1,0,0,Medium,4,4,
+1156,Mendez-Sanchez,Corporate,Import/Export,Medium,SG,0,0,0,0,0,0.5,Medium,4,4,
+1157,Moore Ltd,NGO,Financial Services,Medium,VE,0,0,0,1,1,0,Medium,4,4,
+1158,Quinn PLC,Individual,Defense/Arms,High,CH,1,0,0,0,1,0,High,6,6,663
+1159,"Rodriguez, Murray and Zuniga",NGO,Retail,Low,DE,0,0,0,0,0,0,Low,2,2,
+1160,"Buchanan, Hicks and Hodge",Corporate,Retail,Low,US,1,0,0,0,0,0,High,6,6,664
+1161,Nicholson-Harris,Financial Institution,Financial Services,Medium,IR,1,0,1,1,1,0,High,6,6,665
+1162,Sanchez-Luna,Financial Institution,Real Estate,Medium,SY,0,0,0,1,0,0,Medium,4,4,
+1163,Marshall PLC,NGO,NGO/Charity,High,IR,0,0,1,1,0,0,High,6,6,666
+1164,Hill Inc,NGO,Energy/Oil,High,FR,0,0,0,0,1,0,High,6,6,667
+1165,"Rangel, Taylor and Gomez",Corporate,Defense/Arms,High,VE,0,0,0,1,1,1,High,6,6,668
+1166,"Townsend, Stone and Buchanan",NGO,Retail,Low,SY,0,0,0,1,0,0,Low,2,2,
+1167,"Garcia, Willis and Johns",NGO,Consulting,Low,US,0,0,0,0,0,0,Low,2,2,
+1168,Brown Group,NGO,Energy/Oil,High,JP,0,0,0,0,1,0,High,6,6,669
+1169,"Rodriguez, Nunez and Wood",Corporate,Import/Export,Medium,CH,0,0,0,0,0,0,Medium,4,4,
+1170,Olson LLC,Individual,Consulting,Low,SG,0,0,0,0,0,0,Low,2,2,
+1171,"Rodriguez, Castillo and Velazquez",NGO,Real Estate,Medium,CH,0,0,0,0,0,1,Medium,4,4,
+1172,Weeks Ltd,NGO,Import/Export,Medium,KP,0,0,1,1,0,0,High,6,6,670
+1173,Ryan LLC,Financial Institution,Tech,Low,DE,0,0,0,0,0,0,Low,2,2,
+1174,Mack and Sons,Corporate,Defense/Arms,High,UK,0,0,0,0,1,0,High,6,6,671
+1175,"Harper, Jordan and Bryant",Individual,Tech,Low,KP,0,0,1,1,0,0,High,6,6,672
+1176,Miller PLC,NGO,Consulting,Low,CA,0,0,0,0,0,1,Medium,4,4,
+1177,James-Morris,Individual,Defense/Arms,High,JP,0,0,0,0,1,0,High,6,6,673
+1178,Tate-Wise,Individual,Casino/Gambling,High,US,0,0,0,0,0,0,High,6,6,674
+1179,"Thomas, Flores and Hansen",Individual,NGO/Charity,High,SY,0,0,0,1,0,0,High,6,6,675
+1180,"Garcia, Fernandez and Kirby",NGO,Casino/Gambling,High,FR,0,0,0,0,0,0,High,6,6,676
+1181,Zamora PLC,Corporate,Import/Export,Medium,IR,0,0,1,1,0,1,High,6,6,677
+1182,King-Marshall,NGO,Crypto Exchange,High,NL,0,0,0,0,0,0.5,High,6,6,678
+1183,"Rowe, Williams and Gonzalez",Financial Institution,Real Estate,Medium,AU,0,0,0,0,0,0,Medium,4,4,
+1184,"Nunez, Pearson and Powell",NGO,Tech,Low,US,0,0,0,0,0,0,Low,2,2,
+1185,Griffith and Sons,NGO,Energy/Oil,High,DE,0,0,0,0,1,0,High,6,6,679
+1186,"Walker, Davis and Flynn",Individual,Consulting,Low,IN,0,1,0,0,0,0,High,6,6,680
+1187,Miller Ltd,Corporate,Crypto Exchange,High,DE,0,0,0,0,0,0,High,6,6,681
+1188,"Dunn, Webb and Williams",NGO,Tech,Low,FR,0,0,0,0,0,0.5,Low,2,2,
+1189,"Carter, Olson and Phillips",NGO,Financial Services,Medium,SY,0,0,0,1,1,0.5,Medium,4,4,
+1190,Donaldson-Richardson,Corporate,Crypto Exchange,High,UK,0,0,0,0,0,0,High,6,6,682
+1191,"Lindsey, Hartman and Reynolds",Corporate,Retail,Low,DE,0,0,0,0,0,0,Low,2,2,
+1192,"Washington, Bennett and Weiss",Corporate,Casino/Gambling,High,CN,0,0,0,0,0,0,High,6,6,683
+1193,"Villanueva, Gordon and Lewis",Individual,Crypto Exchange,High,DE,0,0,0,0,0,0,High,6,6,684
+1194,"Chavez, Davis and Leach",NGO,Tech,Low,LB,0,0,0,0,0,0,Low,2,2,
+1195,"Barnes, Rivers and White",Corporate,Casino/Gambling,High,SD,0,0,0,1,0,0,High,6,6,685
+1196,Woods-Noble,NGO,Tech,Low,FR,0,0,0,0,0,0,Low,2,2,
+1197,Cook PLC,Individual,Retail,Low,NL,0,0,0,0,0,0,Low,2,2,
+1198,"Foster, Hardy and Thomas",NGO,Defense/Arms,High,JP,0,0,0,0,1,0,High,6,6,686
+1199,"Taylor, Hines and Roy",Corporate,Financial Services,Medium,US,0,0,0,0,1,0,Medium,4,4,
+1200,"Mitchell, Thomas and Williams",Individual,Energy/Oil,High,CA,0,0,0,0,1,0,High,6,6,687
+1201,"Simmons, Petersen and Henry",NGO,Consulting,Low,DE,0,0,0,0,0,0.5,Low,2,2,
+1202,Gibson-Delacruz,Corporate,Consulting,Low,CH,0,0,0,0,0,1,Medium,4,4,
+1203,Miller-Gomez,Financial Institution,Crypto Exchange,High,NL,0,0,0,0,0,0,High,6,6,688
+1204,"Wright, Smith and Phelps",Financial Institution,Crypto Exchange,High,CN,0,0,0,0,0,0,High,6,6,689
+1205,"West, Anderson and Carter",NGO,Import/Export,Medium,LB,0,0,0,0,0,0,Medium,4,4,
+1206,Campbell PLC,Corporate,Casino/Gambling,High,JP,0,1,0,0,0,0,High,6,6,690
+1207,Fox-Smith,Corporate,Energy/Oil,High,NL,0,0,0,0,1,0,High,6,6,691
+1208,Olson-Tucker,Corporate,Import/Export,Medium,NL,0,0,0,0,0,0.5,Medium,4,4,
+1209,Oneill PLC,Corporate,Defense/Arms,High,AE,0,0,0,0,1,0.5,High,6,6,692
+1210,Henderson-Rush,NGO,Crypto Exchange,High,IN,0,0,0,0,0,1,High,6,6,693
+1211,"Jennings, Vazquez and Terry",Individual,Consulting,Low,AU,0,0,0,0,0,0,Low,2,2,
+1212,"Brown, Mathews and Craig",Financial Institution,Real Estate,Medium,AU,0,0,0,0,0,0,Medium,4,4,
+1213,Williams-Gilmore,Individual,Financial Services,Medium,SD,0,0,0,1,1,0,Medium,4,4,
+1214,Hickman Ltd,Corporate,Casino/Gambling,High,SG,0,0,0,0,0,0,High,6,6,694
+1215,"Barton, Davis and Turner",Financial Institution,Real Estate,Medium,LB,0,1,0,0,0,0,High,6,6,695
+1216,"Jackson, Smith and Riddle",Individual,NGO/Charity,High,CN,0,1,0,0,0,0,High,6,6,696
+1217,Welch-Wells,NGO,Energy/Oil,High,CA,0,0,0,0,1,0.5,High,6,6,697
+1218,"Hurst, Watts and Reynolds",NGO,Tech,Low,LB,1,0,0,0,0,0,High,6,6,698
+1219,"Thomas, Clayton and Mitchell",NGO,Consulting,Low,SY,0,1,0,1,0,1,High,6,6,699
+1220,Harris LLC,NGO,Retail,Low,FR,0,0,0,0,0,0,Low,2,2,
+1221,Williams Group,Financial Institution,Tech,Low,CN,0,0,0,0,0,0,Low,2,2,
+1222,Norton and Sons,Individual,Tech,Low,AE,0,1,0,0,0,0,High,6,6,700
+1223,"Meyer, King and Sanders",Corporate,Tech,Low,IN,0,0,0,0,0,0.5,Low,2,2,
+1224,"Dawson, Bell and Richards",Individual,Crypto Exchange,High,SY,0,0,0,1,0,0,High,6,6,701
+1225,Smith Inc,Individual,Defense/Arms,High,CN,0,0,0,0,1,0,High,6,6,702
+1226,"Underwood, Mcdaniel and Diaz",Corporate,Retail,Low,SD,0,0,0,1,0,0,Low,2,2,
+1227,Delgado LLC,NGO,Casino/Gambling,High,SD,0,0,0,1,0,1,High,6,6,703
+1228,"Smith, Silva and Garcia",Individual,Casino/Gambling,High,SD,0,0,0,1,0,0,High,6,6,704
+1229,"Ellis, Brown and Haynes",Financial Institution,Financial Services,Medium,JP,0,0,0,0,1,0,Medium,4,4,
+1230,Rivera-Fitzgerald,Corporate,Defense/Arms,High,CA,0,0,0,0,1,0,High,6,6,705
+1231,Deleon-Welch,Individual,Casino/Gambling,High,DE,0,0,0,0,0,0,High,6,6,706
+1232,Coleman and Sons,Corporate,NGO/Charity,High,SY,0,0,0,1,0,0,High,6,6,707
+1233,Harris-Carey,Financial Institution,Defense/Arms,High,DE,0,0,0,0,1,0,High,6,6,708
+1234,Martin-Martin,Corporate,Consulting,Low,CA,0,0,0,0,0,0,Low,2,2,
+1235,Dougherty LLC,Financial Institution,Defense/Arms,High,SY,0,0,0,1,1,0,High,6,6,709
+1236,"Aguirre, Gonzalez and Williams",Financial Institution,Tech,Low,AU,0,0,0,0,0,0,Low,2,2,
+1237,Galvan PLC,Financial Institution,Retail,Low,JP,0,0,0,0,0,0,Low,2,2,
+1238,Rodriguez-Gilbert,Individual,Real Estate,Medium,SD,0,0,0,1,0,0,Medium,4,4,
+1239,Nguyen PLC,NGO,Consulting,Low,AF,0,0,0,0,0,0.5,Low,2,2,
+1240,Fry-Williams,Individual,Tech,Low,VE,1,0,0,1,0,0,High,6,6,710
+1241,"Garcia, Beard and Hamilton",Corporate,Financial Services,Medium,AU,0,0,0,0,1,0.5,Medium,4,4,
+1242,Torres LLC,Financial Institution,Financial Services,Medium,UK,0,0,0,0,1,0,Medium,4,4,
+1243,Ford-Reese,Financial Institution,Import/Export,Medium,DE,1,0,0,0,0,0,High,6,6,711
+1244,Cowan-Smith,Individual,Financial Services,Medium,AF,0,0,0,0,1,0,Medium,4,4,
+1245,Camacho Group,Financial Institution,NGO/Charity,High,CA,0,0,0,0,0,0,High,6,6,712
+1246,Chavez Inc,Corporate,Energy/Oil,High,AE,0,0,0,0,1,0,High,6,6,713
+1247,"Best, Kent and Walker",Individual,Consulting,Low,IN,0,0,0,0,0,0,Low,2,2,
+1248,Thomas-Moore,NGO,Defense/Arms,High,NL,0,0,0,0,1,0,High,6,6,714
+1249,Nichols-Allison,Corporate,Consulting,Low,SY,0,0,0,1,0,1,Medium,4,4,
+1250,"Williamson, Torres and Cole",Individual,Casino/Gambling,High,AF,0,0,0,0,0,0,High,6,6,715
+1251,Erickson-Cervantes,Individual,Tech,Low,RU,0,0,0,1,0,0,Low,2,2,
+1252,"Hughes, Nelson and Gibson",NGO,Real Estate,Medium,AE,0,0,0,0,0,0.5,Medium,4,4,
+1253,Valdez PLC,Financial Institution,Defense/Arms,High,UK,0,0,0,0,1,0,High,6,6,716
+1254,Simmons Inc,NGO,Energy/Oil,High,RU,0,0,0,1,1,1,High,6,6,717
+1255,"Smith, Williams and Anderson",Corporate,Defense/Arms,High,DE,0,0,0,0,1,1,High,6,6,718
+1256,Wright-Alvarez,NGO,Retail,Low,SG,0,0,0,0,0,0,Low,2,2,
+1257,Graham Inc,Individual,Energy/Oil,High,KP,0,0,1,1,1,0,High,6,6,719
+1258,Vaughn-King,Financial Institution,Retail,Low,RU,0,0,0,1,0,0,Low,2,2,
+1259,Carr-Mcdaniel,NGO,Defense/Arms,High,AU,0,0,0,0,1,0,High,6,6,720
+1260,Gregory-Moore,Corporate,Tech,Low,DE,0,0,0,0,0,0.5,Low,2,2,
+1261,Brown Inc,Corporate,Real Estate,Medium,CA,1,0,0,0,0,0,High,6,6,721
+1262,"Wagner, Gonzales and Becker",NGO,Retail,Low,IN,1,0,0,0,0,0,High,6,6,722
+1263,"Martin, Davis and Thompson",Financial Institution,Tech,Low,RU,0,0,0,1,0,0,Low,2,2,
+1264,"Acosta, Avery and Robertson",NGO,Defense/Arms,High,JP,0,0,0,0,1,0,High,6,6,723
+1265,"Stevenson, Lee and Ward",Individual,Import/Export,Medium,SD,0,0,0,1,0,0,Medium,4,4,
+1266,Rose-Coleman,Individual,Crypto Exchange,High,SY,0,0,0,1,0,0,High,6,6,724
+1267,Maddox PLC,Individual,Retail,Low,JP,0,0,0,0,0,0,Low,2,2,
+1268,Cox-Gutierrez,Financial Institution,Tech,Low,CA,0,0,0,0,0,0,Low,2,2,
+1269,Fields Ltd,Financial Institution,Retail,Low,RU,0,0,0,1,0,0,Low,2,2,
+1270,"Murphy, Green and Herrera",NGO,Real Estate,Medium,SY,0,0,0,1,0,1,Medium,4,4,
+1271,Estrada-Salinas,Financial Institution,Crypto Exchange,High,US,0,0,0,0,0,0,High,6,6,725
+1272,Cox-James,Corporate,Import/Export,Medium,CA,0,0,0,0,0,0,Medium,4,4,
+1273,"Romero, Velasquez and Hill",Corporate,Consulting,Low,AU,0,0,0,0,0,0,Low,2,2,
+1274,Kelly Group,NGO,Real Estate,Medium,CA,0,0,0,0,0,0.5,Medium,4,4,
+1275,Reid and Sons,Individual,Tech,Low,AE,0,0,0,0,0,0,Low,2,2,
+1276,Roberts LLC,Individual,Energy/Oil,High,SG,0,0,0,0,1,0,High,6,6,726
+1277,Baird PLC,Financial Institution,Real Estate,Medium,DE,0,0,0,0,0,0,Medium,4,4,
+1278,Clark-Sullivan,NGO,Tech,Low,SY,0,0,0,1,0,0,Low,2,2,
+1279,"Cook, Green and Bartlett",Corporate,Casino/Gambling,High,JP,0,0,0,0,0,0.5,High,6,6,727
+1280,Lloyd PLC,Corporate,Casino/Gambling,High,RU,0,0,0,1,0,1,High,6,6,728
+1281,Flores-Aguilar,Individual,Energy/Oil,High,FR,0,0,0,0,1,0,High,6,6,729
+1282,Perez-Harmon,Individual,Retail,Low,CA,0,0,0,0,0,0,Low,2,2,
+1283,"Fowler, Smith and Bishop",NGO,Defense/Arms,High,VE,0,1,0,1,1,0,High,6,6,730
+1284,Fuller LLC,Individual,NGO/Charity,High,AE,0,0,0,0,0,0,High,6,6,731
+1285,"Ramos, Cortez and Williams",Individual,Consulting,Low,AE,0,0,0,0,0,0,Low,2,2,
+1286,"Kelly, Jones and Barron",Financial Institution,NGO/Charity,High,CA,0,0,0,0,0,0,High,6,6,732
+1287,Salazar-Baird,Corporate,Consulting,Low,LB,0,0,0,0,0,0,Low,2,2,
+1288,Howell and Sons,NGO,Defense/Arms,High,AU,0,0,0,0,1,0,High,6,6,733
+1289,Mcclain-Hudson,Corporate,Financial Services,Medium,AF,0,0,0,0,1,0.5,Medium,4,4,
+1290,Hernandez-Fernandez,Individual,Import/Export,Medium,AU,0,0,0,0,0,0,Medium,4,4,
+1291,Mcdonald LLC,Individual,Financial Services,Medium,CH,0,0,0,0,1,0,Medium,4,4,
+1292,Ross LLC,Financial Institution,NGO/Charity,High,KP,0,0,1,1,0,0,High,6,6,734
+1293,Allen-Anderson,Financial Institution,Financial Services,Medium,AF,0,0,0,0,1,0,Medium,4,4,
+1294,Williams Group,Financial Institution,Tech,Low,SY,0,0,0,1,0,0,Low,2,2,
+1295,Serrano PLC,NGO,Financial Services,Medium,CN,0,0,0,0,1,0.5,Medium,4,4,
+1296,Cook Inc,NGO,Tech,Low,NL,1,0,0,0,0,0,High,6,6,735
+1297,Garcia-Bird,Financial Institution,Consulting,Low,VE,0,0,0,1,0,0,Low,2,2,
+1298,Decker Ltd,Corporate,Retail,Low,FR,0,0,0,0,0,0,Low,2,2,
+1299,"Kelly, Arias and Pacheco",Financial Institution,Defense/Arms,High,VE,0,0,0,1,1,0,High,6,6,736
+1300,"Nguyen, Hill and Warner",Financial Institution,Energy/Oil,High,IR,0,0,1,1,1,0,High,6,6,737
+1301,Turner LLC,Individual,Casino/Gambling,High,SY,0,0,0,1,0,0,High,6,6,738
+1302,Harrington-Alvarez,NGO,Import/Export,Medium,RU,0,0,0,1,0,0,Medium,4,4,
+1303,Lawson-Ochoa,NGO,Retail,Low,VE,1,0,0,1,0,0,High,6,6,739
+1304,"Wheeler, Meyer and Marshall",Financial Institution,Real Estate,Medium,UK,1,0,0,0,0,0,High,6,6,740
+1305,"Sanders, Smith and Rodgers",Financial Institution,Energy/Oil,High,LB,0,0,0,0,1,0,High,6,6,741
+1306,Kane-Webster,NGO,Crypto Exchange,High,SG,0,0,0,0,0,0,High,6,6,742
+1307,"Ramos, Burns and Foster",Individual,Tech,Low,IR,0,0,1,1,0,0,High,6,6,743
+1308,"Figueroa, Velazquez and Adams",Corporate,Financial Services,Medium,KP,0,0,1,1,1,0,High,6,6,744
+1309,Harris-Stafford,NGO,Defense/Arms,High,AF,0,0,0,0,1,0,High,6,6,745
+1310,"Atkinson, Melton and Bennett",Corporate,Crypto Exchange,High,SD,0,0,0,1,0,1,High,6,6,746
+1311,Quinn-Anderson,Individual,Crypto Exchange,High,RU,0,0,0,1,0,0,High,6,6,747
+1312,Burns-Miller,Individual,NGO/Charity,High,US,0,0,0,0,0,0,High,6,6,748
+1313,Ellis Group,NGO,Import/Export,Medium,DE,0,0,0,0,0,0,Medium,4,4,
+1314,Henry-Morgan,Financial Institution,Consulting,Low,AE,0,0,0,0,0,0,Low,2,2,
+1315,Obrien-West,NGO,Import/Export,Medium,AE,0,0,0,0,0,1,Medium,4,4,
+1316,Morgan-Rogers,NGO,Retail,Low,SY,0,0,0,1,0,0,Low,2,2,
+1317,Harrison-Jimenez,Financial Institution,Casino/Gambling,High,SG,0,0,0,0,0,0,High,6,6,749
+1318,Meyers-Gonzalez,Individual,Tech,Low,DE,0,0,0,0,0,0,Low,2,2,
+1319,Torres-Knight,Financial Institution,Financial Services,Medium,AE,0,0,0,0,1,0,Medium,4,4,
+1320,Johnson Inc,Corporate,Tech,Low,AF,0,0,0,0,0,0,Low,2,2,
+1321,"Zavala, Perez and Thompson",Individual,Tech,Low,DE,0,0,0,0,0,0,Low,2,2,
+1322,Hubbard-Boyd,Corporate,NGO/Charity,High,AE,0,0,0,0,0,0.5,High,6,6,750
+1323,"Gregory, Fisher and Joyce",NGO,Retail,Low,SY,0,1,0,1,0,0,High,6,6,751
+1324,"Davidson, Holloway and Rodriguez",Corporate,Consulting,Low,NL,0,0,0,0,0,0,Low,2,2,
+1325,Chan Group,Individual,Import/Export,Medium,NL,0,0,0,0,0,0,Medium,4,4,
+1326,"Keith, Thomas and Williams",Individual,Energy/Oil,High,AE,0,0,0,0,1,0,High,6,6,752
+1327,"Roman, Greer and Conrad",Individual,Consulting,Low,AF,0,0,0,0,0,0,Low,2,2,
+1328,Beck Ltd,Individual,Consulting,Low,CA,0,0,0,0,0,0,Low,2,2,
+1329,"Smith, Francis and Fields",Individual,Tech,Low,AE,0,0,0,0,0,0,Low,2,2,
+1330,"Burke, Miller and Keith",Financial Institution,Financial Services,Medium,AF,0,0,0,0,1,0,Medium,4,4,
+1331,"Lewis, Roberts and Miller",NGO,Financial Services,Medium,CA,0,0,0,0,1,0,Medium,4,4,
+1332,"Singleton, Simpson and Fox",Corporate,Real Estate,Medium,CH,0,0,0,0,0,0,Medium,4,4,
+1333,Brown Inc,Corporate,NGO/Charity,High,RU,0,0,0,1,0,0,High,6,6,753
+1334,Jimenez-Hamilton,Corporate,Import/Export,Medium,SD,0,0,0,1,0,1,Medium,4,4,
+1335,"Burch, Martin and Murphy",Corporate,NGO/Charity,High,JP,0,0,0,0,0,0,High,6,6,754
+1336,"Morris, Stewart and Jacobson",NGO,Tech,Low,AF,0,0,0,0,0,0,Low,2,2,
+1337,"Escobar, Chavez and Gillespie",Financial Institution,Real Estate,Medium,LB,0,0,0,0,0,0,Medium,4,4,
+1338,"Rojas, Porter and Davidson",NGO,Tech,Low,AU,0,0,0,0,0,0,Low,2,2,
+1339,"Lindsey, Allen and Wilcox",Corporate,Retail,Low,LB,1,0,0,0,0,0,High,6,6,755
+1340,Johnson-Park,Financial Institution,Import/Export,Medium,VE,0,0,0,1,0,0,Medium,4,4,
+1341,Garcia-Hill,NGO,Tech,Low,UK,0,0,0,0,0,0.5,Low,2,2,
+1342,Ross-Stewart,Corporate,Real Estate,Medium,LB,0,0,0,0,0,0.5,Medium,4,4,
+1343,Johnson-Brown,Corporate,Casino/Gambling,High,CH,0,0,0,0,0,0.5,High,6,6,756
+1344,"Holder, Fisher and Allen",Corporate,Financial Services,Medium,CN,0,0,0,0,1,0,Medium,4,4,
+1345,Gutierrez LLC,NGO,Retail,Low,IR,0,0,1,1,0,0,High,6,6,757
+1346,Murphy Inc,Individual,Import/Export,Medium,FR,0,0,0,0,0,0,Medium,4,4,
+1347,Silva Inc,NGO,NGO/Charity,High,KP,0,0,1,1,0,0,High,6,6,758
+1348,Evans Inc,NGO,Defense/Arms,High,KP,0,0,1,1,1,0,High,6,6,759
+1349,Carr-Williams,Corporate,NGO/Charity,High,NL,0,0,0,0,0,0,High,6,6,760
+1350,Benson-White,Financial Institution,Defense/Arms,High,SG,0,1,0,0,1,0,High,6,6,761
+1351,Wilkins-Brown,NGO,Consulting,Low,IN,0,0,0,0,0,1,Medium,4,4,
+1352,Cannon PLC,Individual,Energy/Oil,High,VE,0,0,0,1,1,0,High,6,6,762
+1353,"Sanford, Griffin and Ortiz",NGO,Consulting,Low,CN,0,0,0,0,0,0.5,Low,2,2,
+1354,Mueller-Davis,Corporate,Financial Services,Medium,CN,0,0,0,0,1,1,Medium,4,4,
+1355,"Perry, Diaz and Brown",Financial Institution,Energy/Oil,High,CA,0,0,0,0,1,0,High,6,6,763
+1356,Perez and Sons,Corporate,Energy/Oil,High,UK,0,0,0,0,1,0.5,High,6,6,764
+1357,Fletcher-Miles,Corporate,Energy/Oil,High,AU,0,0,0,0,1,0,High,6,6,765
+1358,Rose LLC,Corporate,Casino/Gambling,High,CH,0,0,0,0,0,0,High,6,6,766
+1359,White-Jackson,Financial Institution,Real Estate,Medium,NL,0,0,0,0,0,0,Medium,4,4,
+1360,Richardson LLC,Corporate,Financial Services,Medium,IR,0,0,1,1,1,0.5,High,6,6,767
+1361,"Mack, Smith and Richardson",Financial Institution,Financial Services,Medium,IN,1,0,0,0,1,0,High,6,6,768
+1362,Weaver and Sons,NGO,Import/Export,Medium,IN,0,0,0,0,0,0,Medium,4,4,
+1363,Buchanan-Drake,Corporate,Tech,Low,DE,0,0,0,0,0,1,Medium,4,4,
+1364,Alvarado-Wallace,Corporate,Retail,Low,DE,0,0,0,0,0,0,Low,2,2,
+1365,Mcdonald and Sons,Individual,Import/Export,Medium,CN,0,0,0,0,0,0,Medium,4,4,
+1366,"Allen, Gomez and Thompson",Financial Institution,Real Estate,Medium,RU,0,0,0,1,0,0,Medium,4,4,
+1367,Moore Group,NGO,NGO/Charity,High,AE,0,0,0,0,0,0,High,6,6,769
+1368,House Inc,Financial Institution,Casino/Gambling,High,VE,0,0,0,1,0,0,High,6,6,770
+1369,Watkins PLC,Financial Institution,Casino/Gambling,High,SG,0,0,0,0,0,0,High,6,6,771
+1370,"David, Gordon and Richardson",Individual,Import/Export,Medium,IN,0,0,0,0,0,0,Medium,4,4,
+1371,"Cunningham, Williams and Flores",NGO,Real Estate,Medium,IR,0,0,1,1,0,0,High,6,6,772
+1372,Swanson PLC,Corporate,Import/Export,Medium,FR,0,0,0,0,0,0,Medium,4,4,
+1373,Bridges-Moore,Individual,Retail,Low,JP,0,0,0,0,0,0,Low,2,2,
+1374,Rodriguez-Lewis,Individual,Real Estate,Medium,CN,0,0,0,0,0,0,Medium,4,4,
+1375,Daniel-Davies,Individual,Financial Services,Medium,AF,1,0,0,0,1,0,High,6,6,773
+1376,Alexander PLC,Corporate,Casino/Gambling,High,DE,0,0,0,0,0,0,High,6,6,774
+1377,Watson LLC,Corporate,Import/Export,Medium,VE,1,0,0,1,0,0,High,6,6,775
+1378,"Collier, Williams and Harris",NGO,Defense/Arms,High,UK,0,0,0,0,1,1,High,6,6,776
+1379,Duffy-Owens,Financial Institution,Tech,Low,JP,0,0,0,0,0,0,Low,2,2,
+1380,"Gardner, Price and Adams",NGO,Energy/Oil,High,CA,0,0,0,0,1,0,High,6,6,777
+1381,Proctor and Sons,Financial Institution,Casino/Gambling,High,KP,0,0,1,1,0,0,High,6,6,778
+1382,Smith-Maxwell,Individual,Consulting,Low,RU,0,0,0,1,0,0,Low,2,2,
+1383,Doyle-Johnson,Individual,Financial Services,Medium,FR,0,0,0,0,1,0,Medium,4,4,
+1384,"Harvey, Diaz and Mcmahon",Corporate,Import/Export,Medium,NL,1,0,0,0,0,0,High,6,6,779
+1385,"Gray, Parker and Mendez",Financial Institution,NGO/Charity,High,CA,0,0,0,0,0,0,High,6,6,780
+1386,"Harmon, Maldonado and Martinez",Corporate,Retail,Low,FR,0,0,0,0,0,0,Low,2,2,
+1387,"Soto, Browning and Turner",NGO,Casino/Gambling,High,US,0,0,0,0,0,0,High,6,6,781
+1388,"Gardner, Miranda and Horton",NGO,Import/Export,Medium,IN,0,0,0,0,0,0,Medium,4,4,
+1389,Davis-Owen,Financial Institution,Casino/Gambling,High,UK,0,0,0,0,0,0,High,6,6,782
+1390,"Evans, Tapia and Smith",Individual,Crypto Exchange,High,CH,0,0,0,0,0,0,High,6,6,783
+1391,Gutierrez-Myers,Financial Institution,Crypto Exchange,High,AE,0,0,0,0,0,0,High,6,6,784
+1392,Ross PLC,Corporate,NGO/Charity,High,AF,0,0,0,0,0,0.5,High,6,6,785
+1393,"Taylor, Hernandez and Smith",NGO,Consulting,Low,US,0,0,0,0,0,0,Low,2,2,
+1394,Fowler Inc,Corporate,Defense/Arms,High,SY,0,0,0,1,1,0,High,6,6,786
+1395,May-King,Individual,Energy/Oil,High,IR,1,0,1,1,1,0,High,6,6,787
+1396,"Singleton, Mcintyre and Newman",NGO,Financial Services,Medium,SD,0,0,0,1,1,0,Medium,4,4,
+1397,"Olson, Dorsey and Smith",Financial Institution,Tech,Low,KP,0,0,1,1,0,0,High,6,6,788
+1398,Chambers LLC,NGO,Import/Export,Medium,FR,0,0,0,0,0,0,Medium,4,4,
+1399,Johns-Reid,Corporate,Financial Services,Medium,CA,0,0,0,0,1,0,Medium,4,4,
+1400,Valdez-Richardson,Individual,Crypto Exchange,High,SY,0,0,0,1,0,0,High,6,6,789
+1401,Fuller-Ewing,NGO,Casino/Gambling,High,DE,0,0,0,0,0,0,High,6,6,790
+1402,Peterson-Hernandez,Individual,Casino/Gambling,High,VE,0,0,0,1,0,0,High,6,6,791
+1403,"George, Miles and Fletcher",Financial Institution,Financial Services,Medium,JP,0,0,0,0,1,0,Medium,4,4,
+1404,Martin-Santos,Corporate,Real Estate,Medium,JP,0,0,0,0,0,1,Medium,4,4,
+1405,Scott-Adams,Corporate,Real Estate,Medium,NL,0,0,0,0,0,0,Medium,4,4,
+1406,Berry-Hernandez,Individual,Consulting,Low,SG,0,0,0,0,0,0,Low,2,2,
+1407,"White, Scott and Zimmerman",NGO,Casino/Gambling,High,JP,0,0,0,0,0,1,High,6,6,792
+1408,Lewis Group,Individual,Financial Services,Medium,SY,0,0,0,1,1,0,Medium,4,4,
+1409,"Mora, Norton and Golden",Corporate,Real Estate,Medium,IR,0,0,1,1,0,0.5,High,6,6,793
+1410,"Martin, Cline and King",NGO,Crypto Exchange,High,CH,0,0,0,0,0,0,High,6,6,794
+1411,Morrison-Shaw,Individual,Casino/Gambling,High,AF,0,0,0,0,0,0,High,6,6,795
+1412,"Murray, Kemp and Williams",Financial Institution,Crypto Exchange,High,IN,0,0,0,0,0,0,High,6,6,796
+1413,Johnson-Pearson,NGO,Crypto Exchange,High,JP,0,0,0,0,0,0,High,6,6,797
+1414,Smith Inc,Individual,Retail,Low,CA,0,0,0,0,0,0,Low,2,2,
+1415,Rice-Davis,Corporate,Consulting,Low,LB,0,0,0,0,0,1,Medium,4,4,
+1416,Ramos PLC,NGO,Casino/Gambling,High,US,0,0,0,0,0,0,High,6,6,798
+1417,"Hughes, Berry and Acosta",NGO,Consulting,Low,AU,0,0,0,0,0,0,Low,2,2,
+1418,Harris PLC,Financial Institution,Import/Export,Medium,US,0,0,0,0,0,0,Medium,4,4,
+1419,"White, Krause and Jones",NGO,Real Estate,Medium,JP,0,0,0,0,0,0.5,Medium,4,4,
+1420,"Thomas, White and Escobar",Financial Institution,Defense/Arms,High,SD,0,0,0,1,1,0,High,6,6,799
+1421,"Mosley, Lawrence and Christensen",Financial Institution,Crypto Exchange,High,US,0,1,0,0,0,0,High,6,6,800
+1422,Bailey Ltd,Individual,Financial Services,Medium,NL,0,0,0,0,1,0,Medium,4,4,
+1423,"Terrell, Torres and Sanchez",Financial Institution,Retail,Low,VE,0,0,0,1,0,0,Low,2,2,
+1424,"Walker, Warren and Beasley",Financial Institution,Casino/Gambling,High,SD,0,0,0,1,0,0,High,6,6,801
+1425,Fuller LLC,Corporate,NGO/Charity,High,IN,0,0,0,0,0,0.5,High,6,6,802
+1426,"Smith, Valencia and Robbins",Individual,Import/Export,Medium,IR,0,0,1,1,0,0,High,6,6,803
+1427,Bennett Ltd,Corporate,Consulting,Low,US,0,0,0,0,0,0,Low,2,2,
+1428,"Bradley, Page and Marsh",Corporate,Tech,Low,CH,0,0,0,0,0,1,Medium,4,4,
+1429,Cordova-Humphrey,Financial Institution,Casino/Gambling,High,IN,0,0,0,0,0,0,High,6,6,804
+1430,Ferguson LLC,Corporate,Real Estate,Medium,SG,0,0,0,0,0,0,Medium,4,4,
+1431,Mendoza-Flores,Corporate,Import/Export,Medium,NL,0,0,0,0,0,0,Medium,4,4,
+1432,Porter PLC,Individual,Retail,Low,AU,0,0,0,0,0,0,Low,2,2,
+1433,"Lozano, Oconnell and Tapia",Individual,Casino/Gambling,High,VE,0,1,0,1,0,0,High,6,6,805
+1434,"Graham, Johnson and Lee",Financial Institution,Import/Export,Medium,SY,0,0,0,1,0,0,Medium,4,4,
+1435,"Calhoun, Moore and Buck",Corporate,Tech,Low,DE,0,0,0,0,0,0.5,Low,2,2,
+1436,Chang PLC,Corporate,Import/Export,Medium,SD,0,0,0,1,0,0,Medium,4,4,
+1437,Huffman-Shannon,NGO,Real Estate,Medium,DE,0,0,0,0,0,0,Medium,4,4,
+1438,Ramirez-Mckenzie,Corporate,Consulting,Low,SD,0,0,0,1,0,0.5,Low,2,2,
+1439,"Caldwell, Garcia and James",NGO,Crypto Exchange,High,AF,0,0,0,0,0,0,High,6,6,806
+1440,"Edwards, Delacruz and Sutton",Financial Institution,NGO/Charity,High,US,0,0,0,0,0,0,High,6,6,807
+1441,"Noble, Anderson and Hunter",Corporate,Import/Export,Medium,AE,0,0,0,0,0,0,Medium,4,4,
+1442,"Hansen, Page and Jackson",Financial Institution,Defense/Arms,High,SY,0,0,0,1,1,0,High,6,6,808
+1443,Thomas-Rose,Corporate,Defense/Arms,High,CH,0,0,0,0,1,0,High,6,6,809
+1444,Novak-Adkins,NGO,NGO/Charity,High,SD,0,0,0,1,0,0,High,6,6,810
+1445,Gonzales LLC,NGO,NGO/Charity,High,AF,0,0,0,0,0,0.5,High,6,6,811
+1446,"Wright, Marshall and Taylor",Individual,Defense/Arms,High,JP,0,0,0,0,1,0,High,6,6,812
+1447,Greene and Sons,Individual,Crypto Exchange,High,US,0,0,0,0,0,0,High,6,6,813
+1448,Summers PLC,Financial Institution,Import/Export,Medium,SD,0,0,0,1,0,0,Medium,4,4,
+1449,"Hernandez, Lee and Carroll",NGO,Financial Services,Medium,CA,0,0,0,0,1,0,Medium,4,4,
+1450,Spence-Silva,Corporate,Financial Services,Medium,DE,0,0,0,0,1,0,Medium,4,4,
+1451,Reyes-Reynolds,Individual,Retail,Low,AU,0,0,0,0,0,0,Low,2,2,
+1452,Carlson-Rodriguez,Financial Institution,Financial Services,Medium,IN,0,0,0,0,1,0,Medium,4,4,
+1453,"Watson, Watson and Boone",Individual,Financial Services,Medium,SD,0,0,0,1,1,0,Medium,4,4,
+1454,"Sharp, Hughes and Green",Financial Institution,Retail,Low,LB,0,0,0,0,0,0,Low,2,2,
+1455,"Farrell, Weaver and Clark",Financial Institution,Import/Export,Medium,LB,0,0,0,0,0,0,Medium,4,4,
+1456,Parks Ltd,Individual,NGO/Charity,High,CH,0,0,0,0,0,0,High,6,6,814
+1457,Anderson Ltd,NGO,Retail,Low,SG,0,0,0,0,0,0.5,Low,2,2,
+1458,Moss Ltd,Financial Institution,Energy/Oil,High,IN,0,0,0,0,1,0,High,6,6,815
+1459,Fleming Ltd,Individual,Consulting,Low,FR,0,0,0,0,0,0,Low,2,2,
+1460,"Brooks, Thomas and Hanna",Corporate,Import/Export,Medium,DE,0,0,0,0,0,0.5,Medium,4,4,
+1461,Woods PLC,Corporate,Crypto Exchange,High,IN,0,0,0,0,0,0,High,6,6,816
+1462,Guzman-Kent,NGO,Import/Export,Medium,SY,0,0,0,1,0,0.5,Medium,4,4,
+1463,"Anderson, Reynolds and Landry",Corporate,Crypto Exchange,High,SG,0,0,0,0,0,0,High,6,6,817
+1464,"Walsh, Rowe and Wright",NGO,Consulting,Low,VE,0,0,0,1,0,0,Low,2,2,
+1465,Rodgers-Simmons,Corporate,NGO/Charity,High,LB,0,0,0,0,0,0,High,6,6,818
+1466,"Roberson, Boyer and Rogers",NGO,Financial Services,Medium,US,0,0,0,0,1,0,Medium,4,4,
+1467,Golden Inc,Individual,Energy/Oil,High,FR,0,0,0,0,1,0,High,6,6,819
+1468,Benson and Sons,Corporate,Crypto Exchange,High,IN,0,0,0,0,0,0.5,High,6,6,820
+1469,"Young, Moreno and Booth",NGO,Defense/Arms,High,KP,0,0,1,1,1,0,High,6,6,821
+1470,Perez-Carter,NGO,Energy/Oil,High,NL,0,0,0,0,1,0,High,6,6,822
+1471,Porter PLC,NGO,Tech,Low,AU,0,0,0,0,0,0.5,Low,2,2,
+1472,Johnson Group,NGO,Crypto Exchange,High,DE,0,0,0,0,0,0,High,6,6,823
+1473,"Larson, Fry and Logan",Financial Institution,Tech,Low,AF,0,0,0,0,0,0,Low,2,2,
+1474,Gutierrez and Sons,Individual,Energy/Oil,High,KP,0,0,1,1,1,0,High,6,6,824
+1475,Vega-Villanueva,NGO,Casino/Gambling,High,FR,0,0,0,0,0,0,High,6,6,825
+1476,Martinez-Shaw,Corporate,Crypto Exchange,High,CH,0,0,0,0,0,0.5,High,6,6,826
+1477,Fields Ltd,Financial Institution,NGO/Charity,High,CH,0,0,0,0,0,0,High,6,6,827
+1478,"Castillo, Lee and Williams",Individual,Consulting,Low,VE,0,0,0,1,0,0,Low,2,2,
+1479,Chandler-Scott,Individual,Tech,Low,VE,0,0,0,1,0,0,Low,2,2,
+1480,Burns PLC,Financial Institution,NGO/Charity,High,LB,0,0,0,0,0,0,High,6,6,828
+1481,Barnes-King,Individual,Financial Services,Medium,NL,0,0,0,0,1,0,Medium,4,4,
+1482,Hull-Hudson,NGO,NGO/Charity,High,CN,0,0,0,0,0,0,High,6,6,829
+1483,Pena-Richardson,Financial Institution,Retail,Low,SY,0,0,0,1,0,0,Low,2,2,
+1484,Evans Inc,Financial Institution,Casino/Gambling,High,SY,0,0,0,1,0,0,High,6,6,830
+1485,Weaver LLC,NGO,Casino/Gambling,High,AF,0,0,0,0,0,0,High,6,6,831
+1486,Hogan Group,Individual,Consulting,Low,CH,0,0,0,0,0,0,Low,2,2,
+1487,Swanson-Campbell,Financial Institution,Casino/Gambling,High,RU,0,0,0,1,0,0,High,6,6,832
+1488,Walker-Hooper,Financial Institution,Real Estate,Medium,AU,0,0,0,0,0,0,Medium,4,4,
+1489,Benson-Hernandez,Corporate,Casino/Gambling,High,LB,0,0,0,0,0,0.5,High,6,6,833
+1490,Gardner-Woods,Individual,Defense/Arms,High,SD,0,0,0,1,1,0,High,6,6,834
+1491,"Hopkins, Lane and Duncan",Individual,Defense/Arms,High,SG,0,0,0,0,1,0,High,6,6,835
+1492,Hawkins Inc,NGO,Real Estate,Medium,CN,0,0,0,0,0,0,Medium,4,4,
+1493,Salazar and Sons,Corporate,Consulting,Low,LB,0,0,0,0,0,0,Low,2,2,
+1494,"Brown, Hunt and Bell",NGO,NGO/Charity,High,AU,0,0,0,0,0,0,High,6,6,836
+1495,"Morton, Martinez and Fernandez",Individual,Defense/Arms,High,AE,0,0,0,0,1,0,High,6,6,837
+1496,Hernandez and Sons,Financial Institution,Defense/Arms,High,US,0,0,0,0,1,0,High,6,6,838
+1497,Hernandez PLC,Corporate,NGO/Charity,High,SY,1,0,0,1,0,0,High,6,6,839
+1498,Gonzales Group,NGO,Retail,Low,SG,0,0,0,0,0,0.5,Low,2,2,
+1499,Patel-Jones,NGO,Real Estate,Medium,AE,0,0,0,0,0,0.5,Medium,4,4,
+1500,"Harper, Rubio and Ross",Corporate,Tech,Low,JP,0,0,0,0,0,0,Low,2,2,
+1501,Young-Singh,Financial Institution,NGO/Charity,High,VE,0,0,0,1,0,0,High,6,6,840
+1502,Casey LLC,Corporate,Energy/Oil,High,JP,0,0,0,0,1,0,High,6,6,841
+1503,Ward-Harris,Individual,Financial Services,Medium,VE,1,1,0,1,1,0,High,6,6,842
+1504,Riley-Wyatt,Corporate,Real Estate,Medium,JP,0,0,0,0,0,0,Medium,4,4,
+1505,Powell-Webster,NGO,Real Estate,Medium,DE,1,0,0,0,0,0,High,6,6,843
+1506,Swanson Inc,NGO,Import/Export,Medium,NL,0,0,0,0,0,0,Medium,4,4,
+1507,"Taylor, Barker and Hall",Corporate,NGO/Charity,High,SY,0,0,0,1,0,0,High,6,6,844
+1508,Lopez Inc,Individual,Defense/Arms,High,CA,0,0,0,0,1,0,High,6,6,845
+1509,Mcdonald Ltd,Financial Institution,Casino/Gambling,High,VE,0,0,0,1,0,0,High,6,6,846
+1510,Wilson-Nguyen,NGO,Real Estate,Medium,AU,0,0,0,0,0,0,Medium,4,4,
+1511,White-Lawrence,NGO,Crypto Exchange,High,JP,0,0,0,0,0,0,High,6,6,847
+1512,Jones-Kramer,Corporate,NGO/Charity,High,SD,0,0,0,1,0,0,High,6,6,848
+1513,Gray-Smith,Corporate,Real Estate,Medium,UK,0,0,0,0,0,0,Medium,4,4,
+1514,Smith-Zimmerman,Financial Institution,NGO/Charity,High,CA,0,0,0,0,0,0,High,6,6,849
+1515,Madden-Brown,Financial Institution,Tech,Low,AE,0,0,0,0,0,0,Low,2,2,
+1516,Vasquez PLC,Individual,Retail,Low,SD,0,0,0,1,0,0,Low,2,2,
+1517,"Rodriguez, Wagner and Parker",NGO,Energy/Oil,High,IN,0,0,0,0,1,0,High,6,6,850
+1518,Fields-Fox,Corporate,Financial Services,Medium,DE,0,0,0,0,1,1,Medium,4,4,
+1519,Thompson-Tanner,NGO,Financial Services,Medium,KP,0,0,1,1,1,0,High,6,6,851
+1520,"Lee, Bell and Gonzales",Corporate,Casino/Gambling,High,CA,0,0,0,0,0,0,High,6,6,852
+1521,"Waters, Hunt and Ellis",NGO,NGO/Charity,High,LB,0,0,0,0,0,0,High,6,6,853
+1522,"Elliott, Douglas and Russell",Individual,Defense/Arms,High,SD,0,0,0,1,1,0,High,6,6,854
+1523,Dillon Group,NGO,Energy/Oil,High,NL,0,0,0,0,1,1,High,6,6,855
+1524,"Woodard, Garcia and Spencer",NGO,Retail,Low,CN,0,0,0,0,0,1,Medium,4,4,
+1525,"Foster, Ford and Obrien",NGO,Financial Services,Medium,JP,0,0,0,0,1,0,Medium,4,4,
+1526,Turner-Rhodes,Individual,Energy/Oil,High,AE,0,0,0,0,1,0,High,6,6,856
+1527,"Orr, Hall and Martin",Individual,Energy/Oil,High,US,0,0,0,0,1,0,High,6,6,857
+1528,Smith Ltd,Individual,Real Estate,Medium,SD,0,0,0,1,0,0,Medium,4,4,
+1529,"Lopez, Schwartz and Stevenson",Financial Institution,Crypto Exchange,High,RU,0,0,0,1,0,0,High,6,6,858
+1530,Bright Inc,NGO,Retail,Low,LB,0,0,0,0,0,0.5,Low,2,2,
+1531,Wall PLC,NGO,Casino/Gambling,High,SY,0,0,0,1,0,0,High,6,6,859
+1532,Alexander-Moore,Individual,Energy/Oil,High,CA,0,0,0,0,1,0,High,6,6,860
+1533,"Jones, Jacobson and Mejia",Financial Institution,Consulting,Low,CH,0,0,0,0,0,0,Low,2,2,
+1534,Johnson-Gross,NGO,Financial Services,Medium,CN,0,0,0,0,1,0,Medium,4,4,
+1535,Gray-Roberts,NGO,Import/Export,Medium,AU,0,0,0,0,0,0.5,Medium,4,4,
+1536,Brooks and Sons,Corporate,Real Estate,Medium,SG,0,0,0,0,0,0,Medium,4,4,
+1537,Ferguson-Franklin,Financial Institution,Retail,Low,SD,0,0,0,1,0,0,Low,2,2,
+1538,Butler-Mcdaniel,NGO,Defense/Arms,High,AF,0,1,0,0,1,0,High,6,6,861
+1539,Larson Inc,Financial Institution,Defense/Arms,High,RU,0,0,0,1,1,0,High,6,6,862
+1540,"Hernandez, Austin and Oconnell",NGO,NGO/Charity,High,IN,0,0,0,0,0,1,High,6,6,863
+1541,Chen Ltd,Financial Institution,NGO/Charity,High,AU,0,0,0,0,0,0,High,6,6,864
+1542,Santos Ltd,NGO,Retail,Low,AU,0,0,0,0,0,0.5,Low,2,2,
+1543,"Miller, Crawford and Blair",Financial Institution,Casino/Gambling,High,SG,0,0,0,0,0,0,High,6,6,865
+1544,Allen PLC,NGO,Financial Services,Medium,CA,0,0,0,0,1,0,Medium,4,4,
+1545,Dominguez-Foster,Financial Institution,Consulting,Low,DE,0,0,0,0,0,0,Low,2,2,
+1546,Castillo Inc,NGO,Casino/Gambling,High,SD,0,0,0,1,0,0.5,High,6,6,866
+1547,Peterson LLC,Financial Institution,Import/Export,Medium,AF,0,0,0,0,0,0,Medium,4,4,
+1548,Brown and Sons,Individual,Consulting,Low,SD,0,0,0,1,0,0,Low,2,2,
+1549,Salas LLC,NGO,NGO/Charity,High,SG,0,0,0,0,0,0,High,6,6,867
+1550,Villarreal Ltd,Financial Institution,Tech,Low,SD,0,0,0,1,0,0,Low,2,2,
+1551,Reid-Peck,Financial Institution,Casino/Gambling,High,CA,0,0,0,0,0,0,High,6,6,868
+1552,Hernandez Group,Corporate,Import/Export,Medium,AE,0,0,0,0,0,1,Medium,4,4,
+1553,Hale-Harris,NGO,Import/Export,Medium,US,0,0,0,0,0,0,Medium,4,4,
+1554,Mosley LLC,Individual,Financial Services,Medium,AF,0,0,0,0,1,0,Medium,4,4,
+1555,"Cooper, Holmes and Williams",NGO,Financial Services,Medium,NL,0,0,0,0,1,0.5,Medium,4,4,
+1556,"Mitchell, Brewer and Graham",Financial Institution,Tech,Low,VE,0,0,0,1,0,0,Low,2,2,
+1557,Hansen-Burke,Individual,Crypto Exchange,High,IN,0,0,0,0,0,0,High,6,6,869
+1558,"Gibson, Cline and Newman",NGO,Defense/Arms,High,AU,0,0,0,0,1,0,High,6,6,870
+1559,Brooks-Lopez,Corporate,Tech,Low,CA,0,0,0,0,0,0.5,Low,2,2,
+1560,Wilcox LLC,Corporate,Energy/Oil,High,AE,0,0,0,0,1,0.5,High,6,6,871
+1561,Foley-Moran,Corporate,Crypto Exchange,High,LB,0,0,0,0,0,0,High,6,6,872
+1562,"Hobbs, Edwards and Chavez",Corporate,Energy/Oil,High,IN,0,0,0,0,1,0,High,6,6,873
+1563,"Leonard, Miller and Clark",NGO,Tech,Low,US,0,0,0,0,0,0.5,Low,2,2,
+1564,"Baker, Small and Payne",Corporate,Consulting,Low,VE,0,0,0,1,0,0,Low,2,2,
+1565,Hernandez-Foster,Corporate,NGO/Charity,High,NL,0,0,0,0,0,0.5,High,6,6,874
+1566,"Skinner, Gonzalez and Donovan",NGO,Defense/Arms,High,LB,0,0,0,0,1,0.5,High,6,6,875
+1567,West Ltd,Financial Institution,Real Estate,Medium,AU,0,0,0,0,0,0,Medium,4,4,
+1568,"Walters, Brown and Alvarado",Financial Institution,Retail,Low,VE,0,0,0,1,0,0,Low,2,2,
+1569,"Bell, Miller and Smith",Individual,Retail,Low,UK,0,0,0,0,0,0,Low,2,2,
+1570,Garza-King,Individual,Financial Services,Medium,UK,0,0,0,0,1,0,Medium,4,4,
+1571,Hall Group,Financial Institution,Energy/Oil,High,CH,0,1,0,0,1,0,High,6,6,876
+1572,"Brady, Davis and Miller",NGO,Financial Services,Medium,RU,0,0,0,1,1,0.5,Medium,4,4,
+1573,Petersen Inc,Individual,Retail,Low,KP,0,0,1,1,0,0,High,6,6,877
+1574,"Arnold, West and Wheeler",Corporate,Tech,Low,AU,0,0,0,0,0,1,Medium,4,4,
+1575,"Li, Potter and Davidson",NGO,Casino/Gambling,High,RU,0,0,0,1,0,0,High,6,6,878
+1576,Brown-Green,Corporate,Energy/Oil,High,NL,0,0,0,0,1,0,High,6,6,879
+1577,"Allen, Bryant and Martin",Corporate,Financial Services,Medium,IN,0,0,0,0,1,0,Medium,4,4,
+1578,Vance LLC,Corporate,Financial Services,Medium,AF,0,0,0,0,1,0.5,Medium,4,4,
+1579,"Barnes, Morrow and Cervantes",NGO,NGO/Charity,High,FR,0,0,0,0,0,0.5,High,6,6,880
+1580,Gray Group,NGO,NGO/Charity,High,AU,0,0,0,0,0,0,High,6,6,881
+1581,"Tran, Thomas and Leon",NGO,Financial Services,Medium,AE,0,0,0,0,1,0,Medium,4,4,
+1582,Moreno-Flores,Corporate,Crypto Exchange,High,IR,0,0,1,1,0,0,High,6,6,882
+1583,Luna Ltd,NGO,Casino/Gambling,High,CN,1,0,0,0,0,0,High,6,6,883
+1584,Anderson-Chambers,NGO,Real Estate,Medium,FR,0,0,0,0,0,0,Medium,4,4,
+1585,"Daniels, Robertson and Jones",Individual,Consulting,Low,CA,0,0,0,0,0,0,Low,2,2,
+1586,"Adams, Sparks and Jones",NGO,Consulting,Low,FR,0,0,0,0,0,0,Low,2,2,
+1587,"Kramer, Mueller and Hardin",Financial Institution,Real Estate,Medium,AU,0,0,0,0,0,0,Medium,4,4,
+1588,"Williams, Johnson and Tucker",Corporate,Energy/Oil,High,FR,0,0,0,0,1,0,High,6,6,884
+1589,"Melton, Hunter and Chen",Individual,Financial Services,Medium,SG,0,0,0,0,1,0,Medium,4,4,
+1590,Curtis-Galloway,Individual,Energy/Oil,High,LB,0,0,0,0,1,0,High,6,6,885
+1591,Wilson-Wilson,Individual,Consulting,Low,IR,0,0,1,1,0,0,High,6,6,886
+1592,Hansen and Sons,Individual,Crypto Exchange,High,CA,0,0,0,0,0,0,High,6,6,887
+1593,Mccarthy LLC,Individual,Defense/Arms,High,FR,0,1,0,0,1,0,High,6,6,888
+1594,"Hoover, Robertson and Alvarez",Financial Institution,Import/Export,Medium,KP,0,0,1,1,0,0,High,6,6,889
+1595,"Sweeney, Dominguez and Kirby",NGO,Crypto Exchange,High,SG,0,0,0,0,0,0,High,6,6,890
+1596,Mclaughlin Inc,Individual,Defense/Arms,High,SG,0,0,0,0,1,0,High,6,6,891
+1597,Carter-Potter,NGO,Financial Services,Medium,KP,0,0,1,1,1,0,High,6,6,892
+1598,Shannon-Jones,Individual,Energy/Oil,High,AF,0,0,0,0,1,0,High,6,6,893
+1599,Williams-Sullivan,Individual,Import/Export,Medium,JP,0,0,0,0,0,0,Medium,4,4,
+1600,Poole LLC,NGO,Casino/Gambling,High,FR,0,0,0,0,0,0,High,6,6,894
+1601,Thompson LLC,NGO,Import/Export,Medium,SY,1,0,0,1,0,0.5,High,6,6,895
+1602,"Vincent, Carey and Andrews",Financial Institution,Real Estate,Medium,VE,0,0,0,1,0,0,Medium,4,4,
+1603,"Perry, Price and Joseph",Individual,Crypto Exchange,High,CA,0,0,0,0,0,0,High,6,6,896
+1604,Garcia PLC,NGO,Import/Export,Medium,KP,0,0,1,1,0,0,High,6,6,897
+1605,Howell and Sons,Corporate,Import/Export,Medium,LB,0,0,0,0,0,0.5,Medium,4,4,
+1606,Edwards-Estes,NGO,Real Estate,Medium,IR,0,0,1,1,0,0,High,6,6,898
+1607,Santiago-Murphy,Corporate,Financial Services,Medium,FR,0,0,0,0,1,0.5,Medium,4,4,
+1608,Holland LLC,NGO,Financial Services,Medium,DE,0,0,0,0,1,0,Medium,4,4,
+1609,Brown Inc,NGO,NGO/Charity,High,SD,0,0,0,1,0,0,High,6,6,899
+1610,Hall-Torres,Individual,Retail,Low,SG,0,0,0,0,0,0,Low,2,2,
+1611,Smith-Coleman,Corporate,Tech,Low,CA,0,0,0,0,0,0,Low,2,2,
+1612,"Burnett, Robinson and Hurley",Financial Institution,Crypto Exchange,High,AU,0,0,0,0,0,0,High,6,6,900
+1613,Mejia PLC,Corporate,Tech,Low,IR,0,0,1,1,0,1,High,6,6,901
+1614,Ortiz LLC,Individual,Retail,Low,US,0,0,0,0,0,0,Low,2,2,
+1615,Conner-Delgado,Financial Institution,NGO/Charity,High,UK,0,0,0,0,0,0,High,6,6,902
+1616,"Bass, Lopez and Johnson",Financial Institution,Financial Services,Medium,NL,0,0,0,0,1,0,Medium,4,4,
+1617,Walker LLC,NGO,Financial Services,Medium,KP,0,0,1,1,1,0,High,6,6,903
+1618,Ramirez-Lopez,NGO,Import/Export,Medium,VE,0,0,0,1,0,0,Medium,4,4,
+1619,"Berger, Davis and Carson",Individual,Consulting,Low,UK,0,0,0,0,0,0,Low,2,2,
+1620,Miller Inc,NGO,Import/Export,Medium,FR,0,0,0,0,0,0,Medium,4,4,
+1621,"Johnston, Allen and Stephens",NGO,Casino/Gambling,High,NL,0,0,0,0,0,0,High,6,6,904
+1622,Porter-Rosales,Financial Institution,Real Estate,Medium,CH,0,0,0,0,0,0,Medium,4,4,
+1623,"Black, Bennett and Arellano",Corporate,Energy/Oil,High,AU,0,0,0,0,1,0,High,6,6,905
+1624,Robinson-Johnson,Individual,NGO/Charity,High,CN,0,0,0,0,0,0,High,6,6,906
+1625,Powell-Robinson,Individual,Energy/Oil,High,UK,0,0,0,0,1,0,High,6,6,907
+1626,Lee-Porter,Financial Institution,Tech,Low,CA,0,0,0,0,0,0,Low,2,2,
+1627,"Sparks, Bailey and Bentley",Corporate,Real Estate,Medium,SD,0,0,0,1,0,0,Medium,4,4,
+1628,Bradley-Mcclain,Individual,Energy/Oil,High,LB,0,0,0,0,1,0,High,6,6,908
+1629,Pearson Inc,Corporate,Retail,Low,FR,0,0,0,0,0,0,Low,2,2,
+1630,"Diaz, Sanders and Preston",NGO,Crypto Exchange,High,SD,0,0,0,1,0,0,High,6,6,909
+1631,Turner LLC,Financial Institution,Tech,Low,SG,0,0,0,0,0,0,Low,2,2,
+1632,Griffin-Howard,Corporate,NGO/Charity,High,RU,0,1,0,1,0,0,High,6,6,910
+1633,Garcia Inc,Individual,Financial Services,Medium,CH,0,0,0,0,1,0,Medium,4,4,
+1634,"Murray, Goodman and Stout",Financial Institution,Tech,Low,SG,0,0,0,0,0,0,Low,2,2,
+1635,"Kim, Velazquez and Garcia",Corporate,Import/Export,Medium,CN,0,0,0,0,0,0,Medium,4,4,
+1636,"Ray, Rios and Hart",Financial Institution,Import/Export,Medium,UK,0,0,0,0,0,0,Medium,4,4,
+1637,Randolph and Sons,NGO,Defense/Arms,High,SY,0,0,0,1,1,0.5,High,6,6,911
+1638,Petty Ltd,Financial Institution,Crypto Exchange,High,CN,0,0,0,0,0,0,High,6,6,912
+1639,Flores-Mills,Financial Institution,Tech,Low,NL,0,0,0,0,0,0,Low,2,2,
+1640,Smith Group,NGO,Defense/Arms,High,CH,0,0,0,0,1,0,High,6,6,913
+1641,Williams-Escobar,Corporate,Tech,Low,CH,0,0,0,0,0,0,Low,2,2,
+1642,Hall Ltd,Corporate,Crypto Exchange,High,SG,0,0,0,0,0,0,High,6,6,914
+1643,Miller LLC,Financial Institution,Energy/Oil,High,AU,0,0,0,0,1,0,High,6,6,915
+1644,"Garcia, Thompson and Anthony",NGO,Real Estate,Medium,FR,0,0,0,0,0,0.5,Medium,4,4,
+1645,"Lewis, Clark and Garcia",Corporate,Consulting,Low,CH,0,0,0,0,0,0,Low,2,2,
+1646,Ross-Bullock,Financial Institution,Retail,Low,AE,0,0,0,0,0,0,Low,2,2,
+1647,Christensen-Hernandez,Financial Institution,NGO/Charity,High,SY,0,0,0,1,0,0,High,6,6,916
+1648,Davila-Perez,Financial Institution,Tech,Low,UK,0,0,0,0,0,0,Low,2,2,
+1649,Walker-Rodriguez,Individual,Defense/Arms,High,FR,0,0,0,0,1,0,High,6,6,917
+1650,"Malone, Huber and Hayes",Corporate,Tech,Low,CH,0,0,0,0,0,0.5,Low,2,2,
+1651,"Wood, Reyes and Flores",Corporate,Financial Services,Medium,IN,0,0,0,0,1,1,Medium,4,4,
+1652,"Solomon, Jones and Scott",NGO,Crypto Exchange,High,SG,0,0,0,0,0,0,High,6,6,918
+1653,"Rowland, Ewing and Andrews",Financial Institution,Defense/Arms,High,IN,0,0,0,0,1,0,High,6,6,919
+1654,"Lewis, Lewis and Lynch",Financial Institution,Tech,Low,NL,0,0,0,0,0,0,Low,2,2,
+1655,"Hess, Burns and Hoffman",Individual,Import/Export,Medium,JP,0,0,0,0,0,0,Medium,4,4,
+1656,Oneal LLC,Financial Institution,Financial Services,Medium,AF,0,0,0,0,1,0,Medium,4,4,
+1657,"Moore, Williams and Miller",Financial Institution,Import/Export,Medium,AE,0,0,0,0,0,0,Medium,4,4,
+1658,Larson Ltd,NGO,Retail,Low,CA,0,0,0,0,0,0,Low,2,2,
+1659,Stevens-Clark,Corporate,NGO/Charity,High,DE,0,0,0,0,0,0,High,6,6,920
+1660,Butler-Green,NGO,Consulting,Low,RU,0,1,0,1,0,0,High,6,6,921
+1661,"White, Wu and Wright",Financial Institution,Import/Export,Medium,IR,0,0,1,1,0,0,High,6,6,922
+1662,Bryan-Wilson,Corporate,Retail,Low,SG,0,0,0,0,0,1,Medium,4,4,
+1663,Wallace-Harris,Financial Institution,Import/Export,Medium,SY,0,1,0,1,0,0,High,6,6,923
+1664,Weaver Inc,NGO,Consulting,Low,IN,0,0,0,0,0,0,Low,2,2,
+1665,"Pierce, Olson and Yoder",Corporate,Real Estate,Medium,SY,0,0,0,1,0,1,Medium,4,4,
+1666,Gonzales and Sons,Individual,Energy/Oil,High,IN,0,0,0,0,1,0,High,6,6,924
+1667,Glass PLC,NGO,Energy/Oil,High,SD,0,0,0,1,1,1,High,6,6,925
+1668,Orr LLC,Individual,Defense/Arms,High,KP,0,0,1,1,1,0,High,6,6,926
+1669,Combs Group,Financial Institution,Real Estate,Medium,CH,0,0,0,0,0,0,Medium,4,4,
+1670,Pope LLC,Individual,Consulting,Low,AE,0,0,0,0,0,0,Low,2,2,
+1671,Harrell and Sons,Corporate,Consulting,Low,CN,0,0,0,0,0,0.5,Low,2,2,
+1672,"Cooper, Barajas and Morgan",Corporate,Real Estate,Medium,IN,0,0,0,0,0,1,Medium,4,4,
+1673,"Nguyen, House and Turner",Corporate,Retail,Low,IN,0,0,0,0,0,0,Low,2,2,
+1674,"Alexander, Garcia and Matthews",Corporate,Casino/Gambling,High,RU,1,0,0,1,0,0,High,6,6,927
+1675,"Martin, Foster and Mitchell",Corporate,Consulting,Low,IR,0,0,1,1,0,0,High,6,6,928
+1676,Wilkins LLC,NGO,Tech,Low,SG,0,0,0,0,0,0.5,Low,2,2,
+1677,Perez and Sons,NGO,NGO/Charity,High,AU,0,0,0,0,0,0,High,6,6,929
+1678,Edwards-Villegas,Individual,Crypto Exchange,High,SD,0,0,0,1,0,0,High,6,6,930
+1679,"Brewer, Martinez and Perkins",Corporate,Crypto Exchange,High,FR,0,0,0,0,0,0.5,High,6,6,931
+1680,Ferguson LLC,Individual,Import/Export,Medium,LB,0,0,0,0,0,0,Medium,4,4,
+1681,Brooks Inc,Financial Institution,Import/Export,Medium,LB,0,0,0,0,0,0,Medium,4,4,
+1682,"Huffman, Jackson and Price",Individual,Financial Services,Medium,IR,0,0,1,1,1,0,High,6,6,932
+1683,Huber-Ochoa,Financial Institution,Crypto Exchange,High,KP,0,0,1,1,0,0,High,6,6,933
+1684,Hogan Inc,Financial Institution,NGO/Charity,High,RU,0,0,0,1,0,0,High,6,6,934
+1685,"Peterson, Callahan and Ellis",Financial Institution,Energy/Oil,High,VE,0,0,0,1,1,0,High,6,6,935
+1686,Santos-Tate,Corporate,NGO/Charity,High,KP,0,0,1,1,0,0,High,6,6,936
+1687,Fernandez-Adams,Corporate,Crypto Exchange,High,CH,0,0,0,0,0,0,High,6,6,937
+1688,Gibbs-Deleon,NGO,Energy/Oil,High,KP,0,0,1,1,1,0,High,6,6,938
+1689,"Foster, Daniels and Lara",Corporate,NGO/Charity,High,RU,0,0,0,1,0,0,High,6,6,939
+1690,"Holloway, Doyle and Smith",Financial Institution,Real Estate,Medium,US,1,0,0,0,0,0,High,6,6,940
+1691,"Villarreal, Villegas and Jones",Financial Institution,Tech,Low,SD,0,0,0,1,0,0,Low,2,2,
+1692,Martin-Vasquez,Corporate,NGO/Charity,High,UK,0,0,0,0,0,0,High,6,6,941
+1693,Parks Ltd,Corporate,Import/Export,Medium,DE,0,0,0,0,0,0,Medium,4,4,
+1694,Martinez-Lee,NGO,Consulting,Low,VE,0,0,0,1,0,1,Medium,4,4,
+1695,Garcia and Sons,Financial Institution,Tech,Low,UK,0,0,0,0,0,0,Low,2,2,
+1696,"Green, Spencer and Carpenter",Individual,Defense/Arms,High,UK,0,0,0,0,1,0,High,6,6,942
+1697,"Mason, Olson and Gomez",Individual,Energy/Oil,High,RU,0,0,0,1,1,0,High,6,6,943
+1698,Barber-Barnes,Individual,Retail,Low,AF,0,0,0,0,0,0,Low,2,2,
+1699,Mitchell PLC,NGO,Import/Export,Medium,SG,0,0,0,0,0,0.5,Medium,4,4,
+1700,Robinson and Sons,NGO,Financial Services,Medium,CA,0,0,0,0,1,0,Medium,4,4,
+1701,Adams-Steele,Corporate,Retail,Low,SY,0,0,0,1,0,0,Low,2,2,
+1702,Le-Ayala,Individual,Retail,Low,CH,0,1,0,0,0,0,High,6,6,944
+1703,"Garza, Diaz and Morales",Financial Institution,Crypto Exchange,High,RU,0,0,0,1,0,0,High,6,6,945
+1704,Page-Simmons,Individual,Defense/Arms,High,AE,0,0,0,0,1,0,High,6,6,946
+1705,Price Ltd,Corporate,NGO/Charity,High,SG,0,0,0,0,0,0,High,6,6,947
+1706,Johnson-Wiley,Individual,Import/Export,Medium,CN,0,1,0,0,0,0,High,6,6,948
+1707,Miller LLC,Corporate,Financial Services,Medium,LB,0,0,0,0,1,0.5,Medium,4,4,
+1708,Burton-Acosta,Individual,Real Estate,Medium,IN,1,0,0,0,0,0,High,6,6,949
+1709,Hall-Hunt,Individual,Energy/Oil,High,AU,0,0,0,0,1,0,High,6,6,950
+1710,Cohen-Allen,Financial Institution,Defense/Arms,High,LB,1,0,0,0,1,0,High,6,6,951
+1711,James-Wright,NGO,Casino/Gambling,High,RU,0,0,0,1,0,0,High,6,6,952
+1712,Flores Inc,Corporate,Crypto Exchange,High,AE,0,0,0,0,0,0,High,6,6,953
+1713,Smith-Fields,Individual,Financial Services,Medium,SY,0,0,0,1,1,0,Medium,4,4,
+1714,"Wiley, Delgado and Wells",Individual,Real Estate,Medium,CH,0,0,0,0,0,0,Medium,4,4,
+1715,Bautista-Johnson,Financial Institution,NGO/Charity,High,CA,0,0,0,0,0,0,High,6,6,954
+1716,Cruz-Powers,Corporate,Import/Export,Medium,VE,0,0,0,1,0,0,Medium,4,4,
+1717,Brooks Inc,NGO,Casino/Gambling,High,CH,1,0,0,0,0,0,High,6,6,955
+1718,Washington-Lowery,Individual,Real Estate,Medium,SG,0,0,0,0,0,0,Medium,4,4,
+1719,"Lester, Powell and Boyd",NGO,Retail,Low,SG,0,0,0,0,0,0,Low,2,2,
+1720,Green-Gordon,Corporate,Retail,Low,SD,0,0,0,1,0,0,Low,2,2,
+1721,Parks LLC,Individual,Import/Export,Medium,IN,0,0,0,0,0,0,Medium,4,4,
+1722,Scott Inc,Financial Institution,Tech,Low,AF,0,0,0,0,0,0,Low,2,2,
+1723,Griffith Ltd,Financial Institution,Financial Services,Medium,SD,0,0,0,1,1,0,Medium,4,4,
+1724,Hayes Ltd,Individual,Financial Services,Medium,IN,0,0,0,0,1,0,Medium,4,4,
+1725,Bradley Ltd,Corporate,Financial Services,Medium,SD,0,0,0,1,1,0,Medium,4,4,
+1726,"Morris, Mcknight and Reed",Individual,Casino/Gambling,High,AE,0,0,0,0,0,0,High,6,6,956
+1727,Johnson Ltd,Individual,Tech,Low,UK,0,0,0,0,0,0,Low,2,2,
+1728,"Reynolds, Fitzgerald and Gray",NGO,Casino/Gambling,High,RU,0,0,0,1,0,1,High,6,6,957
+1729,Hernandez-Greene,Individual,Import/Export,Medium,CN,0,0,0,0,0,0,Medium,4,4,
+1730,Donaldson-Clarke,NGO,Energy/Oil,High,US,1,0,0,0,1,0,High,6,6,958
+1731,Kelley-Cox,Corporate,Financial Services,Medium,UK,0,0,0,0,1,0,Medium,4,4,
+1732,Weaver and Sons,Corporate,Real Estate,Medium,IN,0,0,0,0,0,0.5,Medium,4,4,
+1733,Jones Ltd,Corporate,Financial Services,Medium,AU,0,0,0,0,1,0,Medium,4,4,
+1734,"Bauer, Farmer and Brown",Corporate,Energy/Oil,High,FR,0,0,0,0,1,1,High,6,6,959
+1735,Chandler Ltd,NGO,Defense/Arms,High,CN,0,0,0,0,1,0,High,6,6,960
+1736,Bullock PLC,Financial Institution,Import/Export,Medium,KP,0,0,1,1,0,0,High,6,6,961
+1737,Hernandez-Cabrera,Individual,Defense/Arms,High,AE,0,0,0,0,1,0,High,6,6,962
+1738,Moore PLC,Financial Institution,Consulting,Low,AE,0,0,0,0,0,0,Low,2,2,
+1739,Mcdonald-Baker,Corporate,Casino/Gambling,High,JP,0,0,0,0,0,0,High,6,6,963
+1740,Vang-Ball,Financial Institution,Import/Export,Medium,LB,0,0,0,0,0,0,Medium,4,4,
+1741,"Pacheco, Hendricks and Lyons",NGO,Casino/Gambling,High,KP,0,0,1,1,0,0,High,6,6,964
+1742,Hogan-Bradley,NGO,Consulting,Low,RU,0,0,0,1,0,0.5,Low,2,2,
+1743,Carrillo-Pope,NGO,Tech,Low,SY,0,0,0,1,0,1,Medium,4,4,
+1744,Berry-Weiss,Corporate,Real Estate,Medium,IN,0,0,0,0,0,0,Medium,4,4,
+1745,Le-Flores,Financial Institution,Crypto Exchange,High,UK,0,0,0,0,0,0,High,6,6,965
+1746,Alexander Ltd,Financial Institution,Real Estate,Medium,IR,1,0,1,1,0,0,High,6,6,966
+1747,"Herrera, Thompson and Wright",Financial Institution,Crypto Exchange,High,AE,0,0,0,0,0,0,High,6,6,967
+1748,Donaldson PLC,Financial Institution,Import/Export,Medium,LB,0,0,0,0,0,0,Medium,4,4,
+1749,"Morgan, Brown and Smith",Individual,Tech,Low,IR,0,0,1,1,0,0,High,6,6,968
+1750,Kline-Blankenship,Individual,Import/Export,Medium,FR,0,0,0,0,0,0,Medium,4,4,
+1751,"Turner, Medina and Baird",Corporate,Import/Export,Medium,CH,0,0,0,0,0,0,Medium,4,4,
+1752,Bryant-Hayes,Financial Institution,Retail,Low,SY,0,0,0,1,0,0,Low,2,2,
+1753,Scott PLC,Financial Institution,Retail,Low,AE,0,0,0,0,0,0,Low,2,2,
+1754,"Green, Burns and Ward",Individual,Tech,Low,US,0,1,0,0,0,0,High,6,6,969
+1755,Thompson-Bradley,Financial Institution,NGO/Charity,High,NL,0,0,0,0,0,0,High,6,6,970
+1756,Richardson-Richardson,Corporate,Consulting,Low,IN,0,0,0,0,0,0.5,Low,2,2,
+1757,"Wallace, Pearson and Foster",Individual,Import/Export,Medium,SY,0,0,0,1,0,0,Medium,4,4,
+1758,Wright Ltd,Financial Institution,Crypto Exchange,High,CH,0,0,0,0,0,0,High,6,6,971
+1759,Morton-Clark,Individual,Real Estate,Medium,CH,0,0,0,0,0,0,Medium,4,4,
+1760,Campbell Ltd,Financial Institution,Energy/Oil,High,DE,0,0,0,0,1,0,High,6,6,972
+1761,Singleton PLC,Corporate,Casino/Gambling,High,DE,0,0,0,0,0,0,High,6,6,973
+1762,Velasquez and Sons,Financial Institution,Financial Services,Medium,SY,0,0,0,1,1,0,Medium,4,4,
+1763,"Cardenas, Martinez and Myers",Corporate,Crypto Exchange,High,VE,0,0,0,1,0,0,High,6,6,974
+1764,Jones-Gonzales,Individual,Casino/Gambling,High,SY,0,0,0,1,0,0,High,6,6,975
+1765,"Mitchell, Johnson and Santos",Individual,Defense/Arms,High,IN,0,0,0,0,1,0,High,6,6,976
+1766,"Williams, Morales and Tran",Corporate,Financial Services,Medium,UK,0,0,0,0,1,0,Medium,4,4,
+1767,Olson-Lopez,NGO,Tech,Low,UK,0,0,0,0,0,1,Medium,4,4,
+1768,"Roberts, Martinez and Quinn",Individual,Casino/Gambling,High,IR,0,0,1,1,0,0,High,6,6,977
+1769,"Carter, Page and Martin",Corporate,Retail,Low,NL,0,0,0,0,0,1,Medium,4,4,
+1770,Wilson-Smith,Financial Institution,Defense/Arms,High,LB,0,0,0,0,1,0,High,6,6,978
+1771,"Foley, Johnson and Lucas",Financial Institution,Defense/Arms,High,AE,0,1,0,0,1,0,High,6,6,979
+1772,Davila LLC,NGO,NGO/Charity,High,CA,0,0,0,0,0,0.5,High,6,6,980
+1773,Buckley and Sons,Individual,Defense/Arms,High,AU,0,1,0,0,1,0,High,6,6,981
+1774,Brown and Sons,Corporate,Energy/Oil,High,CN,0,0,0,0,1,0,High,6,6,982
+1775,"Tucker, Green and Lutz",NGO,Real Estate,Medium,AF,0,0,0,0,0,0.5,Medium,4,4,
+1776,Wells LLC,NGO,Real Estate,Medium,US,0,0,0,0,0,0,Medium,4,4,
+1777,Spence-Walker,Individual,Tech,Low,JP,0,0,0,0,0,0,Low,2,2,
+1778,"Cochran, Stephens and Reeves",NGO,NGO/Charity,High,SG,0,0,0,0,0,0,High,6,6,983
+1779,Hawkins Ltd,Corporate,Real Estate,Medium,LB,0,1,0,0,0,0,High,6,6,984
+1780,Simpson-Molina,Individual,Consulting,Low,VE,1,0,0,1,0,0,High,6,6,985
+1781,Fisher-Jones,Corporate,Real Estate,Medium,DE,0,0,0,0,0,0,Medium,4,4,
+1782,Gomez-Huffman,NGO,Energy/Oil,High,IN,0,1,0,0,1,0,High,6,6,986
+1783,Solis-Stone,Individual,Tech,Low,IN,0,0,0,0,0,0,Low,2,2,
+1784,Blackburn and Sons,Individual,Consulting,Low,IR,0,0,1,1,0,0,High,6,6,987
+1785,Alexander-Johnson,Corporate,Energy/Oil,High,US,0,1,0,0,1,1,High,6,6,988
+1786,Reyes-Jordan,Corporate,Consulting,Low,AU,0,0,0,0,0,0.5,Low,2,2,
+1787,"Mann, Jones and Gonzalez",Financial Institution,Crypto Exchange,High,SD,0,1,0,1,0,0,High,6,6,989
+1788,Merritt LLC,Financial Institution,Import/Export,Medium,VE,0,1,0,1,0,0,High,6,6,990
+1789,Neal-Wood,NGO,Energy/Oil,High,VE,0,0,0,1,1,0,High,6,6,991
+1790,Flores PLC,Individual,Energy/Oil,High,SY,0,0,0,1,1,0,High,6,6,992
+1791,Cowan LLC,NGO,Import/Export,Medium,SY,0,0,0,1,0,0,Medium,4,4,
+1792,Bates Inc,Corporate,Real Estate,Medium,CA,0,0,0,0,0,0,Medium,4,4,
+1793,"Martinez, Smith and Adams",Corporate,Defense/Arms,High,CH,0,0,0,0,1,0.5,High,6,6,993
+1794,Owens and Sons,Individual,Tech,Low,AE,0,0,0,0,0,0,Low,2,2,
+1795,"Rodriguez, Perez and Buck",Corporate,Consulting,Low,SY,0,0,0,1,0,0,Low,2,2,
+1796,"Wright, Carroll and Solomon",Financial Institution,Casino/Gambling,High,LB,0,0,0,0,0,0,High,6,6,994
+1797,"Benjamin, Brown and Peck",Individual,Crypto Exchange,High,IR,0,0,1,1,0,0,High,6,6,995
+1798,Strong PLC,Individual,Energy/Oil,High,US,0,0,0,0,1,0,High,6,6,996
+1799,"Daugherty, Gamble and Mcconnell",NGO,Import/Export,Medium,FR,0,0,0,0,0,0,Medium,4,4,
+1800,"Reeves, Norman and Fuentes",Financial Institution,Crypto Exchange,High,IR,0,0,1,1,0,0,High,6,6,997
+1801,Beck-Jones,Financial Institution,Retail,Low,IN,0,0,0,0,0,0,Low,2,2,
+1802,Garcia-Curry,Financial Institution,Consulting,Low,LB,0,0,0,0,0,0,Low,2,2,
+1803,"Black, Salazar and Cantrell",Financial Institution,Consulting,Low,FR,0,0,0,0,0,0,Low,2,2,
+1804,"Walsh, Rogers and Jimenez",NGO,NGO/Charity,High,US,0,0,0,0,0,0,High,6,6,998
+1805,"Nunez, Roy and White",Individual,Defense/Arms,High,UK,0,0,0,0,1,0,High,6,6,999
+1806,"Lewis, Robinson and Parker",Financial Institution,Tech,Low,DE,0,0,0,0,0,0,Low,2,2,
+1807,Garza-Webster,Financial Institution,Tech,Low,VE,0,0,0,1,0,0,Low,2,2,
+1808,Turner-Carr,Financial Institution,Energy/Oil,High,JP,0,0,0,0,1,0,High,6,6,1000
+1809,"Hanson, Johnson and Simpson",Corporate,Financial Services,Medium,CH,0,0,0,0,1,0.5,Medium,4,4,
+1810,Moran-Jennings,Financial Institution,Retail,Low,CH,0,0,0,0,0,0,Low,2,2,
+1811,"Taylor, Davis and Stokes",Corporate,Retail,Low,CA,0,0,0,0,0,0,Low,2,2,
+1812,Taylor-Schneider,Corporate,Tech,Low,CH,0,0,0,0,0,0.5,Low,2,2,
+1813,Davis Group,Corporate,Tech,Low,DE,0,0,0,0,0,1,Medium,4,4,
+1814,Thomas Ltd,NGO,Crypto Exchange,High,NL,0,0,0,0,0,0.5,High,6,6,1001
+1815,Montgomery-Garcia,NGO,Defense/Arms,High,AF,1,0,0,0,1,0,High,6,6,1002
+1816,Dickson-Clark,Individual,Import/Export,Medium,JP,0,0,0,0,0,0,Medium,4,4,
+1817,Anderson Inc,Financial Institution,Retail,Low,SG,0,0,0,0,0,0,Low,2,2,
+1818,Carpenter-Collins,Corporate,Retail,Low,SD,0,0,0,1,0,0,Low,2,2,
+1819,Hamilton-Griffin,Corporate,Energy/Oil,High,RU,1,0,0,1,1,1,High,6,6,1003
+1820,Sanders-Lopez,NGO,Tech,Low,SG,0,0,0,0,0,0.5,Low,2,2,
+1821,"Hanson, Moon and Johnson",Individual,Import/Export,Medium,AU,0,0,0,0,0,0,Medium,4,4,
+1822,"Parker, Booth and Taylor",Financial Institution,Import/Export,Medium,RU,0,0,0,1,0,0,Medium,4,4,
+1823,"Brown, Taylor and Powell",Financial Institution,Defense/Arms,High,AF,1,0,0,0,1,0,High,6,6,1004
+1824,"Wallace, Perez and Morris",Individual,NGO/Charity,High,CH,0,0,0,0,0,0,High,6,6,1005
+1825,"Russell, Torres and Carlson",Financial Institution,NGO/Charity,High,LB,0,0,0,0,0,0,High,6,6,1006
+1826,Arroyo-Bailey,Financial Institution,Financial Services,Medium,RU,0,0,0,1,1,0,Medium,4,4,
+1827,"Anderson, Smith and Williams",NGO,Retail,Low,CA,0,0,0,0,0,0.5,Low,2,2,
+1828,"Stone, Sanders and Davis",Corporate,Defense/Arms,High,CN,0,0,0,0,1,0,High,6,6,1007
+1829,Estrada Ltd,Corporate,Defense/Arms,High,SY,1,0,0,1,1,0,High,6,6,1008
+1830,Mata-Farley,Financial Institution,Casino/Gambling,High,AF,0,0,0,0,0,0,High,6,6,1009
+1831,Gonzalez Ltd,NGO,Real Estate,Medium,RU,0,0,0,1,0,0,Medium,4,4,
+1832,Gomez and Sons,Corporate,Crypto Exchange,High,US,0,0,0,0,0,0.5,High,6,6,1010
+1833,"Thomas, Gamble and Stephenson",Financial Institution,Casino/Gambling,High,CN,0,0,0,0,0,0,High,6,6,1011
+1834,"Tate, Powers and Walker",Financial Institution,Energy/Oil,High,FR,0,0,0,0,1,0,High,6,6,1012
+1835,Walsh LLC,Corporate,Consulting,Low,FR,0,0,0,0,0,0.5,Low,2,2,
+1836,Wells Group,Corporate,Retail,Low,CA,0,0,0,0,0,0,Low,2,2,
+1837,"Mccullough, Young and Davidson",Individual,Real Estate,Medium,RU,0,0,0,1,0,0,Medium,4,4,
+1838,Davis Group,NGO,Casino/Gambling,High,DE,0,0,0,0,0,0,High,6,6,1013
+1839,Griffin-Garcia,Corporate,Casino/Gambling,High,US,0,0,0,0,0,0,High,6,6,1014
+1840,Dyer Ltd,Individual,Financial Services,Medium,IR,0,0,1,1,1,0,High,6,6,1015
+1841,"Molina, Walker and Simpson",Financial Institution,Crypto Exchange,High,US,0,0,0,0,0,0,High,6,6,1016
+1842,"Bennett, Payne and Mckee",Individual,Casino/Gambling,High,NL,0,0,0,0,0,0,High,6,6,1017
+1843,Marshall-Frazier,Financial Institution,Real Estate,Medium,US,0,0,0,0,0,0,Medium,4,4,
+1844,"Clark, Lyons and Beard",NGO,Crypto Exchange,High,RU,0,0,0,1,0,0,High,6,6,1018
+1845,"Harrison, Richardson and Miller",Corporate,Defense/Arms,High,DE,0,0,0,0,1,0,High,6,6,1019
+1846,Terry PLC,Individual,Financial Services,Medium,UK,1,0,0,0,1,0,High,6,6,1020
+1847,"Steele, Sanchez and Curtis",Corporate,Import/Export,Medium,FR,0,0,0,0,0,0,Medium,4,4,
+1848,Lowery-Reyes,Corporate,Tech,Low,AU,0,0,0,0,0,0,Low,2,2,
+1849,Jones-Bailey,Corporate,Retail,Low,KP,0,1,1,1,0,0,High,6,6,1021
+1850,Chambers-Bryant,Individual,Casino/Gambling,High,CN,0,0,0,0,0,0,High,6,6,1022
+1851,Anderson Ltd,NGO,NGO/Charity,High,CN,0,0,0,0,0,1,High,6,6,1023
+1852,Bryant-Williams,Individual,Real Estate,Medium,JP,0,0,0,0,0,0,Medium,4,4,
+1853,Nash Group,Financial Institution,Real Estate,Medium,VE,0,0,0,1,0,0,Medium,4,4,
+1854,Peterson-Perez,Financial Institution,Tech,Low,AF,0,0,0,0,0,0,Low,2,2,
+1855,Foster-Gonzalez,Individual,Financial Services,Medium,AE,0,0,0,0,1,0,Medium,4,4,
+1856,Thomas LLC,Individual,Financial Services,Medium,CH,0,0,0,0,1,0,Medium,4,4,
+1857,Tran LLC,Individual,Import/Export,Medium,UK,0,0,0,0,0,0,Medium,4,4,
+1858,Murphy PLC,NGO,Crypto Exchange,High,CN,0,0,0,0,0,0.5,High,6,6,1024
+1859,"Smith, Jones and Hart",Financial Institution,Energy/Oil,High,SG,0,0,0,0,1,0,High,6,6,1025
+1860,"Smith, Estrada and Knight",NGO,Tech,Low,AF,0,0,0,0,0,0,Low,2,2,
+1861,Mitchell Ltd,Financial Institution,Import/Export,Medium,JP,0,0,0,0,0,0,Medium,4,4,
+1862,Drake-Bennett,Corporate,Defense/Arms,High,FR,0,0,0,0,1,0.5,High,6,6,1026
+1863,"Hendricks, Myers and Johnson",Financial Institution,Import/Export,Medium,RU,0,0,0,1,0,0,Medium,4,4,
+1864,Shaffer-Spencer,NGO,Retail,Low,SY,0,0,0,1,0,0,Low,2,2,
+1865,Peters-Barnes,Financial Institution,Retail,Low,CH,0,0,0,0,0,0,Low,2,2,
+1866,"Moore, Garrett and Thomas",NGO,Financial Services,Medium,FR,0,0,0,0,1,1,Medium,4,4,
+1867,Murray-Stephenson,Individual,Financial Services,Medium,SG,0,0,0,0,1,0,Medium,4,4,
+1868,"Gonzales, Booth and Powell",Individual,Real Estate,Medium,AF,0,0,0,0,0,0,Medium,4,4,
+1869,Lee-Harris,Individual,Tech,Low,SD,1,0,0,1,0,0,High,6,6,1027
+1870,Green LLC,Individual,Tech,Low,KP,0,0,1,1,0,0,High,6,6,1028
+1871,"Bruce, Johns and Rodriguez",Financial Institution,NGO/Charity,High,US,0,0,0,0,0,0,High,6,6,1029
+1872,"Nolan, Jordan and Walsh",Financial Institution,Casino/Gambling,High,NL,0,0,0,0,0,0,High,6,6,1030
+1873,"Alexander, Reynolds and Adkins",NGO,NGO/Charity,High,SY,0,0,0,1,0,0,High,6,6,1031
+1874,Daniels Inc,Individual,Energy/Oil,High,FR,0,0,0,0,1,0,High,6,6,1032
+1875,"Choi, Welch and Mitchell",Corporate,Financial Services,Medium,IR,1,0,1,1,1,0,High,6,6,1033
+1876,"Young, Alvarez and Zimmerman",Individual,Retail,Low,SD,0,0,0,1,0,0,Low,2,2,
+1877,Smith-Wright,Individual,Crypto Exchange,High,VE,1,0,0,1,0,0,High,6,6,1034
+1878,Mckenzie-Humphrey,Corporate,Import/Export,Medium,JP,0,0,0,0,0,0.5,Medium,4,4,
+1879,Dixon-Butler,Corporate,Energy/Oil,High,AU,0,1,0,0,1,0,High,6,6,1035
+1880,Thompson-Jimenez,Individual,Consulting,Low,SG,0,0,0,0,0,0,Low,2,2,
+1881,Rogers-Carson,Individual,Tech,Low,SD,0,0,0,1,0,0,Low,2,2,
+1882,Ibarra-Christian,Individual,Crypto Exchange,High,DE,0,0,0,0,0,0,High,6,6,1036
+1883,"Coffey, Bailey and Jones",Corporate,Financial Services,Medium,VE,0,0,0,1,1,0,Medium,4,4,
+1884,"Cruz, Johnson and Mason",Corporate,Consulting,Low,IN,0,0,0,0,0,0,Low,2,2,
+1885,Reynolds PLC,Financial Institution,Consulting,Low,US,0,0,0,0,0,0,Low,2,2,
+1886,Richard PLC,NGO,Tech,Low,VE,0,0,0,1,0,0.5,Low,2,2,
+1887,Rogers-Martin,Corporate,Real Estate,Medium,UK,0,0,0,0,0,0,Medium,4,4,
+1888,Ramos and Sons,Individual,Tech,Low,CH,0,0,0,0,0,0,Low,2,2,
+1889,"Williams, Lara and Rodriguez",Individual,Real Estate,Medium,UK,0,0,0,0,0,0,Medium,4,4,
+1890,Jones-Martin,Financial Institution,NGO/Charity,High,CH,0,0,0,0,0,0,High,6,6,1037
+1891,Ho-Ramirez,Individual,Import/Export,Medium,CN,0,0,0,0,0,0,Medium,4,4,
+1892,"Lambert, Jackson and Wright",Corporate,Financial Services,Medium,SD,0,0,0,1,1,0,Medium,4,4,
+1893,Ford-Clay,Financial Institution,NGO/Charity,High,LB,0,0,0,0,0,0,High,6,6,1038
+1894,"Haynes, Holland and Ayala",Corporate,Retail,Low,SY,0,0,0,1,0,0,Low,2,2,
+1895,Robinson-Foster,Financial Institution,Consulting,Low,AU,0,0,0,0,0,0,Low,2,2,
+1896,"Stephens, Hoffman and Patterson",NGO,Energy/Oil,High,FR,0,0,0,0,1,0,High,6,6,1039
+1897,Cain LLC,NGO,NGO/Charity,High,US,0,0,0,0,0,0,High,6,6,1040
+1898,Villanueva-Lucero,Corporate,Defense/Arms,High,AF,0,0,0,0,1,0,High,6,6,1041
+1899,West Ltd,Corporate,Financial Services,Medium,AF,1,0,0,0,1,0,High,6,6,1042
+1900,Henderson PLC,Financial Institution,Import/Export,Medium,NL,0,0,0,0,0,0,Medium,4,4,
+1901,Williams-Rodriguez,NGO,Consulting,Low,SG,0,0,0,0,0,1,Medium,4,4,
+1902,Franklin Inc,Financial Institution,Defense/Arms,High,SY,0,0,0,1,1,0,High,6,6,1043
+1903,Nunez Ltd,Corporate,Defense/Arms,High,CH,0,0,0,0,1,0.5,High,6,6,1044
+1904,Tran-Fletcher,Individual,Retail,Low,CH,0,0,0,0,0,0,Low,2,2,
+1905,Martinez-Cooper,NGO,Tech,Low,NL,0,0,0,0,0,0,Low,2,2,
+1906,Thompson Group,Corporate,Real Estate,Medium,CH,0,0,0,0,0,0,Medium,4,4,
+1907,"Cannon, Le and Chambers",NGO,Real Estate,Medium,CN,0,0,0,0,0,1,Medium,4,4,
+1908,Yates PLC,Financial Institution,Real Estate,Medium,KP,0,0,1,1,0,0,High,6,6,1045
+1909,"Wells, Myers and Young",Individual,Defense/Arms,High,CA,0,0,0,0,1,0,High,6,6,1046
+1910,Mcclain Group,NGO,Import/Export,Medium,CH,0,0,0,0,0,0,Medium,4,4,
+1911,Flowers-Davis,Individual,Real Estate,Medium,AF,0,0,0,0,0,0,Medium,4,4,
+1912,Hart Group,Corporate,NGO/Charity,High,SG,0,0,0,0,0,0,High,6,6,1047
+1913,"Harrison, Hall and Evans",NGO,NGO/Charity,High,RU,0,0,0,1,0,0,High,6,6,1048
+1914,Farmer-Wolf,Financial Institution,Financial Services,Medium,JP,0,0,0,0,1,0,Medium,4,4,
+1915,Kramer Inc,NGO,NGO/Charity,High,KP,0,0,1,1,0,0.5,High,6,6,1049
+1916,Barker and Sons,Corporate,Casino/Gambling,High,AU,0,0,0,0,0,1,High,6,6,1050
+1917,"Conner, Watson and Francis",Individual,Casino/Gambling,High,VE,0,0,0,1,0,0,High,6,6,1051
+1918,"Mayo, Lyons and Henry",Individual,Casino/Gambling,High,AF,0,0,0,0,0,0,High,6,6,1052
+1919,English LLC,Financial Institution,Consulting,Low,DE,0,0,0,0,0,0,Low,2,2,
+1920,"Gamble, Hansen and Espinoza",Financial Institution,Financial Services,Medium,AF,0,0,0,0,1,0,Medium,4,4,
+1921,"Williams, Alvarado and Peterson",Corporate,Import/Export,Medium,KP,0,0,1,1,0,0.5,High,6,6,1053
+1922,Holloway-Logan,Financial Institution,NGO/Charity,High,AE,0,0,0,0,0,0,High,6,6,1054
+1923,"Bates, Rodriguez and Navarro",Corporate,Tech,Low,AF,0,0,0,0,0,0,Low,2,2,
+1924,"Price, Reynolds and Cole",NGO,Import/Export,Medium,FR,0,0,0,0,0,0,Medium,4,4,
+1925,Bernard-Brandt,Financial Institution,Financial Services,Medium,AF,1,0,0,0,1,0,High,6,6,1055
+1926,"Cooper, Brown and Garcia",Financial Institution,Crypto Exchange,High,AU,0,0,0,0,0,0,High,6,6,1056
+1927,Ibarra-Brennan,Corporate,NGO/Charity,High,FR,0,0,0,0,0,0,High,6,6,1057
+1928,Meadows LLC,Individual,Crypto Exchange,High,SD,0,0,0,1,0,0,High,6,6,1058
+1929,"Cruz, Duffy and Carr",Individual,Financial Services,Medium,JP,0,0,0,0,1,0,Medium,4,4,
+1930,Steele Inc,Corporate,Retail,Low,FR,1,0,0,0,0,0,High,6,6,1059
+1931,Clarke LLC,Financial Institution,Casino/Gambling,High,SG,0,0,0,0,0,0,High,6,6,1060
+1932,Fields Group,Corporate,Consulting,Low,DE,0,0,0,0,0,0.5,Low,2,2,
+1933,Romero-Horn,Financial Institution,Import/Export,Medium,IR,0,0,1,1,0,0,High,6,6,1061
+1934,"Coffey, Hudson and Gomez",Financial Institution,Defense/Arms,High,UK,0,0,0,0,1,0,High,6,6,1062
+1935,"Jennings, Rose and Sharp",Corporate,Import/Export,Medium,KP,0,0,1,1,0,0,High,6,6,1063
+1936,"Wilkins, Wells and Cunningham",Individual,Retail,Low,FR,0,0,0,0,0,0,Low,2,2,
+1937,Donovan-Nelson,Financial Institution,Import/Export,Medium,CH,0,0,0,0,0,0,Medium,4,4,
+1938,Sandoval and Sons,NGO,Real Estate,Medium,IR,0,0,1,1,0,0,High,6,6,1064
+1939,"Miller, Barry and Quinn",NGO,Financial Services,Medium,SG,0,0,0,0,1,0,Medium,4,4,
+1940,Walsh-Smith,Individual,Import/Export,Medium,CA,0,0,0,0,0,0,Medium,4,4,
+1941,"Grimes, Johnson and Miller",Corporate,Tech,Low,KP,0,0,1,1,0,0,High,6,6,1065
+1942,Russo-Crawford,NGO,Energy/Oil,High,SY,0,0,0,1,1,0,High,6,6,1066
+1943,Johnson-Mclaughlin,Financial Institution,Energy/Oil,High,UK,0,0,0,0,1,0,High,6,6,1067
+1944,"Vasquez, Jackson and Robinson",Financial Institution,Defense/Arms,High,UK,1,0,0,0,1,0,High,6,6,1068
+1945,Mccoy-Hunt,Financial Institution,Crypto Exchange,High,VE,0,0,0,1,0,0,High,6,6,1069
+1946,Little and Sons,NGO,Defense/Arms,High,JP,0,0,0,0,1,0,High,6,6,1070
+1947,Campbell Inc,Individual,NGO/Charity,High,SG,1,0,0,0,0,0,High,6,6,1071
+1948,Hardy Group,Corporate,Import/Export,Medium,UK,0,0,0,0,0,0,Medium,4,4,
+1949,Stevenson-Davis,Financial Institution,Real Estate,Medium,IR,0,0,1,1,0,0,High,6,6,1072
+1950,Franco-Coleman,NGO,Import/Export,Medium,LB,0,0,0,0,0,1,Medium,4,4,
+1951,Smith-Price,NGO,Real Estate,Medium,RU,0,0,0,1,0,0,Medium,4,4,
+1952,Guerra-Brown,NGO,Crypto Exchange,High,UK,0,0,0,0,0,0,High,6,6,1073
+1953,Benton-Frank,Financial Institution,Casino/Gambling,High,DE,0,0,0,0,0,0,High,6,6,1074
+1954,"Wallace, Mcgrath and Patrick",Individual,Real Estate,Medium,US,0,0,0,0,0,0,Medium,4,4,
+1955,"Graves, Lewis and Ruiz",Individual,Financial Services,Medium,LB,0,0,0,0,1,0,Medium,4,4,
+1956,Arias-Nunez,Financial Institution,Financial Services,Medium,UK,0,0,0,0,1,0,Medium,4,4,
+1957,"Nguyen, Benson and Anderson",NGO,Defense/Arms,High,IN,0,0,0,0,1,0,High,6,6,1075
+1958,"Kelley, Anderson and Cross",Corporate,Crypto Exchange,High,CN,0,0,0,0,0,0,High,6,6,1076
+1959,Ray Group,Corporate,Retail,Low,KP,0,0,1,1,0,1,High,6,6,1077
+1960,"Johnson, Blair and Munoz",NGO,Energy/Oil,High,AU,0,0,0,0,1,0,High,6,6,1078
+1961,Rogers PLC,Financial Institution,NGO/Charity,High,RU,0,0,0,1,0,0,High,6,6,1079
+1962,"Scott, Smith and Walker",Corporate,Defense/Arms,High,CH,0,0,0,0,1,0.5,High,6,6,1080
+1963,Beltran-Hodges,Individual,Retail,Low,US,0,0,0,0,0,0,Low,2,2,
+1964,Davis Ltd,Individual,Crypto Exchange,High,FR,0,0,0,0,0,0,High,6,6,1081
+1965,Conley Group,Corporate,Energy/Oil,High,UK,0,0,0,0,1,0,High,6,6,1082
+1966,Stewart Group,Financial Institution,Consulting,Low,AU,0,0,0,0,0,0,Low,2,2,
+1967,Williams Ltd,Corporate,NGO/Charity,High,CN,0,0,0,0,0,0,High,6,6,1083
+1968,Rodriguez-Smith,Financial Institution,Consulting,Low,FR,0,0,0,0,0,0,Low,2,2,
+1969,Montoya-Hall,Individual,Consulting,Low,JP,0,0,0,0,0,0,Low,2,2,
+1970,Cochran-Leblanc,Corporate,Consulting,Low,RU,0,0,0,1,0,0.5,Low,2,2,
+1971,Pena-Ramos,Corporate,Financial Services,Medium,VE,0,0,0,1,1,0,Medium,4,4,
+1972,Jackson and Sons,Individual,Casino/Gambling,High,US,0,0,0,0,0,0,High,6,6,1084
+1973,Brewer and Sons,Individual,Crypto Exchange,High,CN,0,0,0,0,0,0,High,6,6,1085
+1974,"Evans, Knox and Hall",Financial Institution,Casino/Gambling,High,FR,0,0,0,0,0,0,High,6,6,1086
+1975,Jimenez Group,Corporate,Casino/Gambling,High,IN,0,0,0,0,0,0.5,High,6,6,1087
+1976,Johnson Inc,Individual,Energy/Oil,High,IN,0,0,0,0,1,0,High,6,6,1088
+1977,Byrd-Mcdonald,NGO,Energy/Oil,High,VE,0,0,0,1,1,0,High,6,6,1089
+1978,"Taylor, Reynolds and Yoder",NGO,Consulting,Low,CN,0,0,0,0,0,0,Low,2,2,
+1979,Crawford and Sons,Financial Institution,Crypto Exchange,High,VE,0,0,0,1,0,0,High,6,6,1090
+1980,Vazquez-Schmidt,NGO,Financial Services,Medium,AU,0,0,0,0,1,0,Medium,4,4,
+1981,Greer-Clements,Individual,NGO/Charity,High,AF,0,0,0,0,0,0,High,6,6,1091
+1982,Perkins PLC,NGO,Import/Export,Medium,UK,0,0,0,0,0,0,Medium,4,4,
+1983,"Walters, Baker and Frank",Individual,Financial Services,Medium,SY,0,0,0,1,1,0,Medium,4,4,
+1984,Moore-Mcneil,Financial Institution,Casino/Gambling,High,CN,0,0,0,0,0,0,High,6,6,1092
+1985,Simon-Smith,NGO,Real Estate,Medium,FR,0,0,0,0,0,0.5,Medium,4,4,
+1986,White-Williams,Corporate,Energy/Oil,High,NL,0,0,0,0,1,1,High,6,6,1093
+1987,Powers Inc,Individual,Crypto Exchange,High,KP,0,0,1,1,0,0,High,6,6,1094
+1988,"Larson, Poole and Aguirre",Corporate,Retail,Low,CA,0,0,0,0,0,0,Low,2,2,
+1989,Hughes and Sons,Corporate,Consulting,Low,NL,0,0,0,0,0,0,Low,2,2,
+1990,Goodwin-Ruiz,Individual,Crypto Exchange,High,DE,0,0,0,0,0,0,High,6,6,1095
+1991,Roman PLC,Corporate,Financial Services,Medium,CA,1,0,0,0,1,0,High,6,6,1096
+1992,Yang PLC,Corporate,Casino/Gambling,High,AF,0,0,0,0,0,0,High,6,6,1097
+1993,Houston-Cross,NGO,Energy/Oil,High,VE,0,0,0,1,1,0.5,High,6,6,1098
+1994,Le PLC,NGO,Defense/Arms,High,SG,0,0,0,0,1,0,High,6,6,1099
+1995,Johnson Inc,Individual,NGO/Charity,High,CN,0,0,0,0,0,0,High,6,6,1100
+1996,Thomas-Proctor,NGO,Crypto Exchange,High,SY,0,0,0,1,0,0,High,6,6,1101
+1997,"Gibbs, Hardin and Torres",Corporate,Crypto Exchange,High,SY,0,0,0,1,0,0,High,6,6,1102
+1998,Bell LLC,Individual,Retail,Low,AF,0,0,0,0,0,0,Low,2,2,
+1999,"Davis, Romero and Hancock",Individual,Crypto Exchange,High,JP,0,0,0,0,0,0,High,6,6,1103
+2000,Booth-Wilson,NGO,Import/Export,Medium,DE,0,0,0,0,0,1,Medium,4,4,
